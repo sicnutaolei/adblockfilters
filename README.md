@@ -12,8 +12,8 @@
 
 | 规则 | 原始链接 | 加速链接 |
 |:-|:-|:-|
-| 规则1：DNS 拦截 | [原始链接](https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt) |
-| 规则2：插件拦截 | [原始链接](https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt) |
+| 规则1：DNS 拦截 | [原始链接](https://raw.githubusercontent.com/sicnutaolei/adblockfilters/main/rules/adblockdns.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/sicnutaolei/adblockfilters/main/rules/adblockdns.txt) |
+| 规则2：插件拦截 | [原始链接](https://raw.githubusercontent.com/sicnutaolei/adblockfilters/main/rules/adblockfilters.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/sicnutaolei/adblockfilters/main/rules/adblockfilters.txt) |
 ## 上游规则源
 1. 感谢各位广告过滤规则维护大佬们的辛苦付出。
 2. 继续引用[anti-AD](https://anti-ad.net/adguard.txt)、[yhosts](https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt)，具体原因见[Mosney/anti-anti-AD](https://github.com/Mosney/anti-anti-AD)。
