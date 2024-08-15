@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240815163312
-! Last modified: 2024/08/15 16:33:12
-! Blocked domains: 183206
+! Version: 20240816003356
+! Last modified: 2024/08/16 00:33:56
+! Blocked domains: 183218
 ! unBlocked domains: 148
 !
 ||www.0321356934.com^
@@ -15237,7 +15237,7 @@
 ||aprtx.com^
 ||info.aps.org^
 ||apsalar.com^
-||beacon.apsehick.date^
+||apsehick.date^
 ||apserver.net^
 ||apsis.com^
 ||static.ws.apsis.one^
@@ -52672,6 +52672,7 @@
 ||vlnted-gb.eruaia.info^
 ||erunjd.top^
 ||eruthoxup.com^
+||erutvncw.top^
 ||erv01.cc^
 ||ervi.cc^
 ||ervii.top^
@@ -58943,6 +58944,7 @@
 ||floristerialuna.com^
 ||floristgathering.com^
 ||floristxl.com^
+||floroonwhun.com^
 ||kbcmdi.florsheim.com.au^
 ||wapn1.flosports.tv^
 ||flossdiversebates.com^
@@ -68965,6 +68967,7 @@
 ||halknsvt.space^
 ||data-47ee1b0882.osnabrueck.hall-of-fame.online^
 ||data-47ee1b0882.kamp-lintfort.hall-of-fame.website^
+||hallanjerbil.com^
 ||hallantechs.com^
 ||marketing.halldale.com^
 ||halldash.com^
@@ -107436,6 +107439,7 @@
 ||navi-match.net^
 ||m.navi.com^
 ||navi1.com^
+||navi10.ru^
 ||navi100.com^
 ||navi12.com^
 ||navi18.com^
@@ -107473,6 +107477,7 @@
 ||navi66.com^
 ||navi66.ru^
 ||navi67.ru^
+||navi69.com^
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
@@ -116188,6 +116193,7 @@
 ||c.oumaite168.com.cn^
 ||v.oumaite168.com.cn^
 ||apipub.oumma.com^
+||oumnxiek.top^
 ||oumtirsu.com^
 ||xhxmhs.ounass.ae^
 ||ounceanalogous.com^
@@ -117643,6 +117649,7 @@
 ||panoramicplane.com^
 ||ads.panoramtech.net^
 ||analytic-client.panowars.com^
+||panowiesnarled.click^
 ||panoz.xyz^
 ||metric.panpacific.com^
 ||smetric.panpacific.com^
@@ -134825,6 +134832,7 @@
 ||t.rifansi.com^
 ||click.track.rifemoneyfever.com^
 ||riffgrit.boats^
+||riffingwiener.com^
 ||m.rifird.com^
 ||riflesurfing.xyz^
 ||links.riftapp.co^
@@ -143691,6 +143699,7 @@
 ||go.skillboardusa.com^
 ||zgqgig.skillbox.ru^
 ||skillcheats.com^
+||skilldicier.com^
 ||skilleadservices.com^
 ||skilledskillemergency.com^
 ||skilledtables.com^
@@ -150460,6 +150469,7 @@
 ||stagelink.supershare.com^
 ||buy-vicodin-online.supersite.fr^
 ||superslot777.bet^
+||supersloth.club^
 ||superslots-casino.online^
 ||superslots-casino.site^
 ||superslotz-cazino.site^
@@ -177014,6 +177024,7 @@
 ||wpush.biz^
 ||sw.wpushok.com^
 ||wputhonwihpa.com^
+||wpwserawnuwq.com^
 ||a8-wpxblog.secure.wpx.ne.jp^
 ||a8-wpxshin.secure.wpx.ne.jp^
 ||a8clk.wpx.ne.jp^
@@ -181549,6 +181560,7 @@
 ||zbwowo.com^
 ||zbwp6ghm.com^
 ||www.zbxcbyy.com^
+||zbysshlpgvl.com^
 ||xue.zbyw.cn^
 ||zbyynuew9g.ru^
 ||www.zbztgg.com^
