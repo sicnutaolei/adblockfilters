@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240816003356
-! Last modified: 2024/08/16 00:33:56
-! Blocked domains: 183218
+! Version: 20240816092612
+! Last modified: 2024/08/16 09:26:12
+! Blocked domains: 183224
 ! unBlocked domains: 148
 !
 ||www.0321356934.com^
@@ -1725,6 +1725,7 @@
 ||2wink.com.au^
 ||tr.nl.2wls.net^
 ||2ww.me^
+||2x1gratis.com^
 ||2x2.kz^
 ||2x2mfeed.com^
 ||2x3x.com^
@@ -4196,7 +4197,6 @@
 ||99bithcoins.com^
 ||99box.com^
 ||99cheats.com^
-||99count.com^
 ||collector-api.99designs.com^
 ||vinted-pl-gj32d.99ku.top^
 ||www.vinted-pl-gj32d.99ku.top^
@@ -38142,6 +38142,7 @@
 ||smetrics.crainsnewyork.com^
 ||crajeon.com^
 ||crakbanner.com^
+||crakedquartin.com^
 ||crakmedia.com^
 ||craktocous.com^
 ||craktraffic.com^
@@ -61790,6 +61791,7 @@
 ||m.futengbao.com.cn^
 ||futeratools.com^
 ||fhrpqp.futfanatics.com.br^
+||futharcconny.shop^
 ||futileharrystephen.com^
 ||futilepreposterous.com^
 ||futilereposerefreshments.com^
@@ -129629,10 +129631,12 @@
 ||pwxlbsie.icu^
 ||pwxtock.com^
 ||b.px-cdn.net^
+||collector-pxebumdlwe.px-cdn.net^
 ||collector-pxk3bezzfo.px-cdn.net^
 ||collector-pxrf8vapwa.px-cdn.net^
 ||collector-px12xk43jk.px-cloud.net^
 ||collector-px8fcgygk4.px-cloud.net^
+||collector-pxebumdlwe.px-cloud.net^
 ||collector-pxikkul2rm.px-cloud.net^
 ||collector-pxrf8vapwa.px-cloud.net^
 ||collector-pxu4k0s8nx.px-cloud.net^
@@ -131920,6 +131924,7 @@
 ||rastreamento.one^
 ||rastreamentosedex.org^
 ||rastrobel.com.br^
+||rasurescaribou.com^
 ||analytics.rasyotek.com.tr^
 ||ratalslibra.com^
 ||felt.ratanqiyc.site^
@@ -181279,6 +181284,7 @@
 ||zailoanoy.com^
 ||zaimads.com^
 ||zainstniale24h.click^
+||zaipousu.net^
 ||zaistnialewatki.click^
 ||zaitaku-baito.com^
 ||zajazduzenka.pl^
