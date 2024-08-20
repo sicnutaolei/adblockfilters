@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240820163440
-! Last modified: 2024/08/20 16:34:40
-! Blocked domains: 184301
+! Version: 20240821003147
+! Last modified: 2024/08/21 00:31:47
+! Blocked domains: 184314
 ! unBlocked domains: 147
 !
 ||0551huayanbdf.com^
@@ -20687,6 +20687,7 @@
 ||www.baihuillq.com^
 ||baihuwang.com^
 ||baiibuy.com^
+||baijs08.shop^
 ||baike.biz^
 ||bailala.icu^
 ||bailala.top^
@@ -48379,6 +48380,7 @@
 ||leabd.douguo.com^
 ||douhooke.net^
 ||smetrics.doujinshi-print.com^
+||doujs08.shop^
 ||doukekan.cn^
 ||doukoula.com^
 ||doumaibiji.cn^
@@ -100226,6 +100228,17 @@
 ||stat-c.maxthon.com^
 ||vip.maxtor.com^
 ||maxtrade.site^
+||cac.maxtradefx.info^
+||coc.maxtradefx.info^
+||coi.maxtradefx.info^
+||gou.maxtradefx.info^
+||koli.maxtradefx.info^
+||news.maxtradefx.info^
+||ppll.maxtradefx.info^
+||twes.maxtradefx.info^
+||uoiu.maxtradefx.info^
+||wew.maxtradefx.info^
+||xert.maxtradefx.info^
 ||maxtraffic.com^
 ||maxtrust.ru^
 ||maxucc77.top^
