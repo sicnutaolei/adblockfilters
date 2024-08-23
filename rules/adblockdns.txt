@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240823003632
-! Last modified: 2024/08/23 00:36:32
-! Blocked domains: 171283
+! Version: 20240823092639
+! Last modified: 2024/08/23 09:26:39
+! Blocked domains: 171294
 ! unBlocked domains: 146
 !
 ||01045395.xyz^
@@ -11586,6 +11586,7 @@
 ||alyssabelen.com^
 ||alysson.de^
 ||logapi.alza.cz^
+||measuring-pixel-service.alza.cz^
 ||a.alzcombocare.com^
 ||alzexa.com^
 ||alzubairicorp.com^
@@ -11871,6 +11872,7 @@
 ||ambuizeler.com^
 ||ambushharmlessalmost.com^
 ||ambystech.com^
+||ambyverce.com^
 ||amcclothes.com^
 ||amcdn.vn^
 ||amcleanbookmakers.com^
@@ -29642,6 +29644,7 @@
 ||info.bvcm.nl^
 ||bvcsfcx.com^
 ||bvct-disha.org^
+||bvdenx.xyz^
 ||corporatecommunications.bvifsc.vg^
 ||bvl5bziz9d.ru^
 ||bvmcdn.com^
@@ -32962,7 +32965,6 @@
 ||chatchu.jp^
 ||track.chateauberne-vin.com^
 ||oms.chatelaine.com^
-||ab.chatgpt.com^
 ||access.chathamfinancial.com^
 ||s.chatie.ai^
 ||chatigabe.com^
@@ -43675,6 +43677,7 @@
 ||demoify.com^
 ||demolishforbidhonorable.com^
 ||demolishskyscrapersharp.com^
+||online3.demolistesi.com^
 ||demolitiontiger.com^
 ||bio.demomarketi.com^
 ||www.bio.demomarketi.com^
@@ -45762,7 +45765,6 @@
 ||discussedirrelevant.com^
 ||discussedpliant.com^
 ||discussingmaze.com^
-||data.discuz.mobi^
 ||disdainsneeze.com^
 ||diseaseexternal.com^
 ||diseaseplaitrye.com^
@@ -49242,6 +49244,7 @@
 ||eabelats.site^
 ||eabithecon.xyz^
 ||eac0823ca94e3c07.com^
+||eacdf119.cn^
 ||eacdn.com^
 ||eacfiii.com^
 ||eachiv.com^
@@ -52569,6 +52572,7 @@
 ||www2.eoilreports.com^
 ||eolcdn.com^
 ||eole-passion.com^
+||5-157-110-232.dyn.eolo.it^
 ||eolx.pl^
 ||eom-nv.com^
 ||mail.eomega.com^
@@ -57499,8 +57503,6 @@
 ||fileisready.com^
 ||filelandworld.com^
 ||filelinking.com^
-||2007.filemail.com^
-||2025.filemail.com^
 ||content.filemaker.com^
 ||metrics.filemaker.com^
 ||smetrics.filemaker.com^
@@ -71172,6 +71174,8 @@
 ||service.hollandcasino.nl^
 ||hollandreporter.com^
 ||hollidz.com^
+||impact.holliestea.com^
+||miraz.holliestea.com^
 ||collect.hollisterco.com^
 ||metrics.hollisterco.com^
 ||smetrics.hollisterco.com^
@@ -76808,7 +76812,7 @@
 ||data-87c1de682f.ingolstadt.de^
 ||ingomedia.store^
 ||get.ingomoney.com^
-||www.ingonherbal.com^
+||ingonherbal.com^
 ||ingotedbooze.com^
 ||ingotheremplo.info^
 ||ingpost-pl.top^
@@ -80319,6 +80323,7 @@
 ||marketing.jagransolutions.com^
 ||images.fanservices.jaguars.com^
 ||jah-store.com^
+||jahez.me^
 ||jahitonline.com^
 ||jahn.live^
 ||metric.jahnreisen.de^
@@ -88212,7 +88217,6 @@
 ||lapnicjaqxu.com^
 ||protection.lapolice.com^
 ||lapoo.net^
-||laposte-fr.network^
 ||laposte.one^
 ||lapowed.com^
 ||fsm.lapresse.ca^
@@ -101467,6 +101471,7 @@
 ||mrjackpotspins.com^
 ||mrjb7hvcks.com^
 ||br.ac.mrjet.se^
+||sks.mrkhub.com^
 ||oylyaz.mrkoll.se^
 ||mrlscr.com^
 ||fpptmv.mrmarvis.co.uk^
@@ -110143,7 +110148,6 @@
 ||wvw.omnicable.com^
 ||refwkk.omnicalculator.com^
 ||omnicleaningservices.com^
-||omnicomm-ural.ru^
 ||omniconvert.com^
 ||omnidokingon.com^
 ||marketing.omnifymarketing.com^
@@ -113324,6 +113328,7 @@
 ||palaceperk.world^
 ||palacio-leiloeiro.com^
 ||content.paladion.net^
+||palaesavgs.com^
 ||palakahone.com^
 ||palama2.co^
 ||palama2.com^
@@ -118225,7 +118230,7 @@
 ||wywiad.polinvst.com^
 ||upsecure.poliones.shop^
 ||www.upsecure.poliones.shop^
-||www.polipastosmexico.com.mx^
+||polipastosmexico.com.mx^
 ||poliseat.website^
 ||polish-money-matters.blogspot.com^
 ||polish-post.cc^
@@ -121076,6 +121081,7 @@
 ||bobcat.pronounce.technology^
 ||pronouncedgetawayetiquette.com^
 ||pronounconsternationspotlight.com^
+||plausible.pronouns.cc^
 ||prontoadd.com^
 ||prontoalimento.com.py^
 ||prontocampaign.com^
@@ -123269,6 +123275,7 @@
 ||www.1s6.qfxa4n8.ru^
 ||qgevavwyafjf.com^
 ||qgexkmi.com^
+||qgf338jtt8tty7rx.myfritz.net^
 ||cdn.qgr.ph^
 ||cdn.qgraph.io^
 ||sdk.api.qgraph.io^
@@ -133017,6 +133024,7 @@
 ||assets2.shannons.com.au^
 ||metrics.shannons.com.au^
 ||tracker.shanon-services.com^
+||webwidget.shanon-services.com^
 ||a8.smp.shanon.co.jp^
 ||shanorin.com^
 ||shanscasino1.ru^
@@ -140997,6 +141005,7 @@
 ||subcompleteness.info^
 ||subconcave.life^
 ||subdatejutties.com^
+||umami.subdavis.com^
 ||subduealec.com^
 ||subduedgrainchip.com^
 ||subduegrape.com^
@@ -144811,6 +144820,7 @@
 ||web.tegus.com^
 ||nos.tegzy.com^
 ||stats.tehila.gov.il^
+||tehxzz.xyz^
 ||teiegeram.com^
 ||web.teiegrem.org^
 ||fkmzox.teinei.co.jp^
@@ -144883,7 +144893,6 @@
 ||news.telecom.com.fj^
 ||survey.telecom.com.fj^
 ||novedades.telecomfibercorp.com.ar^
-||host-195-103-203-106.business.telecomitalia.it^
 ||host-95-255-114-11.business.telecomitalia.it^
 ||ea.telecommandeonline.com^
 ||read.telecoms.com^
@@ -157105,7 +157114,6 @@
 ||go.vbrick.com^
 ||vbrusdiifpfd.com^
 ||vbs-tech.com^
-||vbt.io^
 ||vbtrax.com^
 ||vbtrst.info^
 ||vbtrst.pro^
@@ -163441,6 +163449,7 @@
 ||wfodwkk.com^
 ||wfpjeul.cn^
 ||wfredir.net^
+||wfsmya.xyz^
 ||a135.wftv.com^
 ||wftyehw.cn^
 ||wfuossjholw.com^
@@ -169417,6 +169426,7 @@
 ||zajukrib.net^
 ||zakablowanie.click^
 ||zakalodr.site^
+||zakariya-ayt-amran.github.io^
 ||go.zakatpedia.com^
 ||zakaznoy.com.ua^
 ||zwgoeg.zakcret.gr^
@@ -170631,6 +170641,7 @@
 ||zonewedgeshaft.com^
 ||h5log.zongheng.com^
 ||log.zongheng.com^
+||static.zongheng.com^
 ||zongzuhulian.com^
 ||partner.zonky.cz^
 ||tsbmkf.zonnebrillen.com^
