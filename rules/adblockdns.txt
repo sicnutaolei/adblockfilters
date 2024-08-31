@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240831163436
-! Last modified: 2024/08/31 16:34:36
-! Blocked domains: 178490
+! Version: 20240901003328
+! Last modified: 2024/09/01 00:33:28
+! Blocked domains: 178514
 ! unBlocked domains: 148
 !
 ||053h94.com^
@@ -4746,6 +4746,7 @@
 ||acidpigs.com^
 ||acidprolific.com^
 ||marketing.acieu.net^
+||manhua.acimg.cn^
 ||acimo.com^
 ||images.mkt.acindar.com.ar^
 ||acint.net^
@@ -17816,6 +17817,7 @@
 ||baichuan.baidu.com^
 ||baifen.music.baidu.com^
 ||bar.baidu.com^
+||bgg.baidu.com^
 ||browserkernel.baidu.com^
 ||bzclk.baidu.com^
 ||c.baidu.com^
@@ -29688,6 +29690,7 @@
 ||captureleaderdigestion.com^
 ||capturly.com^
 ||capwilyunseen.com^
+||caqreg.xyz^
 ||a8clk.car-mo.jp^
 ||car-na.jp^
 ||metrics.car.com^
@@ -32260,6 +32263,7 @@
 ||chonburiall.com^
 ||chongyayakk.xyz^
 ||choocmailt.com^
+||choocmee.com^
 ||choogeet.net^
 ||vkbvny.chookjenews.kr^
 ||a8.choomia.com^
@@ -61264,6 +61268,7 @@
 ||g12281228770.co^
 ||yyhijp.g123.jp^
 ||g1584674682.co^
+||g1584674684.co^
 ||g1782759015.co^
 ||g1782759016.co^
 ||g1980843350.co^
@@ -75192,6 +75197,7 @@
 ||learn.infinitylearn.com^
 ||pod.infinitypersonals.com^
 ||infinitypixel.online^
+||no88kks.infinityscans.net^
 ||ok88okg.infinityscans.net^
 ||infinityserve.life^
 ||infinitytweet.com^
@@ -79039,6 +79045,7 @@
 ||soft.jiegeng.com^
 ||jiehunmishu.com^
 ||ad.jiemian.com^
+||api.jietuhb.com^
 ||jiezoiq.cn^
 ||jifenqiang.com^
 ||jifflebreasts.com^
@@ -83011,6 +83018,8 @@
 ||kkm.org.in^
 ||kkmacsqsbf.info^
 ||a8cv.kkmatsusho.jp^
+||houyi.kkmh.com^
+||ipv4.kkmh.com^
 ||kkmsa.top^
 ||pixel.kknews.cc^
 ||stat.kkpp.cz^
@@ -88894,6 +88903,7 @@
 ||llertas.xyz^
 ||llink.site^
 ||click.lllovers.uk^
+||lllshkre.com^
 ||llmxt.fun^
 ||llnw.net^
 ||abbott.vo.llnwd.net^
@@ -101956,11 +101966,14 @@
 ||myq-see.com^
 ||myqaipostpl.top^
 ||12551-1311572332.cos.ap-shanghai.myqcloud.com^
+||16dd-advertise-1252317822.file.myqcloud.com^
+||16dd-advertise-1252317822.image.myqcloud.com^
 ||2g312kn32qfy-1323053341.cos.ap-bangkok.myqcloud.com^
 ||3n29aja4ptxit-1324239560.cos.ap-mumbai.myqcloud.com^
 ||ad-1258444056.cos.accelerate.myqcloud.com^
 ||adstore-1252524079.file.myqcloud.com^
 ||adstore-index-1252524079.file.myqcloud.com^
+||bossaudioandcomic-1252317822.image.myqcloud.com^
 ||cndjs-1251973891.coshk.myqcloud.com^
 ||dianying-1304791696.cos.ap-shanghai.myqcloud.com^
 ||donerightlaw-1322273052.cos.sa-saopaulo.myqcloud.com^
@@ -114381,6 +114394,7 @@
 ||imgad0.pconline.com.cn^
 ||ivy.pconline.com.cn^
 ||smetrics.pcoptimum.ca^
+||sp.pcoptimum.ca^
 ||ups.pcosts.com^
 ||www.ups.pcosts.com^
 ||emcnitoring.pcozta-polska.cc^
@@ -116954,6 +116968,7 @@
 ||plasmaclap.click^
 ||plasmahaul.pro^
 ||plasmatv4free.com^
+||analytics.plasmic.app^
 ||plastercreatedexpansion.com^
 ||data-6357c1903a.plasteurope.com^
 ||plastic.hair^
@@ -125091,6 +125106,7 @@
 ||qicyhaequu.live^
 ||cj.qidian.com^
 ||game.qidian.com^
+||magev6.if.qidian.com^
 ||path.qidian.com^
 ||qdp.qidian.com^
 ||uedas.qidian.com^
@@ -125366,6 +125382,7 @@
 ||safebrowsing.urlsec.qq.com^
 ||sdkconfig.video.qq.com^
 ||setting.snswin.qq.com^
+||snowflake.qq.com^
 ||stat.y.qq.com^
 ||tdid.m.qq.com^
 ||tgw-masdk.3g.qq.com^
@@ -162749,6 +162766,8 @@
 ||v333w.com^
 ||ads.v3exchange.com^
 ||v3lv3tcr3am.xyz^
+||ad.v3mh.com^
+||ads.v3mh.com^
 ||v44e.com^
 ||v4download.com^
 ||v4g.cn^
@@ -164281,6 +164300,7 @@
 ||vib-tindung.online^
 ||matomo.vibb.ax^
 ||wssgmstats.vibbo.com^
+||s.vibe.co^
 ||join.vibely.io^
 ||ads.viber.com^
 ||ads-d.viber.com^
@@ -172794,6 +172814,7 @@
 ||wtwoimmiescie.click^
 ||wtynalolraz.com^
 ||cdn-ad.wtzw.com^
+||xiaoshuo.wtzw.com^
 ||westernunion-pl.wu-ref.online^
 ||www.westernunion-pl.wu-ref.online^
 ||go.wu.com^
@@ -176686,7 +176707,7 @@
 ||zaradnedane.click^
 ||zaralandclub.com^
 ||zarame.uno^
-||st.zarebasdezaley.com^
+||zarebasdezaley.com^
 ||zariumhb.com^
 ||zarobek4u.com^
 ||photo.zarobuv.xyz^
@@ -177232,6 +177253,8 @@
 ||ad.zhangyue.com^
 ||push.zhangyue.com^
 ||sys.zhangyue.com^
+||saad.ms.zhangyue.net^
+||smad.ms.zhangyue.net^
 ||bookbk.img.zhangyue01.com^
 ||zhangyunxiawinner.top^
 ||zhantai.com^
@@ -177624,6 +177647,7 @@
 ||zmrrjyyeqaozq.top^
 ||zmtradinginc.com^
 ||zmwbrza.com^
+||zmysashrep.com^
 ||zmyslonaprawda.click^
 ||zmyslowyklub.com^
 ||znajdujemyposzlaki.click^
