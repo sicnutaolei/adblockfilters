@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240904003555
-! Last modified: 2024/09/04 00:35:55
-! Blocked domains: 176209
+! Version: 20240904093117
+! Last modified: 2024/09/04 09:31:17
+! Blocked domains: 176251
 ! unBlocked domains: 149
 !
 ||oolx.021548521.xyz^
@@ -203,6 +203,7 @@
 ||inpost-pl.10002.xyz^
 ||lnpost.10002.xyz^
 ||1000dy.com^
+||1000fapvids.online^
 ||awrgkd.1000farmacie.it^
 ||1000lashes.com^
 ||1000mercis.com^
@@ -3423,6 +3424,7 @@
 ||890x.com^
 ||f0e0350829.891a559827.com^
 ||x.892155.com^
+||89263907.xyz^
 ||89407765.xyz^
 ||www.895057.com^
 ||12a472c2af.8966cbfc9b.com^
@@ -4943,6 +4945,7 @@
 ||acobot.ai^
 ||acofrnsr44es3954b.com^
 ||info.acoginsurance.com^
+||acolousmicast.com^
 ||tr.mp.aconclue-business.fr^
 ||tr.mp.aconclue-entreprise.fr^
 ||tr.mp.aconclue-pro.com^
@@ -9032,6 +9035,7 @@
 ||salesandmarketing.aitcfis.com^
 ||web.info.aiteca.it^
 ||aitmovie.com^
+||aitoocoo.xyz^
 ||aitsouty.top^
 ||ads.aitype.net^
 ||app.response.aiu.edu.au^
@@ -14595,6 +14599,7 @@
 ||aprtx.com^
 ||info.aps.org^
 ||apsalar.com^
+||beacon.apsehick.date^
 ||apserver.net^
 ||apsgwl.in^
 ||apsis.com^
@@ -20344,6 +20349,7 @@
 ||batmobile.com.tw^
 ||batnamento.xyz^
 ||batoncorp.com^
+||batonferie.com^
 ||batonrougereporter.com^
 ||batontrinity.shop^
 ||batrrriecs.site^
@@ -25036,6 +25042,7 @@
 ||blankgrey.com^
 ||blanpostrzan.top^
 ||blareclockwisebead.com^
+||blarnydines.com^
 ||blast-event.com^
 ||blast4traffic.com^
 ||blastadoptedlink.com^
@@ -31564,6 +31571,7 @@
 ||carreoargentnio.com^
 ||sadbmetrics.carreraempresas.com^
 ||carreuto.com^
+||carriedamiral.com^
 ||coremetrics.carrier.com^
 ||connect.carrier.com.ph^
 ||carrierdestined.com^
@@ -34220,6 +34228,7 @@
 ||childhoodstudioconversation.com^
 ||childhoodtilt.com^
 ||childishenough.com^
+||childlessporcupinevaluables.com^
 ||childlikecrowd.com^
 ||childlikeexample.com^
 ||childlikeform.com^
@@ -40894,6 +40903,7 @@
 ||www.csalikft.hu^
 ||sgtm.csas.cz^
 ||csbew.com^
+||csbo.shop^
 ||csbtd.com^
 ||app.go.csc.com^
 ||app.your.csc.com^
@@ -46751,6 +46761,7 @@
 ||divsly.com^
 ||info.divurgent.com^
 ||aknzmq.divvino.com.br^
+||divvyprorata.com^
 ||divx.it^
 ||divxrj.xyz^
 ||diwapa3051.wixsite.com^
@@ -47504,6 +47515,7 @@
 ||domian-turnstile-52498.pages.dev^
 ||domicileperil.com^
 ||domicilereduction.com^
+||dominaeusques.com^
 ||dominantcodes.com^
 ||tracking.dominanteladies.de^
 ||dominantroute.com^
@@ -53644,6 +53656,7 @@
 ||analytics.evehome.com^
 ||eulerian.eveiletjeux.com^
 ||eveitoki.com^
+||evejartaal.com^
 ||evelanda.com^
 ||gbs8.evelop.com^
 ||tbz5.evelop.com^
@@ -61605,6 +61618,7 @@
 ||metrics.apps.ge.com^
 ||smetrics.apps.ge.com^
 ||ge1.ca^
+||ge3shbdf1.fun^
 ||data-05c346d0b0.gea.de^
 ||secureclicks.geae.com^
 ||geakr.com^
@@ -61999,6 +62013,7 @@
 ||geryzaycoe.live^
 ||gesanbarrat.com^
 ||gesas.it^
+||gesdxashb1.fun^
 ||turtle.geshem.space^
 ||gesrg.com^
 ||gestama.boats^
@@ -62737,6 +62752,7 @@
 ||msnsearch.srv.girafa.com^
 ||giraff.io^
 ||giraffepiano.com^
+||giraingoats.net^
 ||girdleunfamiliartraffic.com^
 ||giredo.com^
 ||girlbuffalo.com^
@@ -65999,6 +66015,7 @@
 ||gypowdr.com^
 ||gypperywyling.com^
 ||gypsiedjilt.com^
+||gypsitenevi.com^
 ||gypsyrysmarter.com^
 ||gyqifa.com^
 ||ns.gyreneverist.com^
@@ -69214,6 +69231,7 @@
 ||track-mail.homage.co^
 ||send.homage.com^
 ||home-22-time.com^
+||home-arabia.com^
 ||home-hint.pl^
 ||marketing.home-inspection-franchise-opportunity.com^
 ||home-outlet.pl^
@@ -71808,6 +71826,7 @@
 ||push.ictsd.org^
 ||icubeswire.co^
 ||icubeswire.com^
+||icudqq.xyz^
 ||iculture.report^
 ||icvsleec.xyz^
 ||go.icwgroup.com^
@@ -72215,6 +72234,7 @@
 ||prebid.ifunny.co^
 ||prebid-cache.ifunny.co^
 ||ifvox.com^
+||ifxqubw.icu^
 ||smetrics.ig.ca^
 ||ig.ig.com^
 ||sig.ig.com^
@@ -76366,6 +76386,7 @@
 ||ipuswrg.cn^
 ||v6exp3-ds.metric.ipv6test.net^
 ||ipva-parana.com^
+||ipvertnet.com^
 ||ipvision-lab.com^
 ||ipzd.pl^
 ||land.iq-life.site^
@@ -79319,6 +79340,7 @@
 ||analytics.jibecdn.com^
 ||jiblio.com^
 ||ad.jibunde-esute.com^
+||jicamadoless.com^
 ||jicjames.com^
 ||jickajogxkwer.life^
 ||jiclzori.com^
@@ -83211,6 +83233,7 @@
 ||content2.kieskeurig.nl^
 ||log.kieskeurig.nl^
 ||kiesta.net^
+||kiestercentry.com^
 ||kifdngi.com^
 ||kifortequimica.com.br^
 ||pl.kifybaa1.monster^
@@ -97409,6 +97432,7 @@
 ||mining711.com^
 ||miningblack.net^
 ||miningco.site^
+||miningpror.top^
 ||servedby.miningweekly.com^
 ||static.miningweekly.com^
 ||miningzhizhong.top^
@@ -98835,6 +98859,7 @@
 ||mmomo.me^
 ||click.mmotoplay.com^
 ||mmotraffic.com^
+||mmpgultziojbcw.com^
 ||mmpool.org^
 ||mmptrack.com^
 ||mmqvujl.com^
@@ -103943,6 +103968,7 @@
 ||navi12.com^
 ||navi18.com^
 ||navi2.com^
+||navi2.ru^
 ||navi20.com^
 ||navi20.ru^
 ||navi21.com^
@@ -103983,7 +104009,9 @@
 ||navi78.ru^
 ||navi8.com^
 ||navi88.com^
+||navi91.ru^
 ||navi94.com^
+||navi95.ru^
 ||navi99.com^
 ||vinted-polska-rr124.navia.top^
 ||www.vinted-polska-rr124.navia.top^
@@ -108014,6 +108042,7 @@
 ||target.nrma.com.au^
 ||trk.nrn.com^
 ||nrnma.com^
+||nrqjoxar.com^
 ||www.nrrmmr.com^
 ||nrs6ffl9w.com^
 ||sfpd.nrsgroup.co.jp^
@@ -108039,6 +108068,7 @@
 ||marketing.nsfocus.com^
 ||marketing.nsfocusglobal.com^
 ||marketing.nsford.com^
+||nsfsfn.xyz^
 ||nsfwadds.com^
 ||nsfxaffiliates.com^
 ||email.nshss.org^
@@ -109609,6 +109639,7 @@
 ||ofzate.live^
 ||ofzzuqlfuof.com^
 ||og-affiliate.com^
+||ogads-pa.googleapis.com^
 ||a8cv.ogaland.com^
 ||ogclick.com^
 ||ads.ogdenpubs.com^
@@ -113700,6 +113731,7 @@
 ||info.paint-booths.com^
 ||paintandburn.com^
 ||paintednarra.top^
+||paintejuke.com^
 ||painting-planet.com^
 ||offer.paintlyshopnow.com^
 ||paintmagickitchens.com^
@@ -115348,6 +115380,7 @@
 ||peer39.com^
 ||peer39.net^
 ||marketing.peerapp.com^
+||peerdomatop.click^
 ||peeredfoggy.com^
 ||peeredgerman.com^
 ||peeredplanned.com^
@@ -129269,7 +129302,6 @@
 ||wvzddr.quirumed.com^
 ||quisma.com^
 ||to.quit.guru^
-||quitasueno.com^
 ||quitepoet.com^
 ||quitesousefulhe.info^
 ||quitjav11.fun^
@@ -130142,7 +130174,7 @@
 ||ranabreast.com^
 ||ranagaend.com^
 ||ranch-1and.com^
-||fp.rancheparsnip.com^
+||rancheparsnip.com^
 ||ranchoboscardin.com.br^
 ||activate.ranchosantafereview.com^
 ||ranchreives.click^
@@ -153672,6 +153704,7 @@
 ||tesm.tesxappes.top^
 ||tesx.tesxappes.top^
 ||tradpl.tesxappes.top^
+||tetelsillers.com^
 ||smetrics.tetheredtoptsd.com^
 ||aff.teticka.cz^
 ||tetigi.com^
@@ -156511,7 +156544,7 @@
 ||tltmjevd.xyz^
 ||tlvmedia.com^
 ||tlxjuj.com^
-||feliz.data.tm-awx.com^
+||data.tm-awx.com^
 ||reach-id.orbit.tm-awx.com^
 ||tm-core.net^
 ||webanalytics.tm00.com^
@@ -161217,6 +161250,7 @@
 ||unexplained.news^
 ||go.unexplored-revelation.com^
 ||in.unext.jp^
+||unfairgenelullaby.com^
 ||unfairpromritual.com^
 ||unfaithfulgoddess.com^
 ||unfhxszj.xyz^
@@ -167026,6 +167060,7 @@
 ||vvobtrjtinsd.com^
 ||vvshopee.com^
 ||vvtadblk.online^
+||vvttpn.xyz^
 ||bu1.vvvdj.com^
 ||vvvljeqasz.com^
 ||vvvvw-icloud.com^
@@ -167756,6 +167791,7 @@
 ||click.watchjmp.com^
 ||watchmanyachtmatch.com^
 ||watchmarinerflint.com^
+||watchmark.shop^
 ||watchmeplayandlearn.com^
 ||watchmovieshd.co^
 ||watchmygf.com^
@@ -168851,6 +168887,7 @@
 ||lrhyty.weeronline.nl^
 ||weethery.com^
 ||weevah2.top^
+||weeweesozoned.com^
 ||weewhaik.com^
 ||servicemms.weezbe.com^
 ||data-collector.wefi.com^
@@ -169291,6 +169328,7 @@
 ||wfdesigngroup.com^
 ||wffbdim.com^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
+||wfijsc.xyz^
 ||c1.wfinterface.com^
 ||tr.secretary.wfitn.org^
 ||axp.wfla.com^
@@ -169631,6 +169669,7 @@
 ||bxumze.wickedlocal.com^
 ||wickedoutrage.com^
 ||wickedreports.com^
+||wicopymastery.com^
 ||widaimty.com^
 ||widdit.com^
 ||wideads.com^
@@ -173291,6 +173330,7 @@
 ||ychv8p3i5.com^
 ||yckamq.xyz^
 ||yclawcollegepune.org^
+||ycleptbathing.com^
 ||ycmedia.cn^
 ||ycmgeb.icu^
 ||phog.ycombinator.com^
@@ -173621,6 +173661,7 @@
 ||yitongwl.cn^
 ||info.yitsoftware.com^
 ||yivkzvog.xyz^
+||yiwckti.icu^
 ||yiwk.com^
 ||a.yixie8.com^
 ||ad.yixin.im^
@@ -174880,6 +174921,7 @@
 ||banners.zbs.ru^
 ||zbtlgd.com^
 ||partneri.zburnik.cz^
+||zbvpfsorrl.com^
 ||zbwowo.com^
 ||zbwp6ghm.com^
 ||www.zbxcbyy.com^
