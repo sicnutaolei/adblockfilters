@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240905003401
-! Last modified: 2024/09/05 00:34:01
-! Blocked domains: 184603
+! Version: 20240905093038
+! Last modified: 2024/09/05 09:30:38
+! Blocked domains: 184634
 ! unBlocked domains: 149
 !
 ||03129.cfd^
@@ -566,6 +566,7 @@
 ||15752525.xyz^
 ||157win.com^
 ||158779.com^
+||1588341617.rsc.cdn77.org^
 ||1588aa.com^
 ||158aq.com^
 ||15cacaospice63nhdk.com^
@@ -9959,6 +9960,7 @@
 ||ahpengjie.com^
 ||ahporntube.com^
 ||ahpphkc.xyz^
+||ahqovxli.com^
 ||spt.ahram.org.eg^
 ||analytics.ahrefs.com^
 ||ahscdn.com^
@@ -13847,7 +13849,7 @@
 ||ansheavymachinery.com^
 ||elq.ansible.com^
 ||smetrics.ansible.com^
-||ap.ansilumbar.com^
+||ansilumbar.com^
 ||ansontou.com^
 ||ansposte.shop^
 ||anspostes.shop^
@@ -17760,6 +17762,7 @@
 ||asterrakionor.com^
 ||astesnlyno.org^
 ||astespurra.com^
+||plausible.astexplorer.net^
 ||astgomoy.xyz^
 ||asthepoityelth.com^
 ||astinkertrk.com^
@@ -20718,7 +20721,7 @@
 ||bactatank17.com^
 ||bacteriaroar.info^
 ||bacty88.com^
-||br.baculatowser.com^
+||baculatowser.com^
 ||vinted-pl-gj32d.bacuo.top^
 ||www.vinted-pl-gj32d.bacuo.top^
 ||trk.bad-tool-tell-doubt.xyz^
@@ -20777,6 +20780,7 @@
 ||bafflecouriernoble.com^
 ||spoluprace.bafoo.cz^
 ||adserver.bafrahaber.com^
+||bafybeicnmx2fcaolinpdaiqjo7hgsourg3qzaxf57psdrbqic4qrm4pf3i.ipfs.dweb.link^
 ||bafybeicoo7kwhmnl6q7prd65aimf5byzrihrklgviebm2pkyzyepdaigf4.ipfs.dweb.link^
 ||bafybeidzp4sgidm4rvsc32fofkhbz5bdotbekov4mnwzejakvnzhhohysa.ipfs.dweb.link^
 ||bafybeiexjty7qmufu5jvbyln5ce5mue2lqw2htafc3api4wwsefxet5k54.ipfs.dweb.link^
@@ -31728,6 +31732,7 @@
 ||captainad.com^
 ||captainbicycle.com^
 ||go.captainofallseas.com^
+||captcha.webredirect.org^
 ||captchafine.live^
 ||captcharesolving-universe.com^
 ||ct.capterra.com^
@@ -35195,6 +35200,7 @@
 ||chrolal.com^
 ||marketing.chromachecker.com^
 ||chrome-web.com^
+||chrome.webredirect.org^
 ||chromeweb-authenticators.com^
 ||chromeweb-authenticatr.com^
 ||chron-telefon.com^
@@ -35271,7 +35277,7 @@
 ||chumsaft.com^
 ||chumsline.jp^
 ||chumukedimatambola28.com^
-||eq.chunderrepiner.com^
+||chunderrepiner.com^
 ||chunfuxie.cn^
 ||chunkycactus.com^
 ||chunmiaosh.com^
@@ -36741,6 +36747,7 @@
 ||banners.clips4sale.com^
 ||events.clips4sale.com^
 ||n.clips4sale.com^
+||n2.clips4sale.com^
 ||clipsgraph.com^
 ||content.clipster.ws^
 ||clipxn.com^
@@ -38166,6 +38173,7 @@
 ||coinshunt.com^
 ||coinsifu.com^
 ||ciw.coinsincreasewealth.com^
+||coinsmanning.com^
 ||coinspokemongo.com^
 ||coinsportbet.com^
 ||coinsportbetting.com^
@@ -40686,6 +40694,7 @@
 ||cosmoswater.in^
 ||cososi.com^
 ||cososiagnieciani.monster^
+||cosouy.xyz^
 ||ad.cosp.jp^
 ||track.cosplayware.com^
 ||cospolska.top^
@@ -45182,6 +45191,7 @@
 ||dcotugno121854.wixsite.com^
 ||dcqtn1np2a3xz.cloudfront.net^
 ||dcrll.shop^
+||dcsewjll.com^
 ||ea.dcshoes-europe.com^
 ||metrics.dcshoes.com^
 ||jyumzv.dcshoes.com.br^
@@ -50821,7 +50831,7 @@
 ||druga-rzeczpospolitapolska.pl^
 ||drugcamera.com^
 ||druggedforearm.com^
-||ed.druggertruckle.com^
+||druggertruckle.com^
 ||drughterstrk.com^
 ||drugiewydanie.pl^
 ||metrics.drugpricinglaw.com^
@@ -60546,6 +60556,7 @@
 ||fernwaycloud.com^
 ||ferodu.site^
 ||feroffer.com^
+||sd-1093121-h00002.ferozo.net^
 ||rqkmir.ferragamo.com^
 ||events.ferrari.com^
 ||img.hp.ferrari.com^
@@ -66424,7 +66435,7 @@
 ||ganesha0910.com^
 ||usztct.gang.com.br^
 ||gangapvt.com^
-||em.gangerburler.com^
+||gangerburler.com^
 ||gangliastheniaudner.life^
 ||gangstergovernment.com^
 ||gangsterpracticallymist.com^
@@ -67016,6 +67027,7 @@
 ||geckotravelers.com^
 ||gecontentasap.com^
 ||liberty.gedads.com^
+||gedafdshb7.fun^
 ||kingfisher.gedaly.com^
 ||gedef.com^
 ||a.gedidigital.it^
@@ -70176,6 +70188,7 @@
 ||gouheethsurvey.space^
 ||exchange.gouik.com^
 ||bass.goulet.dev^
+||gounevou.net^
 ||goupload.net^
 ||gourdmobi.com^
 ||gourmet-goodies-corner.com^
@@ -70284,6 +70297,7 @@
 ||gqdfgyz.cn^
 ||gqfuf.com^
 ||gqjdweqs.com^
+||gqwwshbdd1.fun^
 ||gr88.com^
 ||vn.grab-credit4u.com^
 ||click.mkt.grab.com^
@@ -71580,7 +71594,6 @@
 ||ho-openx.ha.rs^
 ||s2s.haan.ai^
 ||ds.haaretz.co.il^
-||services.haaretz.co.il^
 ||services.haaretz.com^
 ||data-83d91ea519.haas-mediengruppe.de^
 ||smetrics.haband.com^
@@ -73978,6 +73991,7 @@
 ||smetrics.herzstolpern.at^
 ||smetrics.herzstolpern.de^
 ||new.hes-san.com^
+||hesads.akamaized.net^
 ||hesagea.com^
 ||hesatinaco.com^
 ||hesatinacorne.org^
@@ -78272,7 +78286,7 @@
 ||invite.icars.cc^
 ||icarus-digital-marketing.com^
 ||icarusnail.store^
-||cy.icasmarbor.com^
+||icasmarbor.com^
 ||i18.icast-ad.com^
 ||marketing.icatsoftware.com^
 ||www.icbcbuy.com^
@@ -83890,6 +83904,7 @@
 ||iresandal.info^
 ||ssc.irfaasawtak.com^
 ||irffd.top^
+||irgxwk.xyz^
 ||irha.jp^
 ||irhpzbrnoyf.com^
 ||www.irhythmtech.com^
@@ -87375,6 +87390,7 @@
 ||ablink.send.joinjamjar.com.au^
 ||app.joinkroo.com^
 ||go.joinlpl.com^
+||joinmassive.com^
 ||joinmy.site^
 ||joinourplanetx.com^
 ||joinourwebsite.com^
@@ -88192,6 +88208,7 @@
 ||justcasino.com^
 ||justclick.ru^
 ||track.justcloud.com^
+||justconfig.com^
 ||justdca.com^
 ||justdeckshamilton.ca^
 ||justdialleads.com^
@@ -90292,6 +90309,7 @@
 ||kfngvuu.com^
 ||axp.kfor.com^
 ||kfpicimage.xyz^
+||kfpljakmiousajl.com^
 ||kfpnqug.cn^
 ||image.kfw-entwicklungsbank.de^
 ||image.kfw-ipex-bank.de^
@@ -98764,7 +98782,7 @@
 ||marketing.luxurylink.com^
 ||subscribers.luxurylink.com^
 ||luxuryproducts.com^
-||www.luxurypropertiesfl.com^
+||luxurypropertiesfl.com^
 ||bnc.luxurysportsrelocation.com^
 ||luxurytechnical.com^
 ||luxurytouristguide.com^
@@ -101714,7 +101732,7 @@
 ||gayal.maxmasnick.com^
 ||device.maxmind.com^
 ||seyfwl.maxmodels.pl^
-||maxmoney.com^
+||www.maxmoney.com^
 ||maxocoameo.live^
 ||maxonclick.com^
 ||maxonpol.com^
@@ -103704,6 +103722,7 @@
 ||analytics.metro.pk^
 ||data.emails.metro.ro^
 ||analytics.metro.ua^
+||dhcp-206-248-59-5.metro86.ru^
 ||metrobusinessnetwork.com^
 ||data.account.metrobyt-mobile.com^
 ||data.cart.metrobyt-mobile.com^
@@ -110023,6 +110042,7 @@
 ||dianying-1304791696.cos.ap-shanghai.myqcloud.com^
 ||donerightlaw-1322273052.cos.sa-saopaulo.myqcloud.com^
 ||ggtp-1255424916.cos.ap-chengdu.myqcloud.com^
+||mhmh1-1251344380.cos.ap-chengdu.myqcloud.com^
 ||mibook-10006092.cos.myqcloud.com^
 ||moren-1252794300.file.myqcloud.com^
 ||projecta-common-1258344701.file.myqcloud.com^
@@ -117435,8 +117455,7 @@
 ||on-push.com^
 ||yvdaeg.on-running.com^
 ||on-runningpolska.pl^
-||dsj4qf77pyncykf2dki6isfcuy0orwhc.lambda-url.eu-west-1.on.aws^
-||ip7prksb2muxvmmh25t6rxl2te0tfulc.lambda-url.eu-west-1.on.aws^
+||lambda-url.eu-west-1.on.aws^
 ||ad1.on.cc^
 ||ad2.on.cc^
 ||ad4.on.cc^
@@ -119995,6 +120014,7 @@
 ||pagnehmfxah.xyz^
 ||metrics.pagoda.com^
 ||uat1-dc.pagoda.com^
+||pagodaskeeker.com^
 ||smetrics.pahealthwellness.com^
 ||axp.pahomepage.com^
 ||paht.tech^
@@ -120113,6 +120133,7 @@
 ||palfad.com^
 ||palibs.tech^
 ||palibzh.tech^
+||paliercleaned.com^
 ||content.palighttrimboard.com^
 ||analytics.palitra.ge^
 ||palladiumbutysklep.pl^
@@ -124694,6 +124715,7 @@
 ||porndox.com^
 ||porndroids.com^
 ||s.porndub.us^
+||iframe.porndudegirls.com^
 ||pornearn.com^
 ||pornego.com^
 ||tkn.pornerbros.com^
@@ -131752,6 +131774,7 @@
 ||qdb6gd3nth.ru^
 ||qdcode.com^
 ||qdcxia.xyz^
+||qdeduzaixe.com^
 ||qdfxeqhnjuknyy.com^
 ||qdhyy.cn^
 ||qdmil.com^
@@ -132805,6 +132828,7 @@
 ||wvzddr.quirumed.com^
 ||quisma.com^
 ||to.quit.guru^
+||quitasueno.com^
 ||quitepoet.com^
 ||quitesousefulhe.info^
 ||quitjav11.fun^
@@ -136579,6 +136603,7 @@
 ||rgjeansonline.com^
 ||usvb.rgkavaly.top^
 ||g2048.rgluk.com^
+||rgmmeff.icu^
 ||ci42.rgp.com^
 ||marketing.rgproducts.com^
 ||www.rgs-rostock.de^
@@ -137571,7 +137596,7 @@
 ||www.rockcitytimes.com^
 ||cdn-ra.rockcontent.com^
 ||ra.rockcontent.com^
-||www.rockcreekdds.com^
+||rockcreekdds.com^
 ||rockedcme.com^
 ||rockerrgroup.com^
 ||rockersbaalize.com^
@@ -137973,6 +137998,7 @@
 ||rospromtest.ru^
 ||da.rosrabota.ru^
 ||visitping.rossel.be^
+||backbone.rossel.tech^
 ||rosseladvertising.be^
 ||go.rosseto.com^
 ||go.rosslynva.org^
@@ -150393,7 +150419,7 @@
 ||sw88.starchannel.nl^
 ||starchoice-1.online^
 ||starchportraypub.com^
-||www.starcountry.net^
+||starcountry.net^
 ||secure.stardewtraders.com^
 ||stardoll-konta.blogspot.com^
 ||ads.stardoll.com^
@@ -150888,6 +150914,7 @@
 ||steamkarta.pl^
 ||steamkeysfree.com^
 ||steamnmcommunniry.ru^
+||steampowered.cn.com^
 ||amz.steamprices.com^
 ||steamproxy.net^
 ||steamqr.site^
@@ -158618,8 +158645,10 @@
 ||ads.tiktok.com^
 ||ads-api.tiktok.com^
 ||ads-sg.tiktok.com^
+||ads.us.tiktok.com^
 ||analytics.tiktok.com^
 ||analytics-sg.tiktok.com^
+||analytics.us.tiktok.com^
 ||business-api.tiktok.com^
 ||mcs-sg.tiktok.com^
 ||mcs-va.tiktok.com^
@@ -169822,6 +169851,7 @@
 ||vfthr.com^
 ||vftvbx.xyz^
 ||vfvdsati.com^
+||vfvrld.xyz^
 ||vfxrpl.xyz^
 ||vfzqtgr.com^
 ||ads.vg.no^
@@ -182954,6 +182984,7 @@
 ||sentry-monitor-new.zdmimg.com^
 ||usoa.zdmysncl.top^
 ||adtima-static.aka.zdn.vn^
+||f24-zfcloud.zdn.vn^
 ||stc-support-app-brand.zdn.vn^
 ||za.zdn.vn^
 ||zaloads-480.zdn.vn^
@@ -183031,6 +183062,7 @@
 ||tech.zeddanews.com^
 ||world.zeddanews.com^
 ||zeddit.com^
+||zeddjv.xyz^
 ||b.zedge.me^
 ||logsink.zedge.net^
 ||click.zedisdeadbaby.com^
@@ -184429,7 +184461,6 @@
 ||zweryfikowany-sprzedawca.pl^
 ||www.zweryfikuj.com^
 ||zweryfikujkonto.com^
-||z194668-ex70k.ps02.zwhhosting.com^
 ||app.zwilling.com^
 ||zwlxnj.xyz^
 ||zwnoeqzsuz.com^
