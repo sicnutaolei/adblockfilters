@@ -3,11 +3,12 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240906003506
-! Last modified: 2024/09/06 00:35:06
-! Blocked domains: 180766
+! Version: 20240906093054
+! Last modified: 2024/09/06 09:30:54
+! Blocked domains: 180794
 ! unBlocked domains: 149
 !
+||00771944.xyz^
 ||9bff4acb16.051e57adf3.com^
 ||052db.website^
 ||053h94.com^
@@ -495,6 +496,7 @@
 ||dhl.135320.com^
 ||1357902.cn^
 ||1360.cn^
+||1363394706.rsc.cdn77.org^
 ||137kfj65k.de^
 ||138lm.com^
 ||lyapi.1391.com^
@@ -715,6 +717,7 @@
 ||18tlm4jee.de^
 ||18xtube.com^
 ||19093.jp^
+||1918837748.rsc.cdn77.org^
 ||19515bia.de^
 ||tracking.196189.com^
 ||19706903.xyz^
@@ -16453,7 +16456,7 @@
 ||aprtx.com^
 ||info.aps.org^
 ||apsalar.com^
-||beacon.apsehick.date^
+||apsehick.date^
 ||apsgwl.in^
 ||apsis.com^
 ||static.ws.apsis.one^
@@ -19728,6 +19731,7 @@
 ||avfay.com^
 ||www.avfg.cn^
 ||avforce.com^
+||avfqvyuqsdph.com^
 ||omni.avg.com^
 ||oms.avg.com^
 ||somni.avg.com^
@@ -22523,6 +22527,7 @@
 ||mail.bca-eu.eu^
 ||de.bca-news.com^
 ||marketing.bca.srl^
+||bcaakxxuf.com^
 ||marketing.bcaespana.es^
 ||marketing.bcaportugal.pt^
 ||bcash4you.com^
@@ -32356,6 +32361,7 @@
 ||buzzclick.com^
 ||buzzclicks.com^
 ||buzzdancing.com^
+||buzzdeal.com^
 ||buzzdeck.com^
 ||search.buzzdock.com^
 ||track.buzzerilla.com^
@@ -49602,6 +49608,7 @@
 ||dtheharityhild.info^
 ||dthepeoplewhoc.org^
 ||dtherapyservice.com^
+||dthipkts.com^
 ||dthsetup.com^
 ||dti-ranker.com^
 ||104231.dtiblog.com^
@@ -51785,6 +51792,7 @@
 ||edpgovpk.one^
 ||edpgovpkgroup.top^
 ||edpgovpkonline.one^
+||edpl9v.pro^
 ||vendor.edqart.com^
 ||essmnx.edreams.ch^
 ||vhmjci.edreams.co.uk^
@@ -57736,7 +57744,7 @@
 ||fadverdirect.com^
 ||faecbook.com.vn^
 ||faecesjazies.top^
-||gr.faencepuggy.com^
+||faencepuggy.com^
 ||faestara.com^
 ||a8cv.fafa-shop.com^
 ||al.fafa-shop.com^
@@ -65564,6 +65572,7 @@
 ||gecontentasap.com^
 ||liberty.gedads.com^
 ||kingfisher.gedaly.com^
+||geddsashb3.fun^
 ||gedef.com^
 ||a.gedidigital.it^
 ||gediel.com^
@@ -70025,6 +70034,7 @@
 ||gretchendemone.com^
 ||gretnsassn.com^
 ||data-16d7ec9a30.grevenerzeitung.de^
+||grewash1b.fun^
 ||greworganizer.com^
 ||grewquartersupporting.com^
 ||go.greycastlesecurity.com^
@@ -73708,6 +73718,7 @@
 ||m.hhinternational.cn^
 ||hhiswingsandm.info^
 ||hhit.xyz^
+||hhju87yhn7.top^
 ||hhklc.com^
 ||hhkld.com^
 ||hhllyt.com^
@@ -82899,6 +82910,7 @@
 ||status.techtarget.itmedia.co.jp^
 ||dlv.itmedia.jp^
 ||tr.api.itmedia.jp^
+||itnhosioqb.com^
 ||itnpost-pl.top^
 ||itnuzleafan.com^
 ||1sat.itocd.net^
@@ -83467,6 +83479,7 @@
 ||jaggedshoebruised.com^
 ||jaggedthronelaxative.com^
 ||jaggedunaccustomeddime.com^
+||jagkart.com^
 ||jagnoans.com^
 ||jagnympho.top^
 ||jagobetting.org^
@@ -91792,6 +91805,7 @@
 ||kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes^
 ||post.kzbakkumz.site^
 ||www.post.kzbakkumz.site^
+||kzcayec.icu^
 ||kzcdgja.com^
 ||kzchyhr.cn^
 ||kzdxpcn.com^
@@ -96440,6 +96454,7 @@
 ||loot.bet^
 ||lootcad.xyz^
 ||lootcrate.com^
+||lootcs.com^
 ||lootexhausted.com^
 ||lootexport.com^
 ||app.lootpop.com^
@@ -109977,7 +109992,7 @@
 ||neoffic.com^
 ||neofield.click^
 ||neoftheownouncillo.info^
-||my.neogallery.xyz^
+||neogallery.xyz^
 ||engage.neogen.com^
 ||mkt.animalsafety.neogen.com^
 ||mkt.emea.neogen.com^
@@ -110046,6 +110061,7 @@
 ||karlovo.nerters.space^
 ||kyustendil.nerters.space^
 ||nervegus.com^
+||nerveheels.com^
 ||nervoussummer.com^
 ||nesacramentonews.com^
 ||sorrhs.nescafe.com.tr^
@@ -129337,6 +129353,7 @@
 ||reclinersmall.com^
 ||reclod.com^
 ||a8.recmount-plus.com^
+||recmwgis.com^
 ||recoco.it^
 ||recogerconsentimiento.com^
 ||recognified.net^
@@ -129506,6 +129523,7 @@
 ||redevents-bigdata.redefine.pl^
 ||www.redehapvida.com^
 ||redeimigra.com^
+||redelivtls.online^
 ||redemptionengine.com^
 ||redemptionphrase.com^
 ||reden.xyz^
@@ -142683,6 +142701,7 @@
 ||solgohachias.live^
 ||soliads.io^
 ||soliads.net^
+||soliads.online^
 ||solicita.info^
 ||solicitorlaptopfooting.com^
 ||solicitorquite.com^
@@ -148581,6 +148600,7 @@
 ||secureanalytics.syf.com^
 ||securemetrics.syf.com^
 ||somni.syf.com^
+||syfroecxkn.com^
 ||link.syfy-channel.com^
 ||tr.n.info.sygmabanque.fr^
 ||tr.gestion.sygmabnpparibas-pf.com^
@@ -149010,6 +149030,7 @@
 ||jdgtgb.t-online.de^
 ||lokalwerben.t-online.de^
 ||rt.t-online.de^
+||utiq.t-online.de^
 ||t-post.com^
 ||t-present.online^
 ||t-servis.com^
@@ -156275,6 +156296,7 @@
 ||torrent-protection.com^
 ||torrent09.uno^
 ||marketing.torrentcorp.com^
+||to.torrentfreak.com^
 ||m1.torrenti.al^
 ||subdo.torrentlocura.com^
 ||torrento.pl^
@@ -156632,6 +156654,7 @@
 ||tpoint-sites.com^
 ||tpost-help.top^
 ||tpost-helps.top^
+||track2.tprg.ru^
 ||track.tproger.ru^
 ||tptgvh.xyz^
 ||tptp002.cfd^
@@ -156640,6 +156663,7 @@
 ||tpydhykibbz.com^
 ||tpyerxzn.xyz^
 ||tpzatf.xyz^
+||tqbrnd.xyz^
 ||tqeobp89axcn.com^
 ||tqjqripb.xyz^
 ||tqrjlqt.com^
@@ -161089,6 +161113,7 @@
 ||udbal.com^
 ||udegepq.com^
 ||udeghaipekr.com^
+||udeias.xyz^
 ||gtm.udemy.com^
 ||page-events-ustats.udemy.com^
 ||udetqwj.com^
@@ -168022,6 +168047,7 @@
 ||vnsodo.mobi^
 ||vnsodo.us^
 ||vntanktransport.com^
+||vnte9urn.click^
 ||shopee.vntheme.com^
 ||vntop88.com^
 ||ads.vnumedia.com^
@@ -169090,6 +169116,7 @@
 ||target.vwfs.pt^
 ||vwhnfwdbf.com^
 ||vwhot.com^
+||vwhwspngk.com^
 ||vwihot.com^
 ||vwin-555.com^
 ||vwin.com^
@@ -176063,6 +176090,7 @@
 ||xmladserver.com^
 ||filter.xmladsystem.com^
 ||xml.xmladsystem.com^
+||xmlap.com^
 ||xmlapiclickredirect.com^
 ||xmlapiclickredirect10102022.com^
 ||xmlformats.com^
