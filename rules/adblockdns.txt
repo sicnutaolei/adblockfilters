@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240911003353
-! Last modified: 2024/09/11 00:33:53
-! Blocked domains: 171133
+! Version: 20240911093138
+! Last modified: 2024/09/11 09:31:38
+! Blocked domains: 171166
 ! unBlocked domains: 149
 !
 ||foodnetworks.000.pe^
@@ -291,6 +291,7 @@
 ||tracker.112odsj.com^
 ||113-bca.online^
 ||1133.cc^
+||1136707664.rsc.cdn77.org^
 ||113vod-adaptive.akamaized.net^
 ||1.11467.com^
 ||1.114central.com^
@@ -559,6 +560,7 @@
 ||14winvn.com^
 ||www.150170.com^
 ||1503.net^
+||1510557931.rsc.cdn77.org^
 ||1517mediamailer.1517.media^
 ||15272973.xyz^
 ||1529462937.rsc.cdn77.org^
@@ -568,6 +570,7 @@
 ||1548164934.rsc.cdn77.org^
 ||1558334541.rsc.cdn77.org^
 ||155game.com^
+||1560738516.rsc.cdn77.org^
 ||15752525.xyz^
 ||157win.com^
 ||1588aa.com^
@@ -637,6 +640,7 @@
 ||endljp.168chasa.bg^
 ||yaizkr.168cm.kr^
 ||168kbet.com^
+||1693418686.rsc.cdn77.org^
 ||16972675.xyz^
 ||16iis7i2p.de^
 ||16m.cc^
@@ -2960,6 +2964,7 @@
 ||724sports.com^
 ||7253d56acf.com^
 ||72560514.xyz^
+||72716408.xyz^
 ||7299tu75.cc^
 ||72dkplvzdlmpq2fceekvsfypb4mku3du6e3beayo47ljy-ipfs-cf--ipfs-com.translate.goog^
 ||72em4rive0one.xyz^
@@ -5373,6 +5378,7 @@
 ||acproyectos.com^
 ||tr.acq-pjms.fr^
 ||acqmeaf.com^
+||acqpizkpo.com^
 ||acquaintance213.fun^
 ||acquaintance423.fun^
 ||acquaintanceexemptspinach.com^
@@ -15805,6 +15811,7 @@
 ||xnjty.aqeew.my.id^
 ||aqeivzm.icu^
 ||aqhz.xyz^
+||aqianniao.com^
 ||aqibshah.com^
 ||aqiefntjh.com^
 ||aqiemc.xyz^
@@ -19341,6 +19348,7 @@
 ||awin686.com^
 ||awistats.com^
 ||awizowane.pl^
+||awkkkpktq.com^
 ||awkwardsuperstition.com^
 ||trk.awlatbtrk.com^
 ||awldcupu.com^
@@ -20486,6 +20494,7 @@
 ||baidut.github.io^
 ||baiduyubaidu.com^
 ||baifendian.com^
+||baigamp.icu^
 ||baigm.com^
 ||www.baihe.com^
 ||www.baihongkeji.com^
@@ -27596,6 +27605,7 @@
 ||bngrol.com^
 ||bngtrak.com^
 ||bngwlt.com^
+||bnhorn.xyz^
 ||bnhtml.com^
 ||bni-cert.com^
 ||see4ukm.bni-ecollection.com^
@@ -31002,6 +31012,7 @@
 ||bygliscortor.com^
 ||semakanmystr.bygo.win^
 ||touchngoreward.bygoapp.win^
+||bygoneudderpension.com^
 ||bygsworlowe.info^
 ||byhalias.org^
 ||byheviiheu.com^
@@ -33100,6 +33111,7 @@
 ||10945-2.s.cdn15.com^
 ||10945-5.s.cdn15.com^
 ||cdn1sitescout.edgesuite.net^
+||cdn2-1.net^
 ||ads.cdn2-img.net^
 ||cdn2cdn.me^
 ||cdn2reference.com^
@@ -33675,6 +33687,7 @@
 ||go.cg-la.com^
 ||tr.communication.cgaaer.fr^
 ||ads.cgchannel.com^
+||cgcobmihb.com^
 ||cgcsarz0opg.jp^
 ||cgczuu.xyz^
 ||www.cgd-acessos.com^
@@ -48635,6 +48648,7 @@
 ||drummercorruptprime.com^
 ||drummercrouchdelegate.com^
 ||drummerdogg.blogspot.com^
+||drumskilxoa.click^
 ||drumusherhat.com^
 ||drunkardashamethicket.com^
 ||drunkcash.com^
@@ -50024,6 +50038,7 @@
 ||track.easeus.com^
 ||eashasvsucoc.info^
 ||adobeanalytics.easi.com^
+||easierroamaccommodation.com^
 ||easilysafety.com^
 ||easonhomeimprovement.com^
 ||easou.com^
@@ -51323,6 +51338,7 @@
 ||tracker.eft.com^
 ||eftsoonsqbuge.life^
 ||efully.info^
+||efvccdamzlvhl.com^
 ||efvheaepmbgicx.xyz^
 ||efvpufdjd.com^
 ||efza.net^
@@ -53461,7 +53477,6 @@
 ||www2.eoilreports.com^
 ||eolcdn.com^
 ||eole-passion.com^
-||5-157-110-232.dyn.eolo.it^
 ||eolx.pl^
 ||eom-nv.com^
 ||mail.eomega.com^
@@ -57516,6 +57531,7 @@
 ||uproar.fortunecity.com^
 ||fortunejack.com^
 ||fortunelegends.com^
+||fourth-4-cdn.com^
 ||fra-mondialrelay.com^
 ||france-mondialrelay.com^
 ||fratre.top^
@@ -61545,6 +61561,7 @@
 ||gjctwh.cn^
 ||nrela5.gjf-6o.codes^
 ||gjftt.mypi.co^
+||gjgtcnhlypqsv.com^
 ||gjh111.cn^
 ||gjhjjhgc.cn^
 ||gjhsbw.com^
@@ -62147,6 +62164,7 @@
 ||gloutanacard.com^
 ||gloutchi.com^
 ||glouxaih.net^
+||glouxalt.net^
 ||glouzokrache.com^
 ||gloveplati.com^
 ||gloverbettingtips.com^
@@ -65409,6 +65427,7 @@
 ||gvpged.com^
 ||beacons5.gvt3.com^
 ||beacons6.gvt3.com^
+||gvvedashb6.fun^
 ||gvzsrqp.com^
 ||gw2cddpt2hao.asia^
 ||gw2cddpt2hao.cloud^
@@ -68328,6 +68347,7 @@
 ||hhuohqramjit.com^
 ||hhvbdeewfgpnb.xyz^
 ||hhvdds.com^
+||hhzcuywygcrk.com^
 ||hi-a-so-bi.net^
 ||www.eva.hi-ho.ne.jp^
 ||a8cv.hi-tailor.jp^
@@ -76776,6 +76796,7 @@
 ||smetrics.interestfree.com.au^
 ||stat.interestfree.com.au^
 ||stats.interestfree.com.au^
+||interestingpracticable.com^
 ||interestmoments.com^
 ||interestsmoke.com^
 ||interestsubsidereason.com^
@@ -79415,6 +79436,7 @@
 ||www.jdailymall.com^
 ||e.jdaot.com^
 ||m.jdaot.com^
+||jdapp388shop.com^
 ||play.jdb888.club^
 ||pic.jdbbs.com^
 ||jdbeht.xyz^
@@ -79480,6 +79502,7 @@
 ||jedlnn.xyz^
 ||www15.jedora.com^
 ||jedotsad.xyz^
+||jeefaiwochuh.net^
 ||jeehainout.com^
 ||jeehathu.com^
 ||jeejujou.net^
@@ -79724,6 +79747,7 @@
 ||jhondi33.duckdns.org^
 ||jhpbtp.xyz^
 ||jhrfemourkojc.com^
+||jhsnshueyt.click^
 ||uskm.jhtamqdt.top^
 ||forms.flexmba.carey.jhu.edu^
 ||jhulubwidas.com^
@@ -84574,6 +84598,7 @@
 ||kviku.com^
 ||kvision.tv^
 ||kvkregister.com^
+||kvksis.com^
 ||sdc.kvm-ga.de^
 ||kvors.com^
 ||kvpqrydt.xyz^
@@ -91187,6 +91212,7 @@
 ||events.mapbox.com^
 ||success.mapcom.com^
 ||mapeensa.com^
+||mapeeree.xyz^
 ||sgtm.mapei.com^
 ||maper.info^
 ||maphuahin.com^
@@ -92371,7 +92397,7 @@
 ||gayal.maxmasnick.com^
 ||device.maxmind.com^
 ||seyfwl.maxmodels.pl^
-||www.maxmoney.com^
+||maxmoney.com^
 ||maxocoameo.live^
 ||maxonclick.com^
 ||partner.maxori.cz^
@@ -97371,6 +97397,7 @@
 ||modnynext.pl^
 ||lcs.modoo.at^
 ||modooda.net^
+||modoodeul.com^
 ||modoplus.ir^
 ||modoro360.com^
 ||kyjoyk.modoza.com^
@@ -97841,7 +97868,6 @@
 ||partneri.monikakorinkova.cz^
 ||monikastogowska.pl^
 ||monild.im^
-||moninediy.com^
 ||teyvmb.moniquelhuillier.com^
 ||moniquetlee.com^
 ||monitis.com^
@@ -111176,6 +111202,7 @@
 ||ovibospeseta.com^
 ||ovident.com^
 ||ovimotors.com^
+||ovkcuzujnl.com^
 ||usra.ovkidl.top^
 ||free.ovl.me^
 ||ovlliiwtxgjlz.com^
@@ -115362,6 +115389,7 @@
 ||pitoodsouk.net^
 ||tels.pitrde.xyz^
 ||tesl.pitrde.xyz^
+||pitsampy.net^
 ||pitshopsat.com^
 ||www3s.pitstopautoparts.com^
 ||ddngtv.pittarello.com^
@@ -123921,7 +123949,6 @@
 ||qickazzmoaxv.com^
 ||qicyhaequu.live^
 ||game.qidian.com^
-||magev6.if.qidian.com^
 ||path.qidian.com^
 ||qdp.qidian.com^
 ||uedas.qidian.com^
@@ -124254,7 +124281,7 @@
 ||qqohtssdp.com^
 ||shop.qqqjjss.shop^
 ||usji.qqqlsnf.top^
-||www.qqqmy.com^
+||qqqmy.com^
 ||qqqwes.com^
 ||qqs13.info^
 ||qqtogel88.com^
@@ -124954,7 +124981,7 @@
 ||ququdm.com^
 ||quranbgd.com^
 ||qureel.com^
-||analytics.qushad.com^
+||qushad.com^
 ||quspga.xyz^
 ||qusrow.xyz^
 ||qutaobi.com^
@@ -129635,7 +129662,7 @@
 ||www.rockcitytimes.com^
 ||cdn-ra.rockcontent.com^
 ||ra.rockcontent.com^
-||rockcreekdds.com^
+||www.rockcreekdds.com^
 ||rockedcme.com^
 ||rockersbaalize.com^
 ||rocket-it.com.au^
@@ -130362,6 +130389,7 @@
 ||www.rqq.co^
 ||track.rqqft.com^
 ||rqr97sfd.xyz^
+||rqsaxxdbt.com^
 ||rqwiu.xyz^
 ||co.rr-eos.top^
 ||rr.nu^
@@ -140218,6 +140246,7 @@
 ||mail.sorbeadindias.com^
 ||sorceryfalda.life^
 ||sordidsmile.com^
+||sordimtaulee.com^
 ||soreldiscount.com^
 ||soremetropolitan.com^
 ||soresidewalk.com^
@@ -143502,6 +143531,7 @@
 ||sstats.sumitomo-pharma.co.jp^
 ||sstats.sumitomo-pharma.com^
 ||sstats.sumitomo-pharma.jp^
+||www.sumiyuki.co.jp^
 ||summaryjustlybouquet.com^
 ||summer-notifications.com^
 ||summerboycottrot.com^
@@ -155658,6 +155688,7 @@
 ||uqwbcm.xyz^
 ||a8cventry.uqwimax.jp^
 ||uqydcs.xyz^
+||uqykeq.xyz^
 ||uqz.com^
 ||a8clk.ur-s.me^
 ||ura-nai-best.com^
@@ -160856,6 +160887,7 @@
 ||vx88vnd.com^
 ||www.vxcash.net^
 ||partner.vxcp.de^
+||vxcvd67.fun^
 ||vxdpmxw.xyz^
 ||vxdrfr.xyz^
 ||vxhsj.cn^
@@ -164304,6 +164336,7 @@
 ||axp.wivb.com^
 ||wivoqi.uno^
 ||wivtuhoftat.com^
+||wiwlqc.xyz^
 ||data-21f7fa6716.wiwo.de^
 ||data-b0980db7ec.wiwo.de^
 ||hmg.wiwo.de^
