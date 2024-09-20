@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240920003746
-! Last modified: 2024/09/20 00:37:46
-! Blocked domains: 181843
+! Version: 20240920093414
+! Last modified: 2024/09/20 09:34:14
+! Blocked domains: 181865
 ! unBlocked domains: 150
 !
 ||alior.016945.com^
@@ -549,6 +549,7 @@
 ||14cpoff22.de^
 ||14fefmsjd.de^
 ||14i8trbbx4.com^
+||14stirling.dyndns.org^
 ||14teen.com^
 ||bsft-event.14westmail.net^
 ||14winvn.com^
@@ -2479,6 +2480,7 @@
 ||52ee3dc5fe.com^
 ||secure.52enterprisingdetails.com^
 ||1386bd6fb0.52fa059b20.com^
+||api.52kkg.com^
 ||52kmh.com^
 ||52kuwang.cn^
 ||52linglei.com^
@@ -2657,7 +2659,7 @@
 ||5buddies.com^
 ||5c01ad4cb7.com^
 ||5c3.org^
-||bb155692c8.5c4ccd56c9.com^
+||5c4ccd56c9.com^
 ||5ca59a669a.com^
 ||5cc3ac02.xyz^
 ||collector-videoplayer.5centscdn.net^
@@ -3490,6 +3492,7 @@
 ||82zcb.icu^
 ||okcoin.83670.cyou^
 ||83692.com^
+||83761158.xyz^
 ||83887336.xyz^
 ||vlnted-cz.839156.xyz^
 ||83net.jp^
@@ -16074,7 +16077,7 @@
 ||aprtx.com^
 ||info.aps.org^
 ||apsalar.com^
-||beacon.apsehick.date^
+||apsehick.date^
 ||apserver.net^
 ||apsgwl.in^
 ||apsis.com^
@@ -16176,7 +16179,7 @@
 ||vip.aqdmv181.com^
 ||xnjty.aqeew.my.id^
 ||aqhz.xyz^
-||www.aqianniao.com^
+||aqianniao.com^
 ||aqibshah.com^
 ||aqiefntjh.com^
 ||aqiemc.xyz^
@@ -23942,6 +23945,7 @@
 ||bgadx.com^
 ||bgbaner.com^
 ||bgbet.com^
+||bgbg00.fun^
 ||bgbqfqwi.xyz^
 ||bgconsulting.pl^
 ||www.bgcounter.com^
@@ -26675,6 +26679,7 @@
 ||linklab.blinklab.com^
 ||blinkpainmanly.com^
 ||blinktowel.com^
+||blinxmi.icu^
 ||ads.static.blip.tv^
 ||pings.blip.tv^
 ||blis.com^
@@ -34815,7 +34820,6 @@
 ||smetrics.cfainstitute.org^
 ||cfateu.xyz^
 ||donate.cfbnj.org^
-||ghfriends.cfbx.jp^
 ||cfcd.duckdns.org^
 ||cfceu.duckdns.org^
 ||cfcloudcdn.com^
@@ -38121,6 +38125,7 @@
 ||clover8studio.com^
 ||clovercleaner.com^
 ||moose.cloverlearning.com^
+||cloverszone.com^
 ||cloveswamptearing.com^
 ||app.clovia.com^
 ||emailer45.clovinfo.com^
@@ -38155,6 +38160,7 @@
 ||club-lukojl.ru^
 ||a8lpclk.club-marriage.jp^
 ||data.canon.club-news.com.hk^
+||tracker.club-os.com^
 ||a8cv.www.club-sincerite.co.jp^
 ||club2.shop^
 ||clubalphabet.com^
@@ -46104,7 +46110,6 @@
 ||djbanners.deadjournal.com^
 ||click.email.deadline.com^
 ||deadlinefunnel.com^
-||deadlockbeta.com^
 ||deadlockplay.com^
 ||deadlyrelationship.com^
 ||deadmentionsunday.com^
@@ -46736,6 +46741,7 @@
 ||xad.dnoticias.pt^
 ||ttp.leelight444ne.dns-dynamic.net^
 ||dnsprolongation.pro^
+||dnvk1.info^
 ||do4cbd.top^
 ||doathair.com^
 ||dobermanmedia.com^
@@ -49006,6 +49012,7 @@
 ||br.ac.ebookers.fr^
 ||br.ac.ebookers.ie^
 ||ebtrk1.com^
+||ebuy8.shop^
 ||ec2-13-36-178-185.eu-west-3.compute.amazonaws.com^
 ||ecalabamanews.com^
 ||ecallslogin.com^
@@ -50929,6 +50936,7 @@
 ||embols.com^
 ||embolysaros.click^
 ||embosknitos.com^
+||embowerdatto.com^
 ||embrace.io^
 ||embraceinnovation.pro^
 ||embracetrace.com^
@@ -61892,6 +61900,7 @@
 ||fwolf.at^
 ||frbmdx.fwrd.com^
 ||track.fwrdtrck.com^
+||fwsfwef2.fun^
 ||fwsoviw.com^
 ||fwtrck.com^
 ||fwukoulnhdlukik.info^
@@ -67002,7 +67011,6 @@
 ||govunuu.com^
 ||www.govxian.cn^
 ||abbqns.gowabi.com^
-||gowarehouse.net^
 ||superwidget-assets.gowatchit.com^
 ||goweb.de^
 ||smetrics.gowell.com.ph^
@@ -77387,6 +77395,7 @@
 ||link.imumz.com^
 ||imuniid.com^
 ||imusicantibavaresi.de^
+||imusye.xyz^
 ||imveganfit.com^
 ||imvjcds.com^
 ||metrics.imvu.com^
@@ -77984,6 +77993,7 @@
 ||infiqu.com^
 ||infirmaryboss.com^
 ||rkazse.infirmiere.co.jp^
+||infisecure.com^
 ||inflablespr.com^
 ||inflaboand.pro^
 ||inflameemanent.cam^
@@ -78400,7 +78410,7 @@
 ||data-87c1de682f.ingolstadt.de^
 ||ingomedia.store^
 ||get.ingomoney.com^
-||ingonherbal.com^
+||www.ingonherbal.com^
 ||ingotedbooze.com^
 ||ingotheremplo.info^
 ||ingpost-pl.top^
@@ -90053,6 +90063,7 @@
 ||lajejek.com^
 ||lajeshuru.pro^
 ||lajevt.xyz^
+||lajjmqeshj.com^
 ||lajkpanel.pl^
 ||lajna.fr^
 ||activate.lajollalight.com^
@@ -99588,6 +99599,7 @@
 ||megydyk.icu^
 ||mehmetmetinmutlu.com^
 ||data-b4d5de22d2.mehr-tanken.de^
+||mehreencreation.com^
 ||meibur.com^
 ||meicoe.com^
 ||ufnbgh.meierq.com^
@@ -103857,7 +103869,7 @@
 ||partneri.monikakorinkova.cz^
 ||monikastogowska.pl^
 ||monild.im^
-||www.moninediy.com^
+||moninediy.com^
 ||teyvmb.moniquelhuillier.com^
 ||moniquetlee.com^
 ||monitis.com^
@@ -107660,6 +107672,7 @@
 ||trk.nashpumps.com^
 ||nashvillestandard.com^
 ||nasimke.ru^
+||nasionaltv.com^
 ||nasistraszne.rest^
 ||nasive.date^
 ||partner.naslouchamesrdcem.cz^
@@ -108079,6 +108092,7 @@
 ||navi54.com^
 ||navi56.com^
 ||navi58.com^
+||navi58.ru^
 ||navi59.ru^
 ||navi6.com^
 ||navi65.com^
@@ -115616,7 +115630,7 @@
 ||fzgpzp.opodo.de^
 ||qflwqw.opodo.fr^
 ||marketing.opoffice.com^
-||www.opolis.io^
+||opolis.io^
 ||stats.opoloo.de^
 ||wave.opompash.ru^
 ||oponixa.com^
@@ -118531,6 +118545,7 @@
 ||pastdsaped.com^
 ||analytics.paste.ee^
 ||www.pastebin.biz.id^
+||api.pastecode.io^
 ||pastelcromes.com^
 ||pasteldevaluation.com^
 ||pastelesallegro.com.mx^
@@ -120526,6 +120541,7 @@
 ||phuphi.com^
 ||phupours.com^
 ||phursefter.net^
+||phuthobsee.com^
 ||phuzeeksub.com^
 ||phvfevk.xyz^
 ||phvhnxebmrzf.com^
@@ -122181,6 +122197,7 @@
 ||pmwwedke.com^
 ||pmxyzqm.com^
 ||pmzer.com^
+||pmzlnt.xyz^
 ||pn.ac.th^
 ||pn.vg^
 ||pn36.cn^
@@ -126772,6 +126789,7 @@
 ||ptapjmp.com^
 ||ptashkatextil.ua^
 ||ptatexiwhe.com^
+||ptatzrucj.com^
 ||ptaumoadsovu.com^
 ||ptaunsoova.com^
 ||ptaupsom.com^
@@ -148203,6 +148221,7 @@
 ||trackmarketing.staubli.com^
 ||staubsuthil.com^
 ||em.stauffersafety.com^
+||staukaul.com^
 ||staumersleep.com^
 ||staunchgenetwitch.com^
 ||staureez.net^
@@ -149898,7 +149917,7 @@
 ||sstats.sumitomo-pharma.co.jp^
 ||sstats.sumitomo-pharma.com^
 ||sstats.sumitomo-pharma.jp^
-||www.sumiyuki.co.jp^
+||sumiyuki.co.jp^
 ||summaryjustlybouquet.com^
 ||summer-notifications.com^
 ||summerbestapp.com^
@@ -153636,7 +153655,6 @@
 ||www.telegram-telegram.icu^
 ||telegram-vip.com^
 ||telegram-zhongwen.com^
-||telegram.ninja^
 ||telegrambotsolution.pages.dev^
 ||telegramconform.com^
 ||telegramgw.cc^
@@ -170424,6 +170442,7 @@
 ||vuzyjaa.com^
 ||vv1sionaryr1se.life^
 ||vv8h9vyjgnst.com^
+||vvadz.cc^
 ||ub-xjp.vvbrd.com^
 ||bxumze.vvdailypress.com^
 ||vveb3-ex0duse-vvalletes.top^
@@ -175918,6 +175937,7 @@
 ||update.wps.cn^
 ||wpsweb-dc.wps.cn^
 ||api-ad-adapter.wps.com^
+||wpsbaq.xyz^
 ||honeycomb.wpscdn.cn^
 ||mo.res.wpscdn.cn^
 ||tracker.wpserveur.net^
@@ -176168,6 +176188,7 @@
 ||ww88club.com^
 ||wwads.cn^
 ||wwaol.com^
+||wwaowwonthco.com^
 ||wwclick.su^
 ||wwclickgo.com^
 ||wwclicknews.club^
@@ -179318,6 +179339,7 @@
 ||fcmatch.youtube.com^
 ||s.youtube.com^
 ||youtubei.youtube.com^
+||youtubebplan.com^
 ||youtubecensorship.com^
 ||youtubecenter.net^
 ||youtubee.com^
