@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240925163938
-! Last modified: 2024/09/25 16:39:38
-! Blocked domains: 181604
+! Version: 20240926004023
+! Last modified: 2024/09/26 00:40:23
+! Blocked domains: 181618
 ! unBlocked domains: 150
 !
 ||viinted.03265812.xyz^
@@ -552,6 +552,7 @@
 ||api.140proof.com^
 ||www.1414.de^
 ||creative.141live.com^
+||14202444.xyz^
 ||6f7ad7ae07.142f8fb46a.com^
 ||1437953666.rsc.cdn77.org^
 ||b73b66d5e6.144a0bcf96.com^
@@ -3247,7 +3248,7 @@
 ||www.74123.com^
 ||74142961.xyz^
 ||74264bd2c8.com^
-||a9e69f8da2.742ba1f9a9.com^
+||742ba1f9a9.com^
 ||www.74988.net^
 ||7d8c044232.74e7e0defc.com^
 ||75.ag^
@@ -10721,6 +10722,7 @@
 ||akuzmin.com^
 ||akvatech.hu^
 ||akvpzgytzv.com^
+||akvqulocj.com^
 ||akwm.pl^
 ||akxwffsgijttvrc.com^
 ||akyr3h9x5mb.com^
@@ -10875,6 +10877,7 @@
 ||data.deinfeedback.alditalk-kundenbetreuung.de^
 ||waaf1.alditalk.de^
 ||aldofashion.com^
+||aldolstelly.click^
 ||7061624751.aldonaciesla.eu^
 ||www.7061624751.aldonaciesla.eu^
 ||aldosesmajeure.com^
@@ -10923,6 +10926,7 @@
 ||aleperfumeria.pl^
 ||alephd.com^
 ||partneri.alepiacz.cz^
+||alepinezaptieh.com^
 ||info.aleragroup.com^
 ||info.aia-co.aleragroup.com^
 ||info.aiabbs.aleragroup.com^
@@ -43473,6 +43477,7 @@
 ||d3zd5ejbi4l9w.cloudfront.net^
 ||d41.co^
 ||d415l8qlhk6u6.cloudfront.net^
+||d43849fz.xyz^
 ||d49z64r3ud4kq.cloudfront.net^
 ||d4ax0r5detcsu.cloudfront.net^
 ||d4bt5tknhzghh.cloudfront.net^
@@ -64282,6 +64287,7 @@
 ||fussel-streetwear.com^
 ||fussy-highway.pro^
 ||fussyfuck.com^
+||fussysandwich.pro^
 ||cvclso.fust.ch^
 ||bitqsinvstm-pl.fusyjse.com^
 ||futado.pl^
@@ -65869,6 +65875,7 @@
 ||schoorsteen.geenstijl.nl^
 ||geerairu.net^
 ||geeseempire.com^
+||geetacog.xyz^
 ||geetarecipes.com^
 ||log.geetest.com^
 ||geethaihoa.com^
@@ -79309,6 +79316,7 @@
 ||adsmrapi.imbc.com^
 ||imbc.onthewifi.com^
 ||geoip.imber.live^
+||imbeselbeno.com^
 ||links.imcas.com^
 ||imcdn.pro^
 ||imcht.net^
@@ -101608,6 +101616,7 @@
 ||olx.methodme.shop^
 ||methodsbillboardssurface.com^
 ||methodslacca.top^
+||methodyprovand.com^
 ||methoxyunpaled.com^
 ||get.metileanoffer.site^
 ||metisans.com^
@@ -117434,6 +117443,7 @@
 ||oredero.com^
 ||oreeva.com^
 ||biznews.oregon.gov^
+||oregonguttera.com^
 ||campaign.oregonhumane.org^
 ||geoip.oregonlive.com^
 ||metrics.oregonlive.com^
@@ -122995,6 +123005,7 @@
 ||pnv-68.cfd^
 ||pnvtlh.xyz^
 ||pnw0kbzjtt.com^
+||pnwawbwwx.com^
 ||pnxtnp.xyz^
 ||ctr.po-kaki-to.com^
 ||ads.po-zdravidnes.com^
@@ -165762,6 +165773,7 @@
 ||validmemo.com^
 ||validus.pro^
 ||www.validview.com^
+||validworking.pro^
 ||valifeldtrk.com^
 ||valikoa.com^
 ||valiship.info^
@@ -166957,6 +166969,7 @@
 ||vf678.com^
 ||vfastdownload.com^
 ||go.vfc.com^
+||vfdvdfv77.fun^
 ||partner.vffoto.com^
 ||vfghd.com^
 ||a.vfgtb.com^
@@ -173833,6 +173846,7 @@
 ||windindelicateexclusive.com^
 ||windingnegotiation.com^
 ||windingravesupper.com^
+||windlebrogues.com^
 ||test.windmar.com^
 ||www.windocyte.com^
 ||windolkad.info^
