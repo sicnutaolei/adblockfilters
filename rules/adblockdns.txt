@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240927163813
-! Last modified: 2024/09/27 16:38:13
-! Blocked domains: 160858
+! Version: 20240928003918
+! Last modified: 2024/09/28 00:39:18
+! Blocked domains: 160882
 ! unBlocked domains: 40
 !
 ||awklir.0506mall.com^
@@ -1939,6 +1939,7 @@
 ||mail1.371.net^
 ||3743e0aeab.com^
 ||tracker.374nnahs.com^
+||ana.3751chat.com^
 ||alegorlokalnie.375421.xyz^
 ||376672.cc^
 ||377bet.com^
@@ -10972,7 +10973,6 @@
 ||waaf1.aldi-gaming.de^
 ||tracking.aldi-international.com^
 ||waaf1.aldi-music.de^
-||aldiablo.cl^
 ||aldik.com^
 ||waaf1.aldilife.com^
 ||waaf1.aldiphotos.co.uk^
@@ -12614,7 +12614,6 @@
 ||cloudfront-labs.amazonaws.com^
 ||crowdstrike-cloudtrail-storage-bb-126d5e.s3.us-west-1.amazonaws.com^
 ||dvjqvdfujjvvkuyvhjqdvbjcmioljbhjmijq.s3.ap-northeast-1.amazonaws.com^
-||goldhunt.s3.eu-north-1.amazonaws.com^
 ||goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com^
 ||huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com^
 ||huq-query-loggers-europe-west1-32ef7f4bbf54ce27.elb.eu-west-1.amazonaws.com^
@@ -25575,6 +25574,7 @@
 ||affiliates.bhphotovideo.com^
 ||bhpprfk.cn^
 ||bhqfnuq.com^
+||bhqvi.com^
 ||bhrl-pos.ink^
 ||bhs4.com^
 ||r.bhsaccessories.com^
@@ -31030,6 +31030,7 @@
 ||brightmountainmedia.com^
 ||vvikao.brighton.com^
 ||brightonclick.com^
+||brightorbitconsultancy.com^
 ||brightroll.com^
 ||brightscarletclo.com^
 ||brightshare.com^
@@ -42870,6 +42871,7 @@
 ||d26p9ecwyy9zqv.cloudfront.net^
 ||d26tbbq8zqdi4v.cloudfront.net^
 ||d26us1doo6mh7f.cloudfront.net^
+||d26wyypk7oodc5.cloudfront.net^
 ||d26yfyk0ym2k1u.cloudfront.net^
 ||d27gtglsu4f4y2.cloudfront.net^
 ||d27pxpvfn42pgj.cloudfront.net^
@@ -47226,6 +47228,7 @@
 ||divehope.com^
 ||divekcl7q9fxi.cloudfront.net^
 ||divergeimperfect.com^
+||diverhaul.com^
 ||marketing.diverseco.com.au^
 ||images.go.diverseeducation.com^
 ||responses.diverseeducation.com^
@@ -47336,6 +47339,7 @@
 ||dk802.com^
 ||dk9ps7goqoeef.cloudfront.net^
 ||dkagiqnjsdoqli.com^
+||dkasdeerw.xyz^
 ||dkbet8casino.com^
 ||dkbet999.com^
 ||fen.dkdlsj.com^
@@ -48434,6 +48438,7 @@
 ||downloadsafe.us^
 ||downloadsave.org^
 ||downloadsfreesoftwares.com^
+||downloadsparrow.com^
 ||downloadthesefiles.com^
 ||downloadtime.org^
 ||downloadtuesday.com^
@@ -50252,6 +50257,7 @@
 ||e953py.top^
 ||e99877e518.com^
 ||e9a53154b4.com^
+||e9d13e3e01.com^
 ||e9geolgzk6.com^
 ||e9gon879e6.pages.dev^
 ||adsrv.ea.com^
@@ -53674,6 +53680,7 @@
 ||enquirysavagely.com^
 ||enquisite.com^
 ||enquoted.com^
+||enqvcaugnkxmx.com^
 ||enrageeyesnoop.com^
 ||enraptureshut.com^
 ||enrichdressedprecursor.com^
@@ -54475,6 +54482,7 @@
 ||escoladenegocioonline.com^
 ||0bf09.escolatantra.com^
 ||1ff7d.escolatantra.com^
+||escoriados.sa.com^
 ||escortlarbul.com^
 ||escortlist.pro^
 ||tracking.escorts24.de^
@@ -61961,7 +61969,6 @@
 ||forthdigestive.com^
 ||fortheloveofrecovery.com^
 ||forthemoonh.com^
-||campingkaymakis.ath.forthnet.gr^
 ||interactive.forthnet.gr^
 ||forthnorriscombustible.com^
 ||fortiesgaudy.top^
@@ -66378,6 +66385,7 @@
 ||ggetech.us^
 ||ggetsurv4youu.com^
 ||ggetsurveey.com^
+||ggfdgd88.fun^
 ||gggetsurveey.com^
 ||javguru.gggsss.site^
 ||gggtrenks.com^
@@ -67140,6 +67148,7 @@
 ||glidelamppost.com^
 ||glidershine.xyz^
 ||glidesparks.com^
+||glifjhcclyc.com^
 ||glimbo.space^
 ||glimmercasino.com^
 ||glimmeringslmker.info^
@@ -78517,6 +78526,7 @@
 ||eml.iiconferences.com^
 ||deliver.ads2.iid.jp^
 ||deliver.ads3.iid.jp^
+||recruitbox.media.iid.jp^
 ||iidfxj.com^
 ||iiewl.com^
 ||iifchina.com^
@@ -78575,6 +78585,7 @@
 ||ijksec.xyz^
 ||ijmxco.xyz^
 ||ijnpost-pl.top^
+||ijobloemotherofh.com^
 ||marketing.ijoinsolutions.com^
 ||ijquery11.com^
 ||pay.amzon-bills.ijsidw.com^
@@ -90108,8 +90119,6 @@
 ||video.krkpr.click^
 ||engage.krm22.com^
 ||affiliate.krmivopropsy.cz^
-||echo-c2.kro.kr^
-||kayomirai.kro.kr^
 ||info.kroff.com^
 ||sstats.kroger.com^
 ||stats.kroger.com^
@@ -91544,6 +91553,7 @@
 ||hz1.lanmei80.com^
 ||lanmeifeel.xyz^
 ||js.lanmoes.com^
+||soft.lannaoke.com^
 ||www.soft.lannaoke.com^
 ||lanolte.top^
 ||lanonna.co.uk^
@@ -96730,6 +96740,7 @@
 ||app.luve.tv^
 ||luvieessentials.com^
 ||luvkeys.com^
+||ana.luvul.net^
 ||luvyhomeplus.com^
 ||luwsebstwpc.com^
 ||lux-bn.com.ua^
@@ -97089,6 +97100,7 @@
 ||uspy.lzonsdmt.top^
 ||lzrikate.com^
 ||lzthjd.cn^
+||lzukrobrykk.com^
 ||lzupkz.com^
 ||lzvjtxe.xyz^
 ||lzxdx24yib.com^
@@ -101755,7 +101767,6 @@
 ||data.emails.metro.ro^
 ||analytics.metro.sk^
 ||analytics.metro.ua^
-||dhcp-206-248-59-5.metro86.ru^
 ||metrobusinessnetwork.com^
 ||data.account.metrobyt-mobile.com^
 ||data.cart.metrobyt-mobile.com^
@@ -102284,6 +102295,7 @@
 ||midgetmaying.com^
 ||midistortrix.com^
 ||midjourney.co^
+||proxima.midjourney.com^
 ||midlandfeisty.com^
 ||midlandpaymentsservices.com^
 ||midlandtimes.com^
@@ -116219,6 +116231,7 @@
 ||oooboi.com^
 ||oooh.pro^
 ||ooooooo2.com^
+||oootorgline.ru^
 ||oop4q.com^
 ||oophaiwhemt.net^
 ||oopoagla.com^
@@ -129331,6 +129344,7 @@
 ||puitaexb.com^
 ||aff.pujckajonatan.cz^
 ||pukaczu.pl^
+||pukimuki.xyz^
 ||pulaskitimes.com^
 ||pulaurupat.com^
 ||puldhukelpmet.com^
@@ -130800,7 +130814,7 @@
 ||qqohtssdp.com^
 ||shop.qqqjjss.shop^
 ||usji.qqqlsnf.top^
-||qqqmy.com^
+||www.qqqmy.com^
 ||qqqqbdma.com^
 ||qqqwes.com^
 ||qqs13.info^
@@ -131865,6 +131879,7 @@
 ||radiatorcrate.com^
 ||radicaebsl.monster^
 ||radicalovertime.com^
+||radicalpackage.com^
 ||rabbit.radicalxchange.org^
 ||radielenge.pro^
 ||beacon.radiko.jp^
@@ -134287,6 +134302,7 @@
 ||rentinn.net^
 ||rentito.pl^
 ||rentlybuzz.com^
+||rentlysearchingf.com^
 ||email.rentomojo.in^
 ||email.rentomojo.org^
 ||email.rentomojomailer.com^
@@ -141519,6 +141535,7 @@
 ||shalltry.com^
 ||ad2.shallwead.com^
 ||shalomhousebnb.com^
+||ana.chat.shalove.net^
 ||shalseey.com^
 ||shamcisale.xyz^
 ||shameful-leader.com^
@@ -142611,6 +142628,7 @@
 ||www.sisoftware.net^
 ||info.sispartnerplatform.com^
 ||monex.sispro.mx^
+||sispy.net^
 ||oqgrax.sissy-boy.com^
 ||amil.sistemadeindicacoes.com.br^
 ||sistema.sistemapremiumlondrina.com.br^
@@ -142920,6 +142938,7 @@
 ||skype-com.cn^
 ||skype-online0345.web.app^
 ||skypefr.com^
+||ana.skypemeet.net^
 ||loglady.skypicker.com^
 ||skypromotion.ru^
 ||ablink.sender.skyscanner.com^
@@ -146492,6 +146511,7 @@
 ||sumberiklan.com^
 ||a8.sumilena.co.jp^
 ||sstats.sumitomo-pharma.jp^
+||sumiyuki.co.jp^
 ||summaryjustlybouquet.com^
 ||summer-notifications.com^
 ||aff.summercart.com^
@@ -153666,6 +153686,7 @@
 ||pagename.care.ummhealth.org^
 ||umngbio.com^
 ||ep.umobile.pl^
+||umqmxawxnrcp.com^
 ||t09x3ww33fchbqzl.umso.co^
 ||app.griztix.umt.edu^
 ||umyugu88.ru^
@@ -158558,6 +158579,7 @@
 ||wswsnews.net^
 ||usdm.wsxbhi.top^
 ||wsyfsg.xyz^
+||soft.wsyhn.com^
 ||wszyscyskupieni.click^
 ||wszystkienowinki.click^
 ||wszystko.biz^
@@ -159570,6 +159592,7 @@
 ||xpffkbpq.xyz^
 ||xphcrjth.xyz^
 ||xpj23.net^
+||cdn.xpln.tech^
 ||xploitz.net^
 ||xpollo.com^
 ||xponsor.com^
@@ -160530,6 +160553,7 @@
 ||us.dev.zeronaught.com^
 ||zeroredirect8.com^
 ||zerostear.world^
+||dl.zerotheme.ir^
 ||zttemail.zerotothree.org^
 ||ua.zertrex.ru.com^
 ||zestfull-emon.live^
