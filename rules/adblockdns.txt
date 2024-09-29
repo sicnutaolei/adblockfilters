@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240929003446
-! Last modified: 2024/09/29 00:34:46
-! Blocked domains: 178553
+! Version: 20240929094934
+! Last modified: 2024/09/29 09:49:34
+! Blocked domains: 178577
 ! unBlocked domains: 151
 !
 ||0000y.net^
@@ -2379,6 +2379,7 @@
 ||5566688.net^
 ||5566ua.com^
 ||55726zubo56686.com^
+||55766925.xyz^
 ||558-558-559.com^
 ||558ao12sqrok.top^
 ||558kbet.com^
@@ -13657,6 +13658,7 @@
 ||share.appdater.mobi^
 ||appdatum.com^
 ||appdevweb.com^
+||appdiscapacidad.com^
 ||appdraft.link^
 ||log.appdriver.jp^
 ||ssl.image.appdriver.jp^
@@ -17413,7 +17415,6 @@
 ||vrhesh.avocadogreenmattress.com^
 ||ghrnbw.avocadostore.de^
 ||avocadot.com^
-||avocaldoperu.com^
 ||avocams.com^
 ||avocarrot.com^
 ||avoda-mehabait.co.il^
@@ -17814,6 +17815,7 @@
 ||aycrxa.com^
 ||aydandelion.com^
 ||kbpljd.aydin.edu.tr^
+||ayebsc.xyz^
 ||ayensexilic.com^
 ||marketing.ayesa.com^
 ||ayeslot.com^
@@ -19580,6 +19582,7 @@
 ||bom.bartoszstolarski.com.pl^
 ||brysia.bartoszstolarski.com.pl^
 ||daruszka.bartoszstolarski.com.pl^
+||baruopas.com^
 ||barvalance.com^
 ||barwnyona.yachts^
 ||barye-offers.com^
@@ -24654,6 +24657,7 @@
 ||bloodlessarchives.com^
 ||bloodmaintenancezoom.com^
 ||log.bloodppressure.info^
+||files.bloodqwe.shop^
 ||bloodrootsalve.com^
 ||bloodsugarberry.com^
 ||log.bloodsugars.live^
@@ -27674,7 +27678,6 @@
 ||vvikao.brighton.com^
 ||brightonclick.com^
 ||brightonlandscapesupply.com^
-||brightorbitconsultancy.com^
 ||brightpathinnovate.com^
 ||brightpointfunding.com^
 ||brightportal.click^
@@ -31073,7 +31076,7 @@
 ||cartstack.com^
 ||cartx.cloud^
 ||wheelify.cartzy.com^
-||b.carungo.com^
+||carungo.com^
 ||carv.site^
 ||carvagemidweek.shop^
 ||branch.carvana.com^
@@ -31878,7 +31881,7 @@
 ||cdn7.network^
 ||cdn7.rocks^
 ||cdnads.com^
-||video.cdnako.com^
+||cdnako.com^
 ||cdnapi.net^
 ||cdnasiaclub.com^
 ||cdnativ.com^
@@ -31971,6 +31974,7 @@
 ||cdsbnrs.com^
 ||cdshusen.cn^
 ||go.cdsi.us.com^
+||cdszgg.xyz^
 ||insights.cdt.ch^
 ||cdttxdqe.xyz^
 ||cdu.cc^
@@ -53049,6 +53053,7 @@
 ||enniced.com^
 ||enodiarahnthedon.com^
 ||enoises.com^
+||enokouv.icu^
 ||www.enomis-paris.fr^
 ||enoneahbu.com^
 ||enoneahbut.org^
@@ -53301,7 +53306,6 @@
 ||www2.eoilreports.com^
 ||eolcdn.com^
 ||eole-passion.com^
-||5-157-110-232.dyn.eolo.it^
 ||eolx.pl^
 ||eom-nv.com^
 ||mail.eomega.com^
@@ -65289,7 +65293,6 @@
 ||turtle.geshem.space^
 ||gesrg.com^
 ||gestama.boats^
-||vw1.gestimnogo.net^
 ||gestion-assurance-sante.com^
 ||smetrics.gestionpriveegi.com^
 ||analytics.gestore.com^
@@ -71187,6 +71190,7 @@
 ||t.hartfordsymphony.org^
 ||hartim.com^
 ||www.hartnessintl.com^
+||haruko.store^
 ||ads.harvard.edu^
 ||go.hks.harvard.edu^
 ||smetrics.hbsp.harvard.edu^
@@ -72261,6 +72265,7 @@
 ||teijgy.herveleger.com^
 ||track.hervitalityhub.com^
 ||herynore.com^
+||heryt111.fun^
 ||data-e0448d0e4a.herz-fuer-tiere.de^
 ||data-67f17c94f0.herzberatung.de^
 ||data-908fd409d9.herzberatung.de^
@@ -75121,6 +75126,7 @@
 ||imp.i312864.net^
 ||i3535.com^
 ||i36mf.cn^
+||ios-pclog.i4.cn^
 ||go.i4cp.com^
 ||i4nstr1gm.com^
 ||i4rsrcj6.top^
@@ -75766,6 +75772,7 @@
 ||helps-center-page-number-12589365.id.vn^
 ||member.freefiregarena.id.vn^
 ||membership.garenaa.id.vn^
+||booking.id05196219.com^
 ||id5-sync.com^
 ||id6.me^
 ||email-mandrill.id90travel.com^
@@ -80322,6 +80329,7 @@
 ||itpronetwork.net^
 ||trk.itprotoday.com^
 ||api.itpub.cloud^
+||itqwesk.icu^
 ||itrac.it^
 ||itrack.it^
 ||itracker360.com^
@@ -81180,6 +81188,7 @@
 ||www.jdailymall.com^
 ||e.jdaot.com^
 ||m.jdaot.com^
+||jdapp388shop.com^
 ||play.jdb888.club^
 ||pic.jdbbs.com^
 ||jdbeht.xyz^
@@ -86008,6 +86017,7 @@
 ||kmsauto.info^
 ||kmsauto.org^
 ||kmsauto.tech^
+||kmsauto.uno^
 ||kmsautodown.space^
 ||smetrics.kmshair.com^
 ||brand-sdk.kmsmep.com^
@@ -87536,6 +87546,7 @@
 ||kumaize.xyz^
 ||lp.kumamoto4510.com^
 ||kumanas.space^
+||oldmedia.kumaneko.me^
 ||kumihua.com^
 ||cattle.kumo.at^
 ||metrics.kumon.com^
@@ -93735,7 +93746,7 @@
 ||emails.luxurylink.com^
 ||marketing.luxurylink.com^
 ||subscribers.luxurylink.com^
-||luxurypropertiesfl.com^
+||www.luxurypropertiesfl.com^
 ||luxuryseller39.com^
 ||bnc.luxurysportsrelocation.com^
 ||luxurytechnical.com^
@@ -96869,6 +96880,7 @@
 ||stpl.mazecuadr.top^
 ||mazefoam.com^
 ||mazuma.ru^
+||mazurax.com^
 ||clk.mazurbud.com^
 ||smetrics.mazuri.com^
 ||mb-npltfpro.com^
@@ -101683,6 +101695,7 @@
 ||modkmarket.vip^
 ||modlily.com^
 ||modmarket.click^
+||modmobile24.com^
 ||qswdme.modnakiecka.pl^
 ||modnikreace.com^
 ||modnynext.pl^
@@ -105356,6 +105369,7 @@
 ||v.myvoleo.com^
 ||links.myvolly.com^
 ||myvyzao.com^
+||230.sub-166-166-188.myvzw.com^
 ||axp.mywabashvalley.com^
 ||app.mywaggle.com^
 ||app-test.mywaggle.com^
@@ -106412,6 +106426,7 @@
 ||navi6.com^
 ||navi65.com^
 ||navi66.ru^
+||navi69.ru^
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
@@ -111362,6 +111377,7 @@
 ||obuwie-online.pl^
 ||obuwiezs.pl^
 ||ad.obuy.tw^
+||obviousestate.com^
 ||ens.obwaldnerzeitung.ch^
 ||obwieszczenie.click^
 ||obwieszczeniednia.click^
@@ -127347,7 +127363,7 @@
 ||qqohtssdp.com^
 ||shop.qqqjjss.shop^
 ||usji.qqqlsnf.top^
-||www.qqqmy.com^
+||qqqmy.com^
 ||qqqqbdma.com^
 ||qqqwes.com^
 ||qqs13.info^
@@ -146963,6 +146979,7 @@
 ||sumberiklan.com^
 ||sumbreta.com^
 ||sumclub1.xyz^
+||sumerda.com^
 ||lad.sumikai.com^
 ||stats.sumikai.com^
 ||x.sumikai.com^
@@ -146971,6 +146988,7 @@
 ||sstats.sumitomo-pharma.co.jp^
 ||sstats.sumitomo-pharma.com^
 ||sstats.sumitomo-pharma.jp^
+||www.sumiyuki.co.jp^
 ||summaryjustlybouquet.com^
 ||summer-notifications.com^
 ||summerboycottrot.com^
@@ -146988,6 +147006,7 @@
 ||seniorliving.summitvista.com^
 ||sumo.com^
 ||sumome.com^
+||sumonare.com^
 ||ads.sumotorrent.com^
 ||ads.sumotorrent.sx^
 ||trk.sumotrk.com^
@@ -151192,6 +151211,7 @@
 ||tertracks.site^
 ||terttalkinhitin.pro^
 ||reach.terumo-bct.com^
+||teryt111.fun^
 ||terytoriummiejskie.click^
 ||tesakom.com^
 ||tesbuer.xyz^
@@ -153557,6 +153577,7 @@
 ||khiurx.tigerdirect.com^
 ||affiliate.tigerfitness.com^
 ||link.tigerhall.com^
+||tigerkash.com^
 ||tigerlilyindia.com^
 ||go.tigertool.com^
 ||olx.tight-get.shop^
@@ -154480,6 +154501,7 @@
 ||toaglegi.com^
 ||toals.co.uk^
 ||toamaustouy.com^
+||toapz.xyz^
 ||ad-exchange.toast.com^
 ||adlc-exchange.toast.com^
 ||adx-exchange.toast.com^
@@ -161234,6 +161256,7 @@
 ||upsidejolly.com^
 ||tally.upsideout.com^
 ||p.upskirt.tv^
+||creative.upskirtlive.com^
 ||upskittyan.com^
 ||upsmega.com^
 ||upsnap.com^
@@ -163934,6 +163957,7 @@
 ||metrics.verizon.com^
 ||sanalytics.verizon.com^
 ||unsubscribe.email.verizon.com^
+||static-100-1-226-154.nwrknj.fios.verizon.net^
 ||images.verizonconnect.com^
 ||images2.verizonconnect.com^
 ||images3.verizonconnect.com^
@@ -173405,7 +173429,6 @@
 ||www.xahywwx.com^
 ||marketing.xait.com^
 ||xajibur.ru^
-||xajzfwgs.com^
 ||xaker26.net^
 ||xalatlaco.org^
 ||xalienstreamx.com^
@@ -176781,6 +176804,7 @@
 ||yziwujuzq.live^
 ||yzjftz.net^
 ||yzkzixun.com^
+||yzldy.info^
 ||yzmcok.xyz^
 ||yzqjaltdhlv.com^
 ||trk.yzsystems.com^
