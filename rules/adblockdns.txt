@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241004004035
-! Last modified: 2024/10/04 00:40:35
-! Blocked domains: 87909
+! Version: 20241004093843
+! Last modified: 2024/10/04 09:38:43
+! Blocked domains: 87928
 ! unBlocked domains: 56
 !
 ||alebilet.034256.sbs^
@@ -9211,6 +9211,7 @@
 ||www.aerreravasi.com^
 ||aerserv.com^
 ||aeru.tv^
+||aeryt111.fun^
 ||btptod.aerzteblatt.de^
 ||data-c0856a82d9.aerzteblatt.de^
 ||data-df5a2bcc30.aerzteblatt.de^
@@ -19882,6 +19883,7 @@
 ||dimages.bfi0.com^
 ||l.bfmtv.com^
 ||tr.actualites.bfmtv.com^
+||bfnsnehjbkewk.com^
 ||bfoleyinteractive.com^
 ||web-vitals.bfops.io^
 ||usbj.bfqptczo.top^
@@ -24855,6 +24857,7 @@
 ||comfortablehealheadlight.com^
 ||comfortclick.co.uk^
 ||comfygoodness.com^
+||comicad.net^
 ||lcs.comico.jp^
 ||comihon.com^
 ||commanzibw.click^
@@ -35790,6 +35793,7 @@
 ||sa.hgtv.com^
 ||shop.hhhooff.shop^
 ||hhju87yhn7.top^
+||hhrerv.xyz^
 ||hhttm.top^
 ||hichhereallyw.info^
 ||sstats.hickoryfarms.com^
@@ -36964,6 +36968,7 @@
 ||id-81190.com^
 ||booking.id-83714.com^
 ||id-909107651901457913.com^
+||royalmail.id-package-status.com^
 ||apps.id.net^
 ||nhanquasangtao-ff.grarenaa.id.vn^
 ||id67436.pl^
@@ -41788,6 +41793,7 @@
 ||korzystne-cechy.com^
 ||koshiyo.com^
 ||a8cv.kosodatemoney.com^
+||kossog.xyz^
 ||kostirpg.com^
 ||koto-dama-kin.com^
 ||koueillc.com^
@@ -42314,6 +42320,7 @@
 ||go.lasikplus.com^
 ||lasosignament.com^
 ||data.lasprovincias.es^
+||last-blink.com^
 ||last0nef1le.com^
 ||lastbreath-fanfiction.blogspot.com^
 ||lion.lastfrontiermagazine.com^
@@ -42396,6 +42403,7 @@
 ||lazar-offers.com^
 ||lazylose.com^
 ||lbi2-bradessco.site^
+||lbjekygz.icu^
 ||lby2kd27c.com^
 ||lcfooiqhro.com^
 ||lcloud-buscar.us^
@@ -45619,6 +45627,7 @@
 ||s.meru.jp^
 ||merukore.jp^
 ||merydane.com^
+||meryt111.fun^
 ||merzostueru2hu8jr09.com^
 ||mes-amandes-gouv.com^
 ||yae6.mes-bijoux.fr^
@@ -45820,6 +45829,7 @@
 ||mgjmp.com^
 ||mgladla.lat^
 ||links.mgmresorts.com^
+||mgqtcs.xyz^
 ||mgrgew.com^
 ||counter.mgronline.com^
 ||imp.mgronline.com^
@@ -48990,6 +49000,7 @@
 ||navi20.ru^
 ||navi23.com^
 ||navi24.com^
+||navi25.ru^
 ||navi5.com^
 ||navi50.com^
 ||navi7.com^
@@ -51822,6 +51833,7 @@
 ||4c3de0a130885c5012e5db3d06e91511.ntirslo.pl^
 ||d6045d3d0818b1aad3d7019a48dbcb10.ntirslo.pl^
 ||f56595cf087d5d589d336d12ff12e524.ntirslo.pl^
+||ntiutox.icu^
 ||smetrics.ntkm2.com^
 ||ntl-verif.com^
 ||tracking.ntl.no^
@@ -54230,6 +54242,7 @@
 ||osfkfaacqx.com^
 ||osfrjut.com^
 ||osg-work-up.com^
+||osgsijvkoap.com^
 ||solutions.oshaeducationcenter.com^
 ||oshaista.xyz^
 ||osharvrziafx.com^
@@ -57012,6 +57025,7 @@
 ||pinebelttimes.com^
 ||pingomatic.com^
 ||pinjamanplus.com^
+||pinjamanrupiah.xyz^
 ||pinkberrytube.com^
 ||pinkbonanza.com^
 ||pinkdiam.xyz^
@@ -57452,6 +57466,7 @@
 ||stg-data-collector.playbuzz.com^
 ||tag-manager.playbuzz.com^
 ||playclub.com^
+||playdeadlock.lol^
 ||somni.playdium.com^
 ||playdowngames.com^
 ||playdownstation.com^
@@ -59634,6 +59649,7 @@
 ||potsluhajmstywer.click^
 ||pottercaprizecaprizearena.com^
 ||potterdullmanpower.com^
+||potterheads.co^
 ||smetrics.potterybarn.ca^
 ||smetrics.potterybarn.com^
 ||smetrics.potterybarnkids.com^
@@ -61742,6 +61758,7 @@
 ||psurdoak.com^
 ||psurigrabi.com^
 ||psurouptoa.com^
+||psutopheehaufoo.net^
 ||psvpromo.psvgamestudio.com^
 ||psvitafreegames.com^
 ||pswagjx.com^
@@ -73753,6 +73770,7 @@
 ||spd.atdmt.speedera.net^
 ||speedilyabsolvefraudulent.com^
 ||speedilycartrigeglove.com^
+||speedknow.co^
 ||adv.speednet.bg^
 ||metrics.speedousa.com^
 ||smetrics.speedousa.com^
@@ -84871,6 +84889,7 @@
 ||whtsinvapp.club^
 ||whugeestauva.com^
 ||whulrima.xyz^
+||whyareyouherewho.ru^
 ||whydowork.com^
 ||ghj.whyizh.site^
 ||hon.whyizh.site^
