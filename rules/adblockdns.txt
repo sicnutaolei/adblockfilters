@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241005004023
-! Last modified: 2024/10/05 00:40:23
-! Blocked domains: 87407
+! Version: 20241005093727
+! Last modified: 2024/10/05 09:37:27
+! Blocked domains: 87429
 ! unBlocked domains: 47
 !
 ||04gamek8.com^
@@ -318,6 +318,7 @@
 ||118crops.com^
 ||m.118ex.cn^
 ||118kbet.com^
+||1192349565.rsc.cdn77.org^
 ||bbb32b6dd7.119d54cc74.com^
 ||11a6670e45.com^
 ||ywrcqa.11alive.com^
@@ -556,12 +557,14 @@
 ||1357902.cn^
 ||1360.cn^
 ||137kfj65k.de^
+||1380804958.rsc.cdn77.org^
 ||138lm.com^
 ||138xt.com^
 ||lyapi.1391.com^
 ||mhdufile.1391.com^
 ||mhjk.1391.com^
 ||13bt.info^
+||13c4491879.com^
 ||b0bee72a02.13e153630d.com^
 ||563639804d.13e63e2dea.com^
 ||13kbs.com^
@@ -3018,6 +3021,7 @@
 ||oolx.59484015.xyz^
 ||595image.com^
 ||595tuchuang.com^
+||59644010.xyz^
 ||59betorspin.com^
 ||59cn7.com^
 ||59e6ea7248001c.com^
@@ -3647,6 +3651,7 @@
 ||78win04.com^
 ||78win07.com^
 ||78win09.com^
+||79180284.xyz^
 ||gg.7976.top^
 ||allegro1-okalnie9.798000.xyz^
 ||6fb11f4b6e.7981d0e1b2.com^
@@ -5337,6 +5342,7 @@
 ||abs-static.org^
 ||say.abs.beauty^
 ||thay.abs.beauty^
+||absalomcsa.com^
 ||abscakez.com^
 ||data-11c63b1cbc.abschied-nehmen.de^
 ||discover.absciex.com^
@@ -9906,6 +9912,7 @@
 ||agritech-utilajeagricole.ro^
 ||al.agriz.net^
 ||tk.agrizone.net^
+||agrmufot.com^
 ||agro-factory2.eu^
 ||agro-gid.com^
 ||agro.net.ru^
@@ -10262,8 +10269,8 @@
 ||ainsaibs.xyz^
 ||ainspiracjajaki.skin^
 ||ainsyndication.com^
-||boutique.aintzira.com^
 ||test.aintzira.com^
+||www.boutique.aintzira.com^
 ||ainuftou.net^
 ||ainvat.com^
 ||api.aio.media^
@@ -26020,7 +26027,6 @@
 ||binomo2022.net^
 ||binomoidr.com^
 ||binomoindonesia.com^
-||binomorupiah-id.com^
 ||binomorush.in^
 ||binomotop.com^
 ||binomoweb.org^
@@ -27025,7 +27031,6 @@
 ||blaze-media.com^
 ||pl-cleaner.blaze-mobiles.com^
 ||info.blazecu.com^
-||cp.blazemvpn.com^
 ||url3788.blazepizza.com^
 ||blazerwest.click^
 ||blazesomeplacespecification.com^
@@ -31078,6 +31083,7 @@
 ||choocmee.com^
 ||choogeet.net^
 ||a8.choomia.com^
+||chooncv.icu^
 ||choongou.com^
 ||choosecaleb.com^
 ||marketing.choosechicago.com^
@@ -34974,6 +34980,7 @@
 ||digitaladvertising.com^
 ||digitalayaan.com^
 ||digitalcamera-guide.com^
+||web.digitaldatainsights.org^
 ||digitaldollarcreate.com^
 ||digitaldonmedia.com^
 ||digitaldoughnut.com^
@@ -36628,6 +36635,7 @@
 ||eapect.icu^
 ||go.eapps.com^
 ||eaptekaplus.ru^
+||eaqgsw.xyz^
 ||eaqlos.xyz^
 ||ear1yvib1s.xyz^
 ||client-allegro.earchiwum.pl^
@@ -37834,7 +37842,6 @@
 ||eogaeapolaric.com^
 ||eolcdn.com^
 ||eole-passion.com^
-||5-157-110-232.dyn.eolo.it^
 ||eom-nv.com^
 ||mail.eomega.com^
 ||email.eomega.org^
@@ -40492,7 +40499,6 @@
 ||forthdestiny.com^
 ||fortheloveofrecovery.com^
 ||forthemoonh.com^
-||campingkaymakis.ath.forthnet.gr^
 ||forthnorriscombustible.com^
 ||fortitudeare.com^
 ||fortniteapk.mobi^
@@ -41302,6 +41308,7 @@
 ||ga-tracker-dot-detmir-bonus.appspot.com^
 ||gabbart.nl^
 ||gabblecongestionhelpful.com^
+||gaetojnxujn.com^
 ||gafsolutions.com^
 ||gagdungeon.com^
 ||gaghygienetheir.com^
@@ -43054,6 +43061,7 @@
 ||goqrench.net^
 ||static.goqubit.com^
 ||gorflangs.com^
+||gorillabin.su^
 ||marketing.gorillagroup.com^
 ||www2.gorillavid.in^
 ||gorodvlesu.ru^
@@ -43765,6 +43773,7 @@
 ||usoa.gxldskcu.top^
 ||gxlsjt.com^
 ||gxmlkgraj.com^
+||gxnfz.com^
 ||gxprocord.com^
 ||gxpvnveyqowm.com^
 ||skads.gxsky.com^
@@ -49173,6 +49182,7 @@
 ||jcrjuris.com^
 ||jcyjly.com^
 ||jczunp.xyz^
+||www.jd288shopap.com^
 ||www.jdailymall.com^
 ||play.jdb888.club^
 ||jdfzfd.xyz^
@@ -51656,6 +51666,7 @@
 ||koiaripolymny.com^
 ||kokanddeiman.com^
 ||staging-link.kol.store^
+||ns1.koleso.tc^
 ||kolites.com^
 ||agvinfo.kollmorgen.com^
 ||emea.kollmorgen.com^
@@ -54715,7 +54726,7 @@
 ||luxuryglobe.com^
 ||luxuryjewelryla.com^
 ||emails.luxurylink.com^
-||www.luxurypropertiesfl.com^
+||luxurypropertiesfl.com^
 ||luxurytouristguide.com^
 ||luxuryvacationstrade.com^
 ||alx.luxxeeu.com^
@@ -55677,6 +55688,7 @@
 ||marriageunblocked.com^
 ||app.marriott.com^
 ||share.marrow.com^
+||marrowleaves.com^
 ||marrowopener.com^
 ||ads.marry.vn^
 ||rtb-useast.mars.video^
@@ -56135,6 +56147,7 @@
 ||mbdk555.com^
 ||mbfhwag.xyz^
 ||ad.sp.mbga.jp^
+||mbhhxqkr.com^
 ||ptcdn.mbicash.nl^
 ||bid.mbidtg.com^
 ||mbikfxjb.cfd^
@@ -57383,7 +57396,6 @@
 ||affiliates.minglematch.com^
 ||mini-stores.com^
 ||miniaturecomfortable.com^
-||src1.minibai.com^
 ||minimizetommyunleash.com^
 ||minimob.com^
 ||mining-getpro-only.top^
@@ -58885,6 +58897,7 @@
 ||rwohdj.motocard.com^
 ||sadbmetrics.motocasion.com^
 ||motoetloisir.fr^
+||motorans.com^
 ||app.lacr.motorolasolutions.com^
 ||campaignresources.motorolasolutions.com^
 ||eumeainfo.motorolasolutions.com^
@@ -59523,7 +59536,9 @@
 ||mvblxbuxe.com^
 ||mvc07.top^
 ||mvchallenges.s3-website-eu-west-1.amazonaws.com^
+||mvcngm.xyz^
 ||mvevgi.xyz^
+||mvfmdfsvoq.com^
 ||panda.mvhphotoproject.org^
 ||mvilivestats.com^
 ||mvirkw.xyz^
@@ -60026,10 +60041,10 @@
 ||cndjs-1251973891.coshk.myqcloud.com^
 ||dianying-1304791696.cos.ap-shanghai.myqcloud.com^
 ||ggtp-1255424916.cos.ap-chengdu.myqcloud.com^
+||mhmh1-1251344380.cos.ap-chengdu.myqcloud.com^
 ||mibook-10006092.cos.myqcloud.com^
 ||redpaper-10006092.cos.myqcloud.com^
 ||sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com^
-||sgz-1302338321.cos.ap-guangzhou.myqcloud.com^
 ||sister-1324943887.cos.ap-guangzhou.myqcloud.com^
 ||www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com^
 ||www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com^
@@ -60487,6 +60502,7 @@
 ||go.navepoint.com^
 ||m.navi.com^
 ||navigator.io^
+||img2021.navyfederal.org^
 ||app-uat.navyhealth.com.au^
 ||naybreath.com^
 ||nazakxodbz.com^
@@ -62158,6 +62174,7 @@
 ||ntoftheusysianedt.info^
 ||ntoftheusysih.info^
 ||banner.ntop.tv^
+||ntpnfyga.icu^
 ||ntreeom.com^
 ||www.ntsearch.com^
 ||ntskeptics.org^
@@ -62257,6 +62274,7 @@
 ||usck.nvxzhgt.top^
 ||axp.nwahomepage.com^
 ||nwconnnews.com^
+||jm.nwd13.za.com^
 ||nwejuljibczi.com^
 ||ssc.nwf.org^
 ||oas.nwherald.com^
@@ -63300,7 +63318,7 @@
 ||fzgpzp.opodo.de^
 ||qflwqw.opodo.fr^
 ||marketing.opoffice.com^
-||opolis.io^
+||www.opolis.io^
 ||oponixa.com^
 ||track.oportalbemviver.com^
 ||track.oportalmaisvida.com^
@@ -64050,6 +64068,7 @@
 ||go.pajamaprogram.org^
 ||pajamasgnat.com^
 ||pakasinfo.com^
+||pakaujf.icu^
 ||pakbanners.com^
 ||pakistan-post.top^
 ||pakshipment.com^
@@ -67151,6 +67170,7 @@
 ||prpmdp.xyz^
 ||prre.ru^
 ||prtawe.com^
+||prtfpl.xyz^
 ||prtord.com^
 ||prtrackings.com^
 ||privacy-digital.pru.co.uk^
@@ -70928,6 +70948,7 @@
 ||evkeeza-e.regeneron.com^
 ||praluent-e.regeneron.com^
 ||analytics.regex101.com^
+||regexmail.com^
 ||regiaocentral.com.br^
 ||csghyg.reginaclinic.jp^
 ||regionads.ru^
@@ -76852,7 +76873,7 @@
 ||sumienieludzi.click^
 ||sumiennapomoc.click^
 ||a8.sumilena.co.jp^
-||sumiyuki.co.jp^
+||www.sumiyuki.co.jp^
 ||sumllesupply.me^
 ||summer-notifications.com^
 ||summerboycottrot.com^
@@ -78168,6 +78189,7 @@
 ||telemetryverification.net^
 ||ijaabm.telemundo.com^
 ||lpbhnv.telemundo47.com^
+||78-20-115-5.access.telenet.be^
 ||saec-metrics.telenet.be^
 ||smetrics.telenor.se^
 ||telesavers.co.za^
@@ -79667,7 +79689,7 @@
 ||titaniumveinshaper.com^
 ||titanklip.com^
 ||pt5.titans-gel.net^
-||www.titansofchina.net^
+||titansofchina.net^
 ||share.titanvest.com^
 ||titas.mypi.co^
 ||asg.titdumps.com^
@@ -82314,7 +82336,6 @@
 ||usmaniyagroup.com^
 ||usmilitarylawyer.com^
 ||usmusk.net^
-||usnewoutdoor.com^
 ||link.messaging.usnews.com^
 ||m3.usnews.com^
 ||metrics.usopen.org^
@@ -86444,6 +86465,7 @@
 ||yaraasescont.com^
 ||yardmancorypha.icu^
 ||yarlnk.com^
+||yaseraljazeera.com^
 ||ybrbdft.xyz^
 ||ybriifs.com^
 ||ycgkol.icu^
@@ -86500,6 +86522,7 @@
 ||yfefdlv.com^
 ||yfgrxkz.com^
 ||yfkflfa.com^
+||yfoega.xyz^
 ||yfznypugeuunng.com^
 ||ygabgga.click^
 ||ygamey.com^
@@ -87006,7 +87029,6 @@
 ||zdjecieod.lol^
 ||s2.zdmimg.com^
 ||usoa.zdmysncl.top^
-||f24-zfcloud.zdn.vn^
 ||stc-support-app-brand.zdn.vn^
 ||za.zdn.vn^
 ||zaloads-480.zdn.vn^
