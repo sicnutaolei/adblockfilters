@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241006163715
-! Last modified: 2024/10/06 16:37:15
-! Blocked domains: 90339
+! Version: 20241007003651
+! Last modified: 2024/10/07 00:36:51
+! Blocked domains: 90354
 ! unBlocked domains: 33
 !
 ||free-form.000.pe^
@@ -3327,6 +3327,7 @@
 ||54e4e31106.6e10268cd2.com^
 ||6e26fb1ae7.com^
 ||32dcfb89c9.6ee4d8e440.com^
+||6efgcdcjr000.fun^
 ||ee.6et8a.cn^
 ||m.6et8a.cn^
 ||9e53d7ea46.6f0b6cb0fe.com^
@@ -10302,6 +10303,7 @@
 ||starget.aircanada.com^
 ||tk.aircaraibes.com^
 ||aa-metrics.aircard.jp^
+||aircgd.shop^
 ||trk.aircharterguide.com^
 ||trk.airchecklab.com^
 ||airconditionpianoembarrassment.com^
@@ -13741,7 +13743,6 @@
 ||animememehub.com^
 ||animenime.ru^
 ||animeplaynow.com^
-||animeshoppers.com^
 ||api.animeshqip.icu^
 ||notifications.animeshqip.info^
 ||animeteatr.ru^
@@ -17073,6 +17074,7 @@
 ||aprtx.com^
 ||info.aps.org^
 ||apsalar.com^
+||beacon.apsehick.date^
 ||apserver.net^
 ||apsgwl.in^
 ||apsis.com^
@@ -22069,6 +22071,7 @@
 ||www.bet6305365.com^
 ||bet7days.com^
 ||bet88013.com^
+||betadeadlock.com^
 ||betakey-giveaway.com^
 ||betaland.com^
 ||betalonflamechan.com^
@@ -25102,6 +25105,7 @@
 ||ad.bwton.com^
 ||dlogs.bwton.com^
 ||bwtsrv.com^
+||bwurserv.top^
 ||bx-cloud.com^
 ||bx-qa.com^
 ||bxacmsvmxb.com^
@@ -30823,7 +30827,6 @@
 ||www2.discountbodyparts.com^
 ||discountclick.com^
 ||www2s.discountexhaustsystems.com^
-||discounthoneywell.com^
 ||discountstickersky.com^
 ||discourseoxidizingtransfer.com^
 ||st.discover-bavaria.com^
@@ -34730,6 +34733,7 @@
 ||fashion-tube.be^
 ||adsrv.fashion.bg^
 ||fashionablegangsterexplosion.com^
+||fashionadid.com^
 ||nltihf.fashiondays.ro^
 ||eiftfa.fashionette.de^
 ||fashionflow.cam^
@@ -45878,6 +45882,7 @@
 ||banner.immowelt.de^
 ||immoxdzdke.com^
 ||immprcap.xyz^
+||imndl.icu^
 ||imobiliariaaprovar.com.br^
 ||rot2.imoti.net^
 ||imovie.uno^
@@ -49629,6 +49634,8 @@
 ||keltysale.com^
 ||keluaranhk6d.com^
 ||www2.kemcosystems.com^
+||link.kemkes.go.id^
+||parisiporlin-ktki.kemkes.go.id^
 ||metrics.kempinski.com^
 ||kemyjei6.click^
 ||kendallme.com^
@@ -58563,6 +58570,7 @@
 ||navi23.com^
 ||navi5.com^
 ||navi50.com^
+||navi76.ru^
 ||navi88.com^
 ||navigablepiercing.com^
 ||prod.ew.srp.navigacloud.com^
@@ -61780,6 +61788,7 @@
 ||stats.cloud.online.net^
 ||online.sh.cn^
 ||online143.com^
+||onlineadid.com^
 ||dailydeals.onlineathens.com^
 ||onlinebalances.com^
 ||onlinecash.com^
@@ -64451,6 +64460,7 @@
 ||picshare.hair^
 ||picshare.mom^
 ||go.picturemarketing.com^
+||pictureoutdoor.com^
 ||picturestash.mom^
 ||picupeebau.info^
 ||cdn2.picyield.com^
@@ -64553,6 +64563,7 @@
 ||pinhuitech.asia^
 ||pinion.gg^
 ||pinjamanelit.top^
+||pinjamanpedia.xyz^
 ||pinjamanplus.com^
 ||pinjamteman.top^
 ||traffic.pinklabel.com^
@@ -75062,6 +75073,7 @@
 ||snowfoxvail.com^
 ||aolsvc.snowqueen.ru^
 ||sno1.snowrental.com^
+||snowroxy.com^
 ||snowyescape.live^
 ||snrtbgm.com^
 ||swa.snsbank.nl^
@@ -75550,6 +75562,7 @@
 ||soporte-pago.com^
 ||soportempresa.com^
 ||sordidsmile.com^
+||soreldiscount.com^
 ||soremetropolitan.com^
 ||soresneeze.com^
 ||sorethunder.com^
@@ -76922,6 +76935,7 @@
 ||store-rx.com^
 ||store-swatch.com^
 ||store4porn.com^
+||storeadid.com^
 ||storebuildereurope.com^
 ||storecollegeonline.com^
 ||storecor.net^
@@ -83790,6 +83804,7 @@
 ||smetrics.catalog.usmint.gov^
 ||usmusk.net^
 ||usn.cc^
+||usnewoutdoor.com^
 ||link.messaging.usnews.com^
 ||m3.usnews.com^
 ||app.usnh.edu^
