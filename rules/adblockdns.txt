@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241007003651
-! Last modified: 2024/10/07 00:36:51
-! Blocked domains: 90354
+! Version: 20241007094143
+! Last modified: 2024/10/07 09:41:43
+! Blocked domains: 90361
 ! unBlocked domains: 33
 !
 ||free-form.000.pe^
@@ -1585,6 +1585,7 @@
 ||4f1fca8377.2ea4fb5aea.com^
 ||654b11e34e.2eb4977fca.com^
 ||2edef809.xyz^
+||2efgcdcjr000.fun^
 ||ngueja.2ememain.be^
 ||2explore.com^
 ||2f16d429ce.com^
@@ -23911,6 +23912,7 @@
 ||csvtr13.bmodelawaretrust.com^
 ||csvtr09.bmonesbittburns.com^
 ||bmorehacker.com^
+||bmqulua.icu^
 ||smetrics.bmshealthcare.jp^
 ||bmusshop.xyz^
 ||bmwtimingchain.com^
@@ -27325,6 +27327,7 @@
 ||clix.vn^
 ||track.clkfly.com^
 ||www.clkwzeios.cn^
+||clmcam.xyz^
 ||clme.net^
 ||clodsplit.com^
 ||clofferap.com^
@@ -30068,6 +30071,7 @@
 ||ddfnmo6ev4fd.cloudfront.net^
 ||ddgarcia.com^
 ||ddlh1467paih3.cloudfront.net^
+||ddlmsoyo.icu^
 ||ddns.name^
 ||ddnslive.com^
 ||ddnzpr.xyz^
@@ -32336,6 +32340,7 @@
 ||ecustomeropinions.com^
 ||ecx07.top^
 ||ecxgjqjjkpsx.com^
+||edadmy.xyz^
 ||edaightutaitlastwe.info^
 ||edbritingsynt.info^
 ||edge-campaign-japan.com^
@@ -49778,6 +49783,7 @@
 ||kgsounds.info^
 ||pageview.kgsz.cn^
 ||kgubus.xyz^
+||kgymoc.xyz^
 ||links.kha.com^
 ||khaleejtimes.online^
 ||khalidgeeti.com^
@@ -88297,6 +88303,7 @@
 ||xlgmedia.com^
 ||a9.xlgqy.com^
 ||xlgvlvbc.xyz^
+||xlxehr.xyz^
 ||track.xmarketech.com^
 ||xmashorizon.homes^
 ||xmboyi.asia^
