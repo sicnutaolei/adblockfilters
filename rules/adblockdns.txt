@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241008164049
-! Last modified: 2024/10/08 16:40:49
-! Blocked domains: 126636
+! Version: 20241009003944
+! Last modified: 2024/10/09 00:39:44
+! Blocked domains: 126652
 ! unBlocked domains: 36
 !
 ||ihpost.03463247.xyz^
@@ -3206,6 +3206,7 @@
 ||65f249bd43.com^
 ||65spy7rgcu.com^
 ||65twenty.com^
+||65wenv5f.xyz^
 ||sar.66.ru^
 ||6604.org^
 ||661291.com^
@@ -48168,6 +48169,7 @@
 ||staging-link.docyt.com^
 ||a8clk.doda.jp^
 ||remnkv.doda.jp^
+||dodaihoptu.xyz^
 ||dodajkomentarz.click^
 ||dodajkomentarz.homes^
 ||dodajkomentarz.rest^
@@ -90800,6 +90802,7 @@
 ||marketing.knoxville.org^
 ||knoxvillecommercialproperty.com^
 ||uskt.knpgmzd.com^
+||kntodvofiyjjl.xyz^
 ||knuinws.icu^
 ||knurleddeblock.guru^
 ||knutenegros.pro^
@@ -92236,6 +92239,7 @@
 ||wa.kuwo.cn^
 ||kuwoucaxoad.com^
 ||kuxatsiw.net^
+||kuxfsgwjkfu.com^
 ||kuxkddg.cn^
 ||kuyhaa-me.pw^
 ||kuyhaa.cc^
@@ -106254,6 +106258,7 @@
 ||nwwashingtonnews.com^
 ||nwxaxx.xyz^
 ||nxev.top^
+||nxgzeejhs.com^
 ||wa.nxp.com^
 ||nxrajr.xyz^
 ||nxstrib.com^
@@ -111837,6 +111842,7 @@
 ||usac.qhsvdlc.top^
 ||qiaoxz.xyz^
 ||qibkkioqqw.com^
+||qibqiwczoojw.com^
 ||qichexin.com^
 ||trcka8net.qieto.net^
 ||qigongforcancer.com^
@@ -113773,6 +113779,7 @@
 ||sailorjav128.fun^
 ||cb.sailthru.com^
 ||saintflowfeed.com^
+||saiphoogloobo.net^
 ||trk.sais.ch^
 ||sajaltiwari.com^
 ||sajik.getmyip.com^
@@ -113851,6 +113858,7 @@
 ||sanjosestandard.com^
 ||sanjuanitaliscano.click^
 ||sankakustatic.com^
+||b.ranking.apis.sankei-digital.co.jp^
 ||sanneusports.com^
 ||sansimeonqualityinn.com^
 ||santander-app.net^
@@ -114451,6 +114459,7 @@
 ||sdaiv.com^
 ||sdarot.cc^
 ||sdfecc.top^
+||sdfewed.com^
 ||sdgreg.cn^
 ||sdhfbvd.com^
 ||sdhuawen.cn^
@@ -115322,6 +115331,7 @@
 ||siberreklam.com^
 ||cvt1.sibnet.ru^
 ||sicklad.com^
+||sidsaignoo.net^
 ||siduspad-captchabot.com^
 ||te.sieh-an.de^
 ||app.siemensplmevents.com^
@@ -119918,6 +119928,7 @@
 ||thongrooklikelihood.com^
 ||thongtincanbiet.net^
 ||thootsoumsoa.com^
+||thordoodovoo.net^
 ||click.web.thornburg.com^
 ||thorperepresentation.com^
 ||threedrive.su^
@@ -125234,10 +125245,12 @@
 ||whechypheshu.com^
 ||b.whee.ly^
 ||wheebsadree.com^
+||wheegaulrie.net^
 ||wheejooh.com^
 ||wheeledabbotafterward.com^
 ||aiqx.wheeloffortune.com^
 ||wheelscomfortlessrecruiting.com^
+||whgh1.icu^
 ||whileinferioryourself.com^
 ||whimpercategory.com^
 ||whineattempt.com^
@@ -125835,6 +125848,7 @@
 ||wrvdmh.cn^
 ||wryfruw.com^
 ||ws5ujgqkp.com^
+||ws67eqwwp.pro^
 ||wsafeguardpush.com^
 ||wsaidthemathe.info^
 ||axp.wsav.com^
@@ -126082,6 +126096,7 @@
 ||www.vinted-pl-gj32d.xvnpzhe.top^
 ||xvvclhrrpgiln.com^
 ||xvzvqoq.xyz^
+||xvzyyzix.com^
 ||xwlketvkzf.com^
 ||xxba.cc^
 ||xxczdfb.cn^
@@ -126602,6 +126617,7 @@
 ||a8clk.www.zwei.com^
 ||zweryfikowany-sprzedawca.pl^
 ||zweryfikujkonto.com^
+||zwk7ybbg.net^
 ||zxcv1.com^
 ||zxfdbr.xyz^
 ||zxmojgj.com^
