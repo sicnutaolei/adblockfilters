@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241009003944
-! Last modified: 2024/10/09 00:39:44
-! Blocked domains: 126652
+! Version: 20241009093738
+! Last modified: 2024/10/09 09:37:38
+! Blocked domains: 126674
 ! unBlocked domains: 36
 !
 ||ihpost.03463247.xyz^
@@ -318,6 +318,7 @@
 ||tg.1155t.cn^
 ||115mainstreet.com^
 ||116b.com^
+||1176731452.rsc.cdn77.org^
 ||11778562.xyz^
 ||1187531871.rsc.cdn77.org^
 ||1188.com^
@@ -584,6 +585,7 @@
 ||1437953666.rsc.cdn77.org^
 ||b73b66d5e6.144a0bcf96.com^
 ||144e93bbf0.com^
+||1457037562.rsc.cdn77.org^
 ||147ad.com^
 ||1480876790.rsc.cdn77.org^
 ||148dfe140d0f3d5e.com^
@@ -10789,6 +10791,7 @@
 ||ajx291.online^
 ||ajxx91.online^
 ||ajxx98.online^
+||ajybgc.xyz^
 ||ak-tracker.com^
 ||ak0gsh40.com^
 ||aka-root.com^
@@ -39258,6 +39261,7 @@
 ||uat-scanner-link.covve.com^
 ||cowardsagrias.com^
 ||applinks.cowboysnearby.com^
+||cowcuo.xyz^
 ||cowestoped.pro^
 ||cowlandagroindustries.com^
 ||cowm199.com^
@@ -59497,6 +59501,7 @@
 ||in.ff5.com^
 ||ff8467d480.com^
 ||3fb4026cec.ffbd26c481.com^
+||ffbdbx.xyz^
 ||ffbvhlc.com^
 ||f679bab577.ffd8c0e0ac.com^
 ||ffdafx.xyz^
@@ -69439,6 +69444,7 @@
 ||stats2.gq.com^
 ||metrics.gq.com.au^
 ||gqalqi656.com^
+||gqcdxkrst.com^
 ||gqckjiewg.com^
 ||ussj.gqdbmpnl.top^
 ||gqdfgyz.cn^
@@ -83629,6 +83635,7 @@
 ||irtyc.com^
 ||web.iru.org^
 ||qm.iruik.com^
+||irulws.xyz^
 ||irun.org^
 ||ox.irv.si^
 ||consent.irvinecompany.com^
@@ -83703,6 +83710,7 @@
 ||isaacelia.com^
 ||isaacjonesmacarons.com^
 ||isabellaeveapparel.com^
+||isabellagodpointy.com^
 ||isabellahopepancake.com^
 ||isabellastarchild.com^
 ||lp.isabellemartin.online^
@@ -92518,6 +92526,7 @@
 ||avp.labanquepostale.fr^
 ||labanquepostalecertiplus.com^
 ||labapwlkyov.com^
+||labashl.de^
 ||labaz.vip^
 ||emails.labc.co.uk^
 ||activation.labcorp.com^
@@ -93814,6 +93823,7 @@
 ||leafylane.xyz^
 ||leafyloft.xyz^
 ||leaglolmo.info^
+||leagsmk.icu^
 ||league-gamers.com^
 ||league-of-legends.ru^
 ||on.leagueapps.com^
@@ -107599,6 +107609,7 @@
 ||oqnabsatfn.com^
 ||oqnjfotketk.com^
 ||oqpahlskaqal.com^
+||oqprjunocooluy.com^
 ||oqsttfy.com^
 ||qnbskk.oqvestir.com.br^
 ||or-oil.online^
@@ -108243,6 +108254,7 @@
 ||middleware.p7s1.io^
 ||player-feedback.p7s1video.net^
 ||p99998888.com^
+||pa-cd.com^
 ||pa-ir.net^
 ||bdncut.pa-man.shop^
 ||pa-oa.com^
@@ -109131,6 +109143,7 @@
 ||piccash.net^
 ||piccytraveller.com^
 ||invite.piceapp.com^
+||pickablegift.com^
 ||picklecandourbug.com^
 ||rs.picmega.com^
 ||metrics.pico.tools^
@@ -109232,6 +109245,7 @@
 ||pinchingoverridemargin.com^
 ||pindiz.com^
 ||adim.pinduoduo.com^
+||dspsdk.pinduoduo.com^
 ||t-dsp.pinduoduo.com^
 ||pineal--xt.com^
 ||pinealguardian-us.com^
@@ -109254,6 +109268,7 @@
 ||pingshetrip.com^
 ||api.pingstart.com^
 ||pinjamanelit.top^
+||pinjamanpedia.xyz^
 ||pinjamanplus.com^
 ||pinjamteman.top^
 ||pinkberrytube.com^
@@ -111875,6 +111890,7 @@
 ||xoo.qnostcfi.top^
 ||analytics.qoqa.ninja^
 ||qorydiyqoe.com^
+||qouv.fr^
 ||act.qq.com^
 ||adrdir.qq.com^
 ||aedns.weixin.qq.com^
@@ -112241,6 +112257,7 @@
 ||track.info.rarediseaseadvisor.com^
 ||a8clk.rarejob.com^
 ||rareru.ru^
+||rarrwcfe.com^
 ||rartengg.com^
 ||rascalbygone.com^
 ||application.rasmussen.edu^
@@ -112849,6 +112866,7 @@
 ||rextrk.com^
 ||reyden-x.com^
 ||reyehathick.info^
+||a.reymit.ir^
 ||rezasalim.com^
 ||rem.rezonmedia.eu^
 ||rezu.space^
@@ -112996,6 +113014,7 @@
 ||rkskillsombineukd.com^
 ||rkt.us^
 ||rktu.com^
+||rkulukhwuoc.com^
 ||olx.rkynedosa.org^
 ||app.rlax.me^
 ||rldwideorgani.org^
@@ -115981,6 +116000,7 @@
 ||applog.snssdk.com^
 ||bds.snssdk.com^
 ||extlog.snssdk.com^
+||gecko.snssdk.com^
 ||lianmengapi.snssdk.com^
 ||vas-hl-x.snssdk.com^
 ||snt1.net^
@@ -122422,6 +122442,7 @@
 ||uprivaladserver.net^
 ||uproarglossy.com^
 ||ups-esmx.top^
+||upstairswellnewest.com^
 ||uptain.de^
 ||rum.uptime.com^
 ||uptodatemovie.com^
@@ -122649,6 +122670,7 @@
 ||usmilitarylawyer.com^
 ||usn.cc^
 ||usnewoutdoor.com^
+||usnewoutdoors.com^
 ||link.messaging.usnews.com^
 ||response.usnursing.com^
 ||strikenurse.usnursing.com^
