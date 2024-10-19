@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241019163831
-! Last modified: 2024/10/19 16:38:31
-! Blocked domains: 93178
+! Version: 20241020003808
+! Last modified: 2024/10/20 00:38:08
+! Blocked domains: 93189
 ! unBlocked domains: 69
 !
 ||market-place-id-19420601926.000.pe^
@@ -17837,6 +17837,7 @@
 ||awizowane.pl^
 ||awkwardsuperstition.com^
 ||app.awto.cl^
+||awwnaqax.com^
 ||axcfd.top^
 ||fsnitg.axelarigato.com^
 ||armadillo.axeneo7.qc.ca^
@@ -24285,6 +24286,7 @@
 ||cho7932105co3l2ate3covere53d.com^
 ||choachim.com^
 ||choacmax.xyz^
+||choafaidoonsoy.net^
 ||choagrie.com^
 ||choamikr.com^
 ||choang.fun^
@@ -31521,6 +31523,7 @@
 ||br.ac.ebookers.de^
 ||eboundservices.com^
 ||hbads.eboz.com^
+||ebqptawxdxrrdsu.xyz^
 ||csv4.ebs-paris.fr^
 ||ebtmarketing.com^
 ||ebtrk1.com^
@@ -32075,6 +32078,7 @@
 ||elfpetsic.com^
 ||metrics.elgiganten.dk^
 ||mhidwg.elgiganten.se^
+||elgnnpl-ukgs.global^
 ||ggmbjv.elietahari.com^
 ||a8.elife.clinic^
 ||syndication.elink12.com^
@@ -34801,7 +34805,7 @@
 ||lnpost.firona.pw^
 ||firouzilawapc.com^
 ||firrectly.top^
-||wo.firrycandour.com^
+||firrycandour.com^
 ||firs.site^
 ||first-id.fr^
 ||ox.first-law.com^
@@ -43746,6 +43750,7 @@
 ||inheritedgeneralrailroad.com^
 ||inheritedgravysuspected.com^
 ||inheritedwren.com^
+||inheritknow.com^
 ||olc.inhhome.top^
 ||uin.inhhome.top^
 ||inhonedgean.com^
@@ -49052,6 +49057,7 @@
 ||go.kvrma.net^
 ||kvsvug.xyz^
 ||kvtaaa.top^
+||kvum-bpelzw.icu^
 ||kvymlsb.com^
 ||open.kwaizt.com^
 ||live-playphoto.servers.kwalee.com^
@@ -63726,6 +63732,7 @@
 ||ounigaugsurvey.space^
 ||oupai.cc^
 ||oupaumul.net^
+||ouplc.icu^
 ||our-network.com^
 ||join.our-story.co^
 ||ourbesthealthcare.com^
@@ -65930,6 +65937,7 @@
 ||ebgagg.pink.rs^
 ||mr.pinkbike.com^
 ||pinkcamforum.cc^
+||pinklabel.com^
 ||pinkleo.pro^
 ||nvbflc.pinkpanda.bg^
 ||mkwntx.pinkpanda.de^
@@ -74186,6 +74194,7 @@
 ||ruletka-systemy.com^
 ||ruletkasystem.eu^
 ||rumanalytics.com^
+||rumkhprg.com^
 ||brtrack.rummypassion.com^
 ||rumorvoice.click^
 ||rumsroots.com^
@@ -84730,6 +84739,7 @@
 ||dp.tuex.ca^
 ||tuffxhelp.xyz^
 ||lp.services.tuftsmedicine.org^
+||tugraughilr.xyz^
 ||tuhiwiahy.xyz^
 ||bulozc.tui.be^
 ||wvbcoi.tui.ch^
@@ -86390,6 +86400,7 @@
 ||uudaikhachhang-tructuyen.com.vn^
 ||uuidksinc.net^
 ||uujhveglpo.xyz^
+||uuresdt.top^
 ||uurhhtymipx.com^
 ||uusip.com^
 ||zzcw.uuzham.com^
