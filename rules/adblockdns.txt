@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241023004000
-! Last modified: 2024/10/23 00:40:00
-! Blocked domains: 94169
+! Version: 20241023093845
+! Last modified: 2024/10/23 09:38:45
+! Blocked domains: 94203
 ! unBlocked domains: 29
 !
 ||00186.shop^
@@ -2587,6 +2587,7 @@
 ||property.472782.bid^
 ||47296536.xyz^
 ||4736.in^
+||47415889.xyz^
 ||5e7c26314c.474b0fa000.com^
 ||www.476601.com^
 ||booking.47845-confirm.com^
@@ -3866,8 +3867,7 @@
 ||7lyonline.com^
 ||count.7m.com.cn^
 ||facebook-com-pl-profile.7m.pl^
-||gdstatus.7m.pl^
-||vapecracked.7m.pl^
+||www.facebook-com-pl-profile.7m.pl^
 ||7makemoneyonline.com^
 ||7me0ssd6.de^
 ||7meta.com^
@@ -17697,6 +17697,7 @@
 ||affil.atan.cz^
 ||atanorithom.com^
 ||atapgogreen.com^
+||atardrushim.com^
 ||atas.io^
 ||atashows.com^
 ||rowsrm.atasunoptik.com.tr^
@@ -22788,6 +22789,7 @@
 ||bomberoscoatepeque.com^
 ||bombhack.com^
 ||banners.bombich.com^
+||bombina.com^
 ||bombora.com^
 ||bomborabombora.com^
 ||app.now.bomgar.com^
@@ -22941,6 +22943,7 @@
 ||botbf.com^
 ||client.botchk.net^
 ||ens.bote.ch^
+||botelpu.com^
 ||web-analytics.botgenes.org^
 ||bothele.com^
 ||bothererune.com^
@@ -24859,6 +24862,7 @@
 ||cablepaddle.com^
 ||som.cablestogo.co.uk^
 ||cabombaskopets.life^
+||cabreminyan.com^
 ||cabusinessdaily.com^
 ||cac6d.top^
 ||cacafly.com^
@@ -27664,6 +27668,7 @@
 ||choagrie.com^
 ||choakalsimen.com^
 ||choakaucmomt.com^
+||choalsegroa.xyz^
 ||choamikr.com^
 ||choang.fun^
 ||choang.tv^
@@ -34845,6 +34850,7 @@
 ||dn34cbtcv9mef.cloudfront.net^
 ||dn3hksy6kf.com^
 ||dn6rwwtxa647p.cloudfront.net^
+||dn7u3i0t165w2.cloudfront.net^
 ||marketing.dnacenter.com^
 ||dnainternal.com^
 ||tr.dnapresse.fr^
@@ -37866,6 +37872,7 @@
 ||tr.communication.enkiapp.io^
 ||tr.mep.enkiapp.io^
 ||tr.news.enkiapp.io^
+||enkvum.xyz^
 ||beetle.enlacepermanente.es^
 ||enlales.com^
 ||enlargementerroronerous.com^
@@ -39411,6 +39418,7 @@
 ||fashionflow.cam^
 ||inspire.fashionframeworks.com^
 ||jldtlh.fashionnova.com^
+||ldpsh.fashionnova.com^
 ||fashionograf.com^
 ||mchtna.fashionplus.co.kr^
 ||legal.fashionresource.com^
@@ -41381,7 +41389,6 @@
 ||piest.fornication.website^
 ||tirer.fornication.website^
 ||unsurlyn.fornication.website^
-||fornid.com^
 ||cueohf.foroactivo.com^
 ||cueohf.foroactivo.mx^
 ||foroinversiones.com^
@@ -42065,6 +42072,7 @@
 ||frhbrkjgerikm2f8mjek09.com^
 ||fri4esianewheywr90itrage.com^
 ||qktnee.fribikeshop.dk^
+||fridaylocalmanager.duckdns.org^
 ||www.fridaymash.com^
 ||friendbuys.com^
 ||friendlyfold.com^
@@ -44400,6 +44408,7 @@
 ||gripspigyard.com^
 ||grirault.net^
 ||a8clk.grirose.jp^
+||griservice.ro^
 ||go.grist.org^
 ||gritaware.com^
 ||rook.grithix.com^
@@ -45209,6 +45218,7 @@
 ||app.health2sync.com^
 ||go.healthallowancecentre.com^
 ||track.healthandharmony1.com^
+||mob2.healthapplines.com^
 ||trk.share.healthc2u.com^
 ||trk.healthcaremarketquotes.com^
 ||marketing.healthcarousel.com^
@@ -47253,6 +47263,7 @@
 ||l.imax.com^
 ||links.imcas.com^
 ||imcdn.pro^
+||metrics.imdb.com^
 ||communication.imec.be^
 ||communication.imechyperspectral.com^
 ||communication.imeciclink.com^
@@ -47900,7 +47911,7 @@
 ||smart.innovationroad.site^
 ||innovativaijournal.com^
 ||form.innovative-design-lab.com^
-||innovativebuildingsolutions.in^
+||www.innovativebuildingsolutions.in^
 ||innovativemasonry.net^
 ||go.innovativesystems.com^
 ||innovid.com^
@@ -50387,6 +50398,7 @@
 ||keepingconcerned.com^
 ||links.keepitcleaner.com.au^
 ||keepsosto.com^
+||servo-report.keepstreams.com^
 ||getapp.keepy.me^
 ||keewoach.net^
 ||i.keezip.com^
@@ -50460,6 +50472,7 @@
 ||track.ketogummiespro.com^
 ||kettlemisplacestate.com^
 ||rodent.kevindendievel.com^
+||kewal.shop^
 ||target.key.com^
 ||keyactify.com^
 ||go.keybankcenter.com^
@@ -51425,7 +51438,7 @@
 ||a8cv.kusmitea.jp^
 ||kustaucu.com^
 ||kusuriyasan.org^
-||kuthbaneng.com^
+||www.kuthbaneng.com^
 ||kuthoost.net^
 ||kutib-lilajhiza.info^
 ||info.kuttatech.com^
@@ -51756,6 +51769,7 @@
 ||lankanspicetrail.com^
 ||bizinfosrilanka.lankapanel.net^
 ||js.lanmoes.com^
+||soft.lannaoke.com^
 ||lanopoon.net^
 ||sp.lansingstatejournal.com^
 ||content.lansweeper.com^
@@ -51949,6 +51963,7 @@
 ||lcwfabt3.com^
 ||lcxxwxo.com^
 ||tr.mp.ld-man.fr^
+||ldcdn.ldmnq.com^
 ||tq.ldnpointer.online^
 ||stat.le.com^
 ||le8gvd.cyou^
@@ -52212,7 +52227,6 @@
 ||rsc.lepoint.fr^
 ||leportauprincien.com^
 ||lepszeoceny.pl^
-||lequipier-maroc.com^
 ||lererikal.org^
 ||leriqiihoo.live^
 ||emails.lernerbooks.com^
@@ -55706,6 +55720,7 @@
 ||track.metallic.com^
 ||metaresolver.com^
 ||metasupporteam.com^
+||www.meteolab.it^
 ||engagefront.meteomedia.com^
 ||meteorclashbailey.com^
 ||methoxyunpaled.com^
@@ -56153,6 +56168,7 @@
 ||miraclespin.com^
 ||marketing.miraflats.com^
 ||mirakartiwi.com^
+||mirakleeeman.duckdns.org^
 ||marketing.miramarcap.com^
 ||as.mirapodo.de^
 ||te.mirapodo.de^
@@ -57002,6 +57018,7 @@
 ||modaconarte.com^
 ||lujcig.modaforyou.pl^
 ||jswlpe.modainpelle.com^
+||modalsaya.xyz^
 ||www.modani.com^
 ||metric.modcloth.com^
 ||modechallenges.com^
@@ -57402,8 +57419,10 @@
 ||mossgaietyhumiliation.com^
 ||marketing.mossinc.com^
 ||mosspf.com^
+||adx.mossru.com^
 ||mossypinebush903.sbs^
 ||lnk.most-days.com^
+||mostar-info.com^
 ||mostauthor.com^
 ||mostbet-original.ru^
 ||mostcoldest.host^
@@ -58178,6 +58197,7 @@
 ||my-meta.app^
 ||app.nissan.my-nissan-usa.com^
 ||my-rewardsvault.com^
+||my-rudderjolly.com^
 ||my-softbank-jp.com^
 ||www.my-stats.com^
 ||my-subscriptions.net^
@@ -58525,13 +58545,11 @@
 ||cndjs-1251973891.coshk.myqcloud.com^
 ||dianying-1304791696.cos.ap-shanghai.myqcloud.com^
 ||ggtp-1255424916.cos.ap-chengdu.myqcloud.com^
-||mhmh1-1251344380.cos.ap-chengdu.myqcloud.com^
 ||mibook-10006092.cos.myqcloud.com^
 ||moren-1252794300.file.myqcloud.com^
 ||projecta-common-1258344701.file.myqcloud.com^
 ||redpaper-10006092.cos.myqcloud.com^
 ||sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com^
-||sgz-1302338321.cos.ap-guangzhou.myqcloud.com^
 ||sister-1324943887.cos.ap-guangzhou.myqcloud.com^
 ||www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com^
 ||www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com^
@@ -59552,6 +59570,7 @@
 ||news-butoto.com^
 ||news-buzz.cc^
 ||news-capufu.com^
+||news-cdn.site^
 ||news-center.shop^
 ||tr.news-chocolat.com^
 ||tr.news-companeo.be^
@@ -60975,6 +60994,7 @@
 ||spyglass.octanime.net^
 ||moose.octo.app^
 ||octoads.shop^
+||octoberrates.com^
 ||octobird.com^
 ||collector-px0py5pczn.octopart.com^
 ||octopod.cc^
@@ -62485,6 +62505,7 @@
 ||stats.otempo.com.br^
 ||adman.otenet.gr^
 ||oldftp.otenet.gr^
+||oys0ro.static.otenet.gr^
 ||otgazfpuso.com^
 ||othatived.pics^
 ||otherlevels.com^
@@ -64243,6 +64264,7 @@
 ||ea.placedestendances.com^
 ||via.placeholder.com^
 ||placeoff.ru^
+||placetobeforever.com^
 ||placidperson.com^
 ||placingfinally.com^
 ||placingharassment.com^
@@ -65640,6 +65662,7 @@
 ||presentationbishop.com^
 ||presentimentguestmetaphor.com^
 ||preservealso.com^
+||preservedresentful.com^
 ||presetrabbits.com^
 ||presidentialagent.com^
 ||presidentialtumble.com^
@@ -66368,7 +66391,7 @@
 ||proverbbeaming.com^
 ||cmflinks.provesio.com^
 ||provesrc.com^
-||providence.net.br^
+||www.providence.net.br^
 ||appointments.providence.org^
 ||provider.giize.com^
 ||provides.site^
@@ -68648,6 +68671,7 @@
 ||wxsnsad.tc.qq.com^
 ||x.adnet.qq.com^
 ||dns.weixin.qq.com.cn^
+||qq288cm1.com^
 ||qq8788viet.com^
 ||qq88bet.net^
 ||qq937.com^
@@ -69576,6 +69600,7 @@
 ||rdrsec.com^
 ||rdtracer.com^
 ||littlelilistore.rdtrke.com^
+||rdxqbp.xyz^
 ||secure.checkout.re-brand-de.com^
 ||secure.checkout.re-brand-fi.com^
 ||re-captha-version-3-263.buzz^
@@ -70452,6 +70477,7 @@
 ||gredness.resper.website^
 ||respirationbruteremotely.com^
 ||respondunexpectedalimony.com^
+||responsad1.space^
 ||responsetap.com^
 ||link.responsible-investor.com^
 ||responsiveproportion.com^
@@ -72618,6 +72644,7 @@
 ||sanfortfranchise.com^
 ||sanfransun.com^
 ||vinted-pl-gj32d.sangbi.top^
+||sanggauchelys.shop^
 ||sanggilregard.com^
 ||sanglah.com^
 ||data-31c137b707.sanitaerjournal.de^
@@ -75266,6 +75293,7 @@
 ||skrotwiadomosci.click^
 ||skroutza.skroutz.gr^
 ||skrozzleco.shop^
+||sksbgm.xyz^
 ||sksds.pages.dev^
 ||sksingh4bjp.com^
 ||sksolutionss.in^
@@ -78190,6 +78218,7 @@
 ||lad.sumikai.com^
 ||stats.sumikai.com^
 ||sstats.sumitomo-pharma.co.jp^
+||www.sumiyuki.co.jp^
 ||summer-notifications.com^
 ||summersale.online^
 ||redir.summerwaveadventures.com^
@@ -79376,6 +79405,7 @@
 ||rm.tapuz.co.il^
 ||tapwhigwy.com^
 ||tar-nama.com^
+||tarafnagging.com^
 ||tarbend.online^
 ||smetrics.tarceva.com^
 ||t.tarceva.com^
@@ -80826,7 +80856,6 @@
 ||sailfish.the-psychedelicatessen.com^
 ||ads.the-saleroom.com^
 ||static.the-saleroom.com^
-||the-server.duckdns.org^
 ||a8.the-session.jp^
 ||ns1.the-sinner.net^
 ||the-smartest-investment.com^
@@ -83154,6 +83183,7 @@
 ||tipforcefulmeow.com^
 ||tipico.com^
 ||tipicool.com^
+||tipitspart.com^
 ||tipjamdavwygxm.com^
 ||media.tipjunkie.com^
 ||tipkeomoingay.club^
@@ -84510,6 +84540,7 @@
 ||info.tpctraining.com^
 ||outbound.tpctraining.com^
 ||tpctrust.com^
+||2882.tpddns.cn^
 ||tpdethnol.com^
 ||connect.tpgtelecom.com.au^
 ||tpn134.com^
@@ -86271,6 +86302,7 @@
 ||twojezakupy.buzz^
 ||twojezdanie.rest^
 ||tworinformacyjny.click^
+||twoter.info^
 ||twrank.com^
 ||twrences.xyz^
 ||twrencesprin.info^
@@ -92856,6 +92888,7 @@
 ||yaqurc.com^
 ||yarlnk.com^
 ||ojmxro.yatsan.com^
+||yaupingbought.com^
 ||yavli.com^
 ||yawcoynag.com^
 ||yaxgszv.com^
@@ -93318,6 +93351,7 @@
 ||yrincelewasgiw.info^
 ||yrvzqabfxe.com^
 ||yrwqquykdja.com^
+||ysbaojia.com^
 ||ysesials.net^
 ||ysf-436.cfd^
 ||sbw.ysjweb.com^
