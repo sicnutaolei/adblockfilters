@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241024163948
-! Last modified: 2024/10/24 16:39:48
-! Blocked domains: 106766
+! Version: 20241025003738
+! Last modified: 2024/10/25 00:37:38
+! Blocked domains: 106776
 ! unBlocked domains: 130
 !
 ||04gamek8.com^
@@ -3492,6 +3492,7 @@
 ||www.go-mobile.786718.com^
 ||787787.com^
 ||www.7878bjl.com^
+||78847798.xyz^
 ||789.club^
 ||789.fun^
 ||789.mobi^
@@ -5723,6 +5724,7 @@
 ||achieverknee.com^
 ||achilles-ena.com^
 ||achillestendonrupturepedia.com^
+||achingborder.com^
 ||achleshwar.in^
 ||achoachemain.com^
 ||achpokevvh.com^
@@ -24429,6 +24431,7 @@
 ||protection.ccpolice.com^
 ||ccrenovationsllc.com^
 ||ccrkpsu.com^
+||ccryxqgqf.com^
 ||ccscserver.com^
 ||ccswpsvc.com^
 ||cctop.cl^
@@ -32461,6 +32464,7 @@
 ||downloadz.us^
 ||downlon.com^
 ||downparanoia.com^
+||downright-administration.pro^
 ||downrivertoday.com^
 ||downsizeavonlake.com^
 ||downstairsnegotiatebarren.com^
@@ -44264,6 +44268,7 @@
 ||huomob.com^
 ||ups.huonelv.shop^
 ||huoxingtan66.com^
+||huoxun.wang^
 ||hermes.hupu.com^
 ||huq.io^
 ||huqbeiy.com^
@@ -45047,6 +45052,7 @@
 ||marketing.ijoinsolutions.com^
 ||mail.ijungomail.com^
 ||mail4.ijungomail.com^
+||ijwkdmzru.com^
 ||booking.ik98592.bid^
 ||ikcieontapp.com^
 ||ikdigitalempire.com^
@@ -52394,8 +52400,7 @@
 ||lognormal.net^
 ||primate.logology.co^
 ||logrocket.io^
-||1.logunews.com^
-||www.logunews.com^
+||logunews.com^
 ||ko.lohancosily.com^
 ||lohockdock.com^
 ||sxjfhh.lohud.com^
@@ -74703,6 +74708,7 @@
 ||qcxhwrm.com^
 ||qczx1.com^
 ||qdcxia.xyz^
+||qdjsiyt.icu^
 ||qdlyqbpzfkl.com^
 ||qdoeki.xyz^
 ||qdzra6xtgd.shop^
@@ -77584,6 +77590,7 @@
 ||rpfytkt.com^
 ||rpgenerator.net^
 ||rpgmasterleague.com^
+||rpjkwhkxh.com^
 ||homepay-pl-48d33c44.rpm-technik.at^
 ||ww16.rpn.com.pl^
 ||rpofsweden.com^
@@ -79201,6 +79208,7 @@
 ||sekhemonline.net^
 ||sekindo.com^
 ||sekomums.lv^
+||sekqeraneosbm.com^
 ||bup.seksohub.com^
 ||sel-hoz.com^
 ||privacy.selbst.de^
@@ -79773,6 +79781,7 @@
 ||shasogna.com^
 ||shassheld.live^
 ||gsyegj.shatura.com^
+||shauduptel.net^
 ||shauladubhe.top^
 ||shaursar.net^
 ||shauthalaid.com^
@@ -95183,6 +95192,7 @@
 ||uz-analysis.akamaized.net^
 ||a8clk.www.uz.team^
 ||dkrxls.uzaktangelir.com^
+||uzauxaursachoky.net^
 ||open.uzitapp.com^
 ||static.uzlifat.com^
 ||uzmyslawianie.click^
