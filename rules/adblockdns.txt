@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241027163945
-! Last modified: 2024/10/27 16:39:45
-! Blocked domains: 93040
+! Version: 20241028003652
+! Last modified: 2024/10/28 00:36:52
+! Blocked domains: 93047
 ! unBlocked domains: 65
 !
 ||640186f930.04de88565b.com^
@@ -37062,6 +37062,7 @@
 ||df-srv.de^
 ||dfck9uqiatqhh.cloudfront.net^
 ||dffgames.com^
+||dfhgry.com^
 ||dfidhqoaunepq.cloudfront.net^
 ||dfinery.io^
 ||dfiqvf0syzl54.cloudfront.net^
@@ -44449,6 +44450,7 @@
 ||fuziontech.net^
 ||fuzvjy.com^
 ||fuzzybunnyhotsauce.com^
+||fwbejnuplyuxufm.xyz^
 ||fx-protrade.net^
 ||ddjdkk.fx-smartsearch.net^
 ||fx-trend.com^
@@ -49278,6 +49280,7 @@
 ||a8cv.iekoma.com^
 ||ielmzzm.com^
 ||go.ieltsusa.org^
+||ieluqiqttdwv.com^
 ||iemcan.com^
 ||iemiq.com^
 ||ienpost-pl.top^
@@ -51268,6 +51271,7 @@
 ||dc.jared.com^
 ||test3-dc.jared.com^
 ||jaredweadon.com^
+||jareechargu.xyz^
 ||jargonwillinglybetrayal.com^
 ||jarsoalton.com^
 ||ww2.jarvisanalytics.com^
@@ -54296,6 +54300,7 @@
 ||ligninenchant.com^
 ||praktyki.ligo.pl^
 ||ligopt.website^
+||ligvraojlrr.com^
 ||lihi.cc^
 ||adv.lihkg.com^
 ||beta-link.liilix.com^
@@ -55719,6 +55724,7 @@
 ||mamapapaclothing.com^
 ||gzbcuy.mamarella.com^
 ||ad.mamastar.jp^
+||mamaunweft.click^
 ||mamblubamblua.com^
 ||isicpartner.mamechut.cz^
 ||mamidushop.xyz^
@@ -58368,6 +58374,7 @@
 ||mumblecore.com^
 ||mumintend.com^
 ||mummydiverseprovided.com^
+||mumoartoor.net^
 ||mumstoolboxvkd.shop^
 ||mundanepollution.com^
 ||mundolegendario.com^
