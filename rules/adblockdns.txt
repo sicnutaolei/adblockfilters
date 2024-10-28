@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241028003652
-! Last modified: 2024/10/28 00:36:52
-! Blocked domains: 93047
+! Version: 20241028094254
+! Last modified: 2024/10/28 09:42:54
+! Blocked domains: 93052
 ! unBlocked domains: 65
 !
 ||640186f930.04de88565b.com^
@@ -966,6 +966,7 @@
 ||1gbjadpsq.de^
 ||1girl1pitcher.com^
 ||1girl1pitcher.org^
+||1gmzo.icu^
 ||a.1gr.cz^
 ||m.1gr.cz^
 ||1hacks.com^
@@ -3127,6 +3128,7 @@
 ||595image.com^
 ||595tuchuang.com^
 ||59644010.xyz^
+||59768910.xyz^
 ||59cn7.com^
 ||59e6ea7248001c.com^
 ||59gt.cn^
@@ -13904,6 +13906,7 @@
 ||animememehub.com^
 ||animenime.ru^
 ||animeplaynow.com^
+||animeshoppers.com^
 ||api.animeshqip.icu^
 ||notifications.animeshqip.info^
 ||animeteatr.ru^
@@ -33917,7 +33920,6 @@
 ||com-host.info^
 ||com-id16313.info^
 ||booklng.com-id16385.info^
-||com-id1800853.com^
 ||com-id20341.info^
 ||com-id23901.info^
 ||com-id334112.com^
@@ -35043,6 +35045,7 @@
 ||crmandco.com^
 ||images.campaign.crmit.com^
 ||crnanet.com^
+||crnmyrk.icu^
 ||croakedrotonda.com^
 ||a8.croaster-select.com^
 ||crochetmedimno.top^
@@ -37471,7 +37474,6 @@
 ||www2.discountcarlights.com^
 ||www2s.discountcatalyticconverters.com^
 ||www2s.discountexhaustsystems.com^
-||discounthoneywell.com^
 ||dhkyrl.discountmags.com^
 ||gxsuum.discountmugs.com^
 ||smetrics.discounttire.com^
@@ -41679,7 +41681,6 @@
 ||jdgtgb.familie.de^
 ||lxsway.familjeliv.se^
 ||www.bnpbanque.family.blog^
-||familybestgifts.com^
 ||familyborn.com^
 ||familyelevated.com^
 ||content.familyfeatures.com^
@@ -47294,6 +47295,7 @@
 ||hdtcode.com^
 ||tracker.hdtvcloud.com^
 ||hdtvnr.xyz^
+||hdxyj.icu^
 ||hdywrwnvf-h.one^
 ||hdzonline.pro^
 ||head-clickfusion.com^
@@ -51933,6 +51935,7 @@
 ||jovaughnpowell.com^
 ||jovialwoman.com^
 ||jowarclimb.club^
+||jowkkzx.icu^
 ||joxaviri.com^
 ||joyandlifeshops.com^
 ||joybitehappiness624.sbs^
@@ -52010,6 +52013,7 @@
 ||s.jtexpressr.top^
 ||x.jtexpressr.top^
 ||z.jtexpressr.top^
+||jtexpresss.icu^
 ||jtj-law.com^
 ||jtokaxswunka.com^
 ||a.jtpostr.cc^
@@ -60689,6 +60693,7 @@
 ||obtinodesign.com^
 ||ens.obwaldnerzeitung.ch^
 ||obwieszczenie.click^
+||obwnaon.icu^
 ||obxlifesaving.com^
 ||obywatelskiedochodzenie.click^
 ||obyz.de^
@@ -85701,7 +85706,6 @@
 ||usaittech.com^
 ||app.usajaguars.com^
 ||t.usajaguars.com^
-||usakidsclothes.com^
 ||usaloanmaster.com^
 ||m.usaloanrelief.com^
 ||usamax24.com^
@@ -92951,6 +92955,7 @@
 ||zrodlodocelowe.click^
 ||app.zrotary.com^
 ||zrtfsoz.com^
+||zrtlvtsy.xyz^
 ||usqz.zrzxokqf.top^
 ||zsdjnk.wixsite.com^
 ||zoom.zshu.net^
