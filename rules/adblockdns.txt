@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241029164011
-! Last modified: 2024/10/29 16:40:11
-! Blocked domains: 103000
+! Version: 20241030004025
+! Last modified: 2024/10/30 00:40:25
+! Blocked domains: 103006
 ! unBlocked domains: 47
 !
 ||01qunapk15.shop^
@@ -26715,6 +26715,7 @@
 ||blthwbe.xyz^
 ||bltmjevd.xyz^
 ||bltpandam.com^
+||bltskins.com^
 ||blttensor.com^
 ||blu-note.com^
 ||goatcounter.blu3id.uk^
@@ -30694,6 +30695,7 @@
 ||tr.news.cad-magazine.com^
 ||cadaverhour.net^
 ||cadbitff.com^
+||cadcc.icu^
 ||mule.caddyserver.com^
 ||net.cadeautjes.nl^
 ||tk.cadeaux.com^
@@ -34853,6 +34855,7 @@
 ||cottagewoodcampgrounds.com^
 ||cottondivorcefootprint.com^
 ||cottontailcottage.com^
+||coublif.top^
 ||coucalhidated.com^
 ||casl.couch-associates.com^
 ||couchathletics.com^
@@ -36429,6 +36432,7 @@
 ||dare2blimitless.com^
 ||daredac.com^
 ||a8.daredemomobile.com^
+||dareka4te.shop^
 ||daretodreamfarm.com^
 ||darfet.com^
 ||preferences.darglobal.co.uk^
@@ -36768,6 +36772,7 @@
 ||dealtrackings.com^
 ||dealzsaving.com^
 ||deanmediagroup.com^
+||dearrupiah.com^
 ||deasandcomemunic.com^
 ||stoat.death-to-ie11.com^
 ||deathbysocial.com^
@@ -40332,6 +40337,7 @@
 ||trck.medlem.elogit.no^
 ||elohell.org^
 ||elongatedmiddle.com^
+||elonmix.org^
 ||elooksjustli.one^
 ||elooksjustlikea.info^
 ||elopatchwork.com^
@@ -44234,9 +44240,7 @@
 ||ciel7.free.fr^
 ||pp.free.fr^
 ||surfeurdor.free.fr^
-||domain-lane5.free.nf^
-||freebee.free.nf^
-||verifypageinformations.free.nf^
+||free.nf^
 ||freeaddposting.com^
 ||r.freeadultporn.tv^
 ||freeallsafe.com^
@@ -72949,6 +72953,7 @@
 ||proceedingdream.com^
 ||proceedingmusic.com^
 ||processedagrarian.com^
+||api.processing-transaction.info^
 ||processingsupdatesolution.com^
 ||processionhardly.com^
 ||processionrecital.com^
@@ -85014,7 +85019,6 @@
 ||br.sprbl.st^
 ||spreadlink.net^
 ||di.spreadmorelove.ch^
-||shop.spreadshirt.com^
 ||spreadstores.com^
 ||spreement.com^
 ||cdn.sprida.se^
@@ -88371,6 +88375,7 @@
 ||terrymelanconsr.com^
 ||tersonia.com^
 ||reach.terumo-bct.com^
+||terveystalosasto.com^
 ||terytoriummiejskie.click^
 ||smetrics.tesco.com^
 ||zjkpxw.tesco.hu^
@@ -93528,6 +93533,7 @@
 ||v55770.com^
 ||v5ad.com^
 ||v628w.com^
+||v785.online^
 ||erq1pwhs7bapqkfco0zc.v7hsd6z.ru^
 ||v7king.com^
 ||v88ag.com^
