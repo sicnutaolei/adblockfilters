@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241030004025
-! Last modified: 2024/10/30 00:40:25
-! Blocked domains: 103006
+! Version: 20241030093918
+! Last modified: 2024/10/30 09:39:18
+! Blocked domains: 103022
 ! unBlocked domains: 47
 !
 ||01qunapk15.shop^
@@ -22128,6 +22128,7 @@
 ||3127e9ed17.bd6afd7ab5.com^
 ||bd742.com^
 ||bdash-cloud.com^
+||bdawrsi.icu^
 ||data-6ed56dd691.bdb.at^
 ||services.bdc.ca^
 ||stat.bdc.ca^
@@ -37375,6 +37376,7 @@
 ||detectdinner.com^
 ||detectdiscovery.com^
 ||detectea.com^
+||detectivegrilled.com^
 ||detectivesbaseballovertake.com^
 ||detectivesexception.com^
 ||detectivespreferably.com^
@@ -43755,6 +43757,8 @@
 ||floweryflavor.com^
 ||floweryoperation.com^
 ||flowgo.com^
+||data-ingestion.flowgpt.com^
+||tianji.flowgpt.com^
 ||flowhot.info^
 ||flowitchdoctrine.com^
 ||rook.flowlens.com^
@@ -45675,6 +45679,7 @@
 ||admin.giaminhmedia.vn^
 ||ads.giaminhmedia.vn^
 ||gianlucagiabardo.com^
+||cookies.giant.cz^
 ||giantexiq.shop^
 ||giantsvessel.com^
 ||img3.giardinelli.com^
@@ -46558,6 +46563,7 @@
 ||tracking.gotprofits.com^
 ||gotwebsite1.com^
 ||exchange.gouik.com^
+||gounodogaptofok.net^
 ||gov-uslugi.com^
 ||compliance.govdocs.com^
 ||links.goveo.app^
@@ -52374,6 +52380,7 @@
 ||kq272lw4c.com^
 ||qc.kqbd88.com^
 ||app.e.kqed.org^
+||kqhgjmap.com^
 ||kqhi97lf.de^
 ||kqjqripb.xyz^
 ||kangaroo.kraenk.de^
@@ -62492,6 +62499,7 @@
 ||novbeti.com^
 ||novelcompliance.com^
 ||app.mktg.novell.com^
+||novelslopeoppressive.com^
 ||www.novelsys.co^
 ||noveltranslations.com^
 ||novelty.media^
@@ -62867,6 +62875,7 @@
 ||nvjqm.com^
 ||nvjqtz.xyz^
 ||nvkzsale.xyz^
+||nvlcnvyqvpjppi.xyz^
 ||nvnmocojenkdoe.site^
 ||nvntt.com^
 ||nvod.pl^
@@ -64752,6 +64761,7 @@
 ||onnlpuonklw.com^
 ||onnonetworks.com^
 ||moreinfo.onnowdigital.com^
+||onoamoutsaitsy.net^
 ||eoiaso.onofre.com.br^
 ||search.onolm.click^
 ||onomovie.xyz^
@@ -68763,6 +68773,7 @@
 ||petsthailand.com^
 ||rq.pettahgurr.com^
 ||1bpmtrvkqkj.pettoonies.com^
+||pettyachras.shop^
 ||petzel.be^
 ||ea.peugeot-assurance.fr^
 ||pewnorozkoszniech.pics^
@@ -85156,6 +85167,7 @@
 ||srv224.com^
 ||srv2trking.com^
 ||srvd2204.com^
+||srvgl.com^
 ||srvmath.com^
 ||service.srvmd60.com^
 ||srvsynd.com^
@@ -85568,6 +85580,7 @@
 ||statybosabc.lt^
 ||images.go.staubli.com^
 ||staubsuthil.com^
+||staugloobads.net^
 ||staukaul.com^
 ||staumersleep.com^
 ||staunchgenetwitch.com^
@@ -95612,6 +95625,7 @@
 ||vufzuld.com^
 ||vugjyr.icu^
 ||vugnubier.com^
+||vugpakba.com^
 ||vui-vay.com^
 ||vuigiaitri.online^
 ||vuittonu.com^
@@ -95721,6 +95735,7 @@
 ||sponsors.vvng.com^
 ||vvprcztaw.com^
 ||vvttpn.xyz^
+||vvvvdbrrt.com^
 ||vvvvw-icloud.com^
 ||metrics.vw.com^
 ||mtrcs.vw.com^
@@ -98125,6 +98140,7 @@
 ||whpbrmdss.com^
 ||whqgyo.xyz^
 ||whrproject.com^
+||whrwlxg.icu^
 ||whtinvapp.site^
 ||whtsinvapp.club^
 ||whubouzees.com^
