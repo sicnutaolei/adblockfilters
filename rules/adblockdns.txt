@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241102003826
-! Last modified: 2024/11/02 00:38:26
-! Blocked domains: 107284
+! Version: 20241102093759
+! Last modified: 2024/11/02 09:37:59
+! Blocked domains: 107300
 ! unBlocked domains: 35
 !
 ||inp0st.0344223.xyz^
@@ -13788,6 +13788,7 @@
 ||animememehub.com^
 ||animenime.ru^
 ||animeplaynow.com^
+||animeshoppers.com^
 ||api.animeshqip.icu^
 ||notifications.animeshqip.info^
 ||animeteatr.ru^
@@ -20684,7 +20685,7 @@
 ||bafflecouriernoble.com^
 ||spoluprace.bafoo.cz^
 ||adserver.bafrahaber.com^
-||bafybeicnmx2fcaolinpdaiqjo7hgsourg3qzaxf57psdrbqic4qrm4pf3i.ipfs.dweb.link^
+||bafybeicoo7kwhmnl6q7prd65aimf5byzrihrklgviebm2pkyzyepdaigf4.ipfs.dweb.link^
 ||bafybeidzp4sgidm4rvsc32fofkhbz5bdotbekov4mnwzejakvnzhhohysa.ipfs.dweb.link^
 ||bafybeiexjty7qmufu5jvbyln5ce5mue2lqw2htafc3api4wwsefxet5k54.ipfs.dweb.link^
 ||bafykoeboe.com^
@@ -24968,6 +24969,7 @@
 ||biddingx.com^
 ||creative.bidease.com^
 ||track-us.bidease.com^
+||bidehunter.com^
 ||bideo-blog.xyz^
 ||bideo-cdn.com^
 ||bideo-cdn.xyz^
@@ -51087,7 +51089,6 @@
 ||eogaeapolaric.com^
 ||www2.eoilreports.com^
 ||eole-passion.com^
-||5-157-110-232.dyn.eolo.it^
 ||eom-nv.com^
 ||mail.eomega.com^
 ||email.eomega.org^
@@ -54662,6 +54663,7 @@
 ||frictionterritoryvacancy.com^
 ||friday89.com^
 ||fridayarched.com^
+||fridaylocalmanager.duckdns.org^
 ||www.fridaymash.com^
 ||fridaypatnod.com^
 ||fridaywake.com^
@@ -61011,6 +61013,7 @@
 ||frdoki.heisei-housewarming.work^
 ||heisenbergseocompany.com^
 ||ensighten.heishop.mx^
+||heiviek.com^
 ||heixbai.com^
 ||heixidor.com^
 ||checkpointcharlie.heizung.de^
@@ -64523,7 +64526,7 @@
 ||huhue.com^
 ||huidakms.com.cn^
 ||huigt6y.xyz^
-||huiip.top^
+||www.huiip.top^
 ||tr.newsletter.huilesdolive.fr^
 ||tr.vernede.huilesdolive.fr^
 ||1.huilv.cc^
@@ -66221,6 +66224,7 @@
 ||api.iflychat.com^
 ||log.iflytek.com^
 ||logconf.iflytek.com^
+||ifmccdn.icu^
 ||research.ifmo.ru^
 ||ifnpost-pl.top^
 ||ifollosports.com^
@@ -66611,6 +66615,7 @@
 ||pr.ikovrov.ru^
 ||ikpowkdsa.info^
 ||q.ikre.xyz^
+||ikspoopfp.com^
 ||ikssllnhrb.com^
 ||ikuailian.com^
 ||ikunselt.com^
@@ -71447,6 +71452,7 @@
 ||olx-pl.kjferop.lol^
 ||www.olx-pl.kjferop.lol^
 ||kjipko.xyz^
+||kjnsgqe.icu^
 ||piwiki.kk-bits.com^
 ||a8cv.kk-orange.jp^
 ||iscemoji.kkairsoft.com^
@@ -77267,6 +77273,7 @@
 ||actonhrm.mercuryhealthcare.com^
 ||mercurysugarconsulting.com^
 ||images.info.mercycare.org^
+||merelsrealm.com^
 ||go.meretmarine.com^
 ||mergedlava.com^
 ||mergerecoil.com^
@@ -78920,6 +78927,7 @@
 ||mossgaietyhumiliation.com^
 ||marketing.mossinc.com^
 ||adx.mossru.com^
+||mossyiapyges.com^
 ||lnk.most-days.com^
 ||mostauthor.com^
 ||mostbet-original.ru^
@@ -80966,7 +80974,6 @@
 ||netfiixtv.com^
 ||netfirm.biz^
 ||netflix-bhr.com^
-||netflix-logariasmos.com^
 ||netflixaccounts.com^
 ||netflixgiftcode.com^
 ||netflixsupport.fr^
@@ -81078,6 +81085,7 @@
 ||newfastmediasearcher.com^
 ||smetrics.newfoundlandgrocerystores.ca^
 ||newgrannypics.com^
+||newgstore.com^
 ||newhacks24.net^
 ||newhealthproblem.com^
 ||newhigee.net^
@@ -83115,6 +83123,7 @@
 ||www.upsecure.onebx.shop^
 ||onecommunity.sbs^
 ||static.onedio.com^
+||onedomainpro.com^
 ||eloqua.oneidentity.com^
 ||ioedpk.oneill.com^
 ||onekw.com^
@@ -85850,6 +85859,7 @@
 ||tracking.plascoid.com^
 ||moment.plaski.online^
 ||plasmatv4free.com^
+||platedmanlily.com^
 ||d4n.platformd.com^
 ||platformsbrotherhoodreticence.com^
 ||platformsrat.com^
@@ -91712,6 +91722,7 @@
 ||go.rbfinance.com^
 ||rbfive.bid^
 ||rbhunp.xyz^
+||rbift.icu^
 ||mailer.rbis-averydennison.com^
 ||rbiwpiccr.top^
 ||assets.rbl.ms^
@@ -95355,6 +95366,7 @@
 ||skrotwiadomosci.rest^
 ||sksbgm.xyz^
 ||skuligpzifan.com^
+||skullmagnets.com^
 ||skullypower.com^
 ||skunkfunkcrypto.com^
 ||skutecznyautokomis.pl^
@@ -96924,6 +96936,7 @@
 ||mailer243.steamerrecallsettlement.com^
 ||steamgateways.com^
 ||steamkeysfree.com^
+||steammcommunuty.ru^
 ||steamrip.click^
 ||steamtopup.ru^
 ||steancommnunity.com^
@@ -103446,6 +103459,7 @@
 ||metrics.vueling.com^
 ||vuftouks.com^
 ||vugjyr.icu^
+||vuirssd.icu^
 ||vul-sta.online^
 ||vulcanprod.com^
 ||vulkanbet-pl.com^
@@ -104960,6 +104974,7 @@
 ||wrate.wmarincome.com^
 ||wbid.wmaycoin.info^
 ||polska.wmc-media.com^
+||wmcbld.top^
 ||wmflabs.org^
 ||wmgxumzrsjau.top^
 ||wmlink.ru^
@@ -105890,6 +105905,7 @@
 ||yesads.com^
 ||vinted-pl-gj32d.yeseav.top^
 ||yesflix.live^
+||yesgwyn.com^
 ||ads.yeshanews.com^
 ||www.yesimright.com^
 ||counter.yesky.com^
