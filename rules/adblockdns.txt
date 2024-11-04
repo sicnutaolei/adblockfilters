@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241104003758
-! Last modified: 2024/11/04 00:37:58
-! Blocked domains: 80264
+! Version: 20241104094154
+! Last modified: 2024/11/04 09:41:54
+! Blocked domains: 80273
 ! unBlocked domains: 50
 !
 ||ojx.04230569.xyz^
@@ -1593,6 +1593,7 @@
 ||2at.site^
 ||2ben92aml.com^
 ||2beon.co.kr^
+||adsby.2bet.co.jp^
 ||2betab.com^
 ||2betesi.com^
 ||a55a75a9fc.2bfb6da60b.com^
@@ -10129,6 +10130,7 @@
 ||ahqovxli.com^
 ||spt.ahram.org.eg^
 ||analytics.ahrefs.com^
+||analytics.ahrefs.dev^
 ||ahscdn.com^
 ||refer.ahsfriends.com^
 ||ahsontechnologies.com^
@@ -35232,6 +35234,7 @@
 ||excretekings.com^
 ||excuseparen.com^
 ||moz.execulink.net^
+||7ng6v3lu3c.execute-api.us-east-1.amazonaws.com^
 ||falcon.executeprogram.com^
 ||executionago.com^
 ||executive.ae^
@@ -35433,6 +35436,7 @@
 ||ezojs.com^
 ||ysm.ezprice.net^
 ||ezralarson.com^
+||ezrcowa.icu^
 ||ezsportsbetting.com^
 ||ezula.com^
 ||ezwezy.com^
@@ -39507,6 +39511,7 @@
 ||rw.gundogleaker.com^
 ||gunepszy.xyz^
 ||ad.gunosy.com^
+||ads-delivery.gunosy.com^
 ||gunstee.com^
 ||gunwaleneedsly.com^
 ||tagman.guoman.com^
@@ -44054,6 +44059,7 @@
 ||ipfind.com^
 ||ipgp.net^
 ||ippleshiswashis.info^
+||ipqajyy.icu^
 ||ipqnteseqrf.xyz^
 ||ipro.com^
 ||access.ipro.net^
@@ -46871,6 +46877,7 @@
 ||kr-balticpipe-pl-04.web.app^
 ||kr-balticpipe-pl-fff2c.firebaseapp.com^
 ||tracking-live.kr3m.com^
+||kra18.com^
 ||kangaroo.kraenk.de^
 ||kraftonevent.com^
 ||kragorortho.com^
@@ -74789,6 +74796,7 @@
 ||analytics.uwindsor.ca^
 ||uwlzsfo.com^
 ||uwoaptee.com^
+||uwsaqoi.icu^
 ||uwselectie.be^
 ||uwygodaoraz.hair^
 ||uy054eprsdoz.appspot.com^
@@ -76298,6 +76306,7 @@
 ||vskin.pro^
 ||vsmokhklbw.com^
 ||vsnoon.com^
+||vsojfsoj.com^
 ||go.cm.vsp.com^
 ||vsports.bet^
 ||vsports88.asia^
