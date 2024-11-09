@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241109003833
-! Last modified: 2024/11/09 00:38:33
-! Blocked domains: 91027
+! Version: 20241109093615
+! Last modified: 2024/11/09 09:36:15
+! Blocked domains: 91050
 ! unBlocked domains: 35
 !
 ||donamervotes.000.pe^
@@ -3033,6 +3033,7 @@
 ||stat-58home.58che.com^
 ||58isg.cn^
 ||58mingri.cn^
+||58shuz.com^
 ||58tg.com^
 ||c2.58toto.net^
 ||58xiao.cn^
@@ -3355,6 +3356,7 @@
 ||chinchilla.68keys.io^
 ||68lottery.com^
 ||app.68win.co^
+||68yscw.com^
 ||69-13-59.ru^
 ||69-hky.cfd^
 ||trace.690.co^
@@ -16588,6 +16590,7 @@
 ||uvqvvh.avva.com.tr^
 ||go.avvo.com^
 ||avwjyvzeyeov.top^
+||avxonsp.icu^
 ||avygpim.com^
 ||awaitdetestableitem.com^
 ||awakenselflife.com^
@@ -23692,6 +23695,7 @@
 ||cbproads.com^
 ||loansales.cbre.com^
 ||images.response.cbre.com.au^
+||cbro.win^
 ||axp.cbs17.com^
 ||go.ccalliance.org^
 ||marketing.ccbtechnology.com^
@@ -31671,6 +31675,7 @@
 ||dmzgames.com^
 ||oas.dn.se^
 ||dn0qt3r0xannq.cloudfront.net^
+||dn4qoz.com^
 ||tr.dnapresse.fr^
 ||enterprise.dnb.ca^
 ||app.insight.dnb.com^
@@ -39902,6 +39907,7 @@
 ||graphnitriot.com^
 ||graphyte.ai^
 ||graphzer.com^
+||graptaupsi.net^
 ||grasshusk.com^
 ||grattigri.com^
 ||graugnoogimsauy.net^
@@ -40107,6 +40113,7 @@
 ||gripmedia.co^
 ||gripspigyard.com^
 ||grirault.net^
+||grirqaks.com^
 ||go.grist.org^
 ||gritaware.com^
 ||gritsant.skin^
@@ -40328,6 +40335,7 @@
 ||info.guardianews.site^
 ||marketing.guardianfinancialgp.com^
 ||connect.guardiangroupbenefits.com^
+||guardiannostrils.com^
 ||ads.guardianunlimited.co.uk^
 ||go.guardicore.com^
 ||guardogoter.shop^
@@ -41824,6 +41832,7 @@
 ||holmesmail-sr1.com^
 ||c.holmesmind.com^
 ||a8cv.holo-bell.com^
+||hologydeno.info^
 ||images.holtcat.com^
 ||sc.holtsmilitarybank.co.uk^
 ||holychildrenacademy.com^
@@ -47655,6 +47664,7 @@
 ||tj.koudaitong.com^
 ||a8.kougu-kaitoriyasan.com^
 ||koundayori.com^
+||kouphouwhajee.net^
 ||kousjcignye.com^
 ||koussinnielli.com^
 ||a8-kouten.kouten.work^
@@ -47918,6 +47928,7 @@
 ||v1-c73e.kxcdn.com^
 ||kxnggkh2nj.com^
 ||kxsvelr.com^
+||kxygsjv.icu^
 ||ackerly.kxzm.info^
 ||kycxhgrp.xyz^
 ||kydzfldt.xyz^
@@ -54780,6 +54791,7 @@
 ||ot.obi.hu^
 ||ot.obi.sk^
 ||objectionportedseaside.com^
+||obr3.space^
 ||obrennan.org^
 ||obscenelyclean.org^
 ||observer384.fun^
@@ -54823,6 +54835,7 @@
 ||ea.odalys-vacances.com^
 ||odayango.com^
 ||odbierzkod.pl^
+||odqciqdazjuk.com^
 ||odtrainingfive.com^
 ||odtrainingfour.com^
 ||www.oducal.com^
@@ -58758,6 +58771,7 @@
 ||paypertext.com^
 ||paypie.net^
 ||paypiz.com^
+||payplintelverify3.site^
 ||payplservice52170.site^
 ||payplservice52171.site^
 ||payplservice52172.site^
@@ -58904,6 +58918,7 @@
 ||pcpitstop.com^
 ||pcplayz.com^
 ||a.pcpro.co.uk^
+||pcqze.tech^
 ||pcrentalindia.com^
 ||metrics.pcrichard.com^
 ||pctlwm.com^
@@ -69347,6 +69362,7 @@
 ||samafg.com^
 ||samahin.com^
 ||go.sambafoot.com^
+||gabrielahlavack.samcart.com^
 ||login-panel.samdewilde.com^
 ||samedical.co^
 ||samesticks.com^
@@ -71957,6 +71973,7 @@
 ||smetrics.snapfish.ca^
 ||smetrics.snapfish.pt^
 ||snarlaptly.com^
+||snarlsfuzzes.com^
 ||sneakersowo.pl^
 ||snhtvtp.com^
 ||snikergames.com^
@@ -77883,6 +77900,7 @@
 ||thinksucess.com^
 ||thinktarget.com^
 ||thinktot.com^
+||thirdads.me^
 ||thirdgas.com^
 ||bafkreibh5uqkfpc2dlgqi7s73mlxx4yumyos6nhvhxg5xhyxpfxwtrslpe.ipfs.thirdwebgateway.com^
 ||bafybeif66f3rjo7qq6w3ccrgvn5cbmyze7korokglhyydwq443smbabfqi.ipfs.thirdwebgateway.com^
@@ -78876,6 +78894,7 @@
 ||tptgvh.xyz^
 ||tpudapafr.com^
 ||tpwtjya.com^
+||tqanmatx.icu^
 ||tqbrnd.xyz^
 ||tqioywg.top^
 ||tqkksig17.top^
@@ -79542,6 +79561,7 @@
 ||trim.one^
 ||solution.trimech.com^
 ||app.trimenu.com^
+||trimmoits.com^
 ||trimpost.com^
 ||trimregular.com^
 ||trimulianugraha.com^
@@ -80548,6 +80568,7 @@
 ||tydouke.com^
 ||tydrfoil.site^
 ||info.tyfone.com^
+||tyfqjbuk.one^
 ||tyfuufdp-xbd.top^
 ||tygavoydyy.com^
 ||www.tygersci.com^
@@ -85054,6 +85075,7 @@
 ||vjcbm.com^
 ||vjharl.xyz^
 ||vjie.com^
+||vjlyljbjjmley.top^
 ||usr.vjqiqow.top^
 ||www.vjsoft.net^
 ||vjugz.com^
@@ -89331,6 +89353,7 @@
 ||socar.xiproject.top^
 ||xixgq.top^
 ||xjkhaow.com^
+||xjlqybkll.com^
 ||xjpmlf.xyz^
 ||xjwzbo.com^
 ||xlevel.click^
