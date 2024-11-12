@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241112163918
-! Last modified: 2024/11/12 16:39:18
-! Blocked domains: 88752
+! Version: 20241113004044
+! Last modified: 2024/11/13 00:40:44
+! Blocked domains: 88780
 ! unBlocked domains: 64
 !
 ||foodnetworkprime-nt.000.pe^
@@ -3433,7 +3433,6 @@
 ||6747785b1d.com^
 ||alebilet.675490.cfd^
 ||tracker.6756wasdf.com^
-||f7642e332d.6771600c3f.com^
 ||s-reg-aktiv.677539.com^
 ||67777.tv^
 ||9179ef7ec3.6778056ac3.com^
@@ -13939,7 +13938,6 @@
 ||animeplaynow.com^
 ||animeshoppers.com^
 ||api.animeshqip.icu^
-||notifications.animeshqip.info^
 ||animeteatr.ru^
 ||animi2.com^
 ||animits.com^
@@ -18239,6 +18237,7 @@
 ||track.atgstores.com^
 ||recs.atgsvcs.com^
 ||static.atgsvcs.com^
+||athalarilouwo.net^
 ||athaqofy.com^
 ||athbashara.com^
 ||athbzeobts.com^
@@ -28188,7 +28187,7 @@
 ||buleor.com^
 ||bulginglair.com^
 ||a8cv.bulk.co.jp^
-||uk.bulkagetufas.com^
+||bulkagetufas.com^
 ||marketing.bulkbookstore.com^
 ||quokka.bulkbuyhosting.com^
 ||www.bulkclicks.com^
@@ -28305,6 +28304,7 @@
 ||buscat.cat^
 ||tracking.busenladies.de^
 ||bushelmans.info^
+||busherdebates.com^
 ||bushitmas.live^
 ||tr.business-deal.be^
 ||tr.business-deal.cl^
@@ -30465,6 +30465,7 @@
 ||choogeet.net^
 ||chooseimmersed.com^
 ||rbncmx.chopperexchange.com^
+||chorwatcurlike.com^
 ||hitweb.chosun.com^
 ||choubeysahab.com^
 ||choufauphik.net^
@@ -34010,6 +34011,7 @@
 ||crazyclickstats.com^
 ||sp380878.sitebeat.crazydomains.com^
 ||analytics.crazygames.com^
+||cza.crazygames.com^
 ||wafvertizing.crazygames.com^
 ||crazygreat.com^
 ||crazylead.com^
@@ -34252,11 +34254,12 @@
 ||hwqdvz.cruises.com^
 ||cruisexprt.com^
 ||crumbrationally.com^
+||crumpedglome.com^
 ||crunb6eratrix.shop^
 ||crunchfaq.com^
 ||crunchycoders.com^
 ||eec.crunchyroll.com^
-||uc.cruorinalgesic.com^
+||cruorinalgesic.com^
 ||rdvxxx.crushj.com^
 ||crustwebsites.net^
 ||crwebhost.com^
@@ -45389,6 +45392,7 @@
 ||datasink.geelark.cn^
 ||lalala.geenstijl.nl^
 ||geeseempire.com^
+||geeseruesome.com^
 ||geethaihoa.com^
 ||gegevens-wetgeving.com^
 ||smetrics.gehealthcare.com^
@@ -54404,6 +54408,7 @@
 ||events.jianshu.io^
 ||jifenqiang.com^
 ||pro.jig.space^
+||jiggleowk.com^
 ||jignairy.com^
 ||jigsawchristianlive.com^
 ||www.jihadwatch.org^
@@ -57531,6 +57536,7 @@
 ||anx.learnwithhomer.com^
 ||anx-staging.learnwithhomer.com^
 ||branch.learny.co^
+||leasedrowte.com^
 ||marketing.leasehawk.com^
 ||leasemiracle.com^
 ||connect.leaseplan.gr^
@@ -58818,6 +58824,7 @@
 ||looksa.com^
 ||loopfiles.com^
 ||get.loopmobility.co^
+||lootcs.com^
 ||lopostone.com^
 ||sawfish.loqbooq.app^
 ||tracking.lorainccc.edu^
@@ -62120,6 +62127,7 @@
 ||monkeybroker.net^
 ||sk0.monnierfreres.eu^
 ||go.monotaro.com^
+||monpaquet9trackpobox.com^
 ||securedata.monspar.be^
 ||dv59b.montecarlomeeting.com^
 ||mwf7.montecarlowellness.com^
@@ -62995,6 +63003,7 @@
 ||mycoolnewz.com^
 ||mycoupons.com^
 ||mycreditcounselor.org^
+||mycuegxt.com^
 ||mycuisson.com^
 ||mycured.com^
 ||stat.mydaddy.cc^
@@ -63655,6 +63664,7 @@
 ||email.everyonesocial.neat.no^
 ||static.nebulaads.com^
 ||trk.mktg.nec.com^
+||neckedhilting.com^
 ||metrics.necn.com^
 ||nedouseso.com^
 ||nedstatbasic.net^
@@ -66799,6 +66809,7 @@
 ||parachutecourtyardgrid.com^
 ||parademuscleseurope.com^
 ||paradise-angel.com^
+||paradisevs.com^
 ||paradisewin.com^
 ||go.paragonaviationgroup.com^
 ||trk.paragondirect.com^
@@ -67189,6 +67200,7 @@
 ||peaksmobile.com^
 ||pealit.bid^
 ||peanutbutterandjellydeli.com^
+||peanutsfuscin.com^
 ||peapovik.shop^
 ||azveac.pearl.ch^
 ||smetrics.pearlevision.com^
@@ -69649,6 +69661,7 @@
 ||pswoods.com^
 ||pswticsbnt.com^
 ||hslkll.psychic.de^
+||psychicendozoa.com^
 ||psycho-test.fr^
 ||psychologicalpaperworkimplant.com^
 ||psychologistdirectory.com^
@@ -71565,6 +71578,7 @@
 ||reasonablexpectation.com^
 ||reasoningarcherassuage.com^
 ||reatshasm.com^
+||reatushaithal.com^
 ||rebatelirate.top^
 ||collect.rebelmouse.io^
 ||rebelswing.com^
@@ -71828,6 +71842,7 @@
 ||refpasrasw.world^
 ||refpawro.xyz^
 ||refugedcuber.com^
+||refulgebesague.com^
 ||refundaip.top^
 ||refundradar.com^
 ||refusedfellow.com^
@@ -72602,6 +72617,7 @@
 ||rjw4obbw.com^
 ||rjwc95.com^
 ||rjwljrf.xyz^
+||rjwpwod.icu^
 ||ignlnmzi.rjxj.xyz^
 ||incsh.rjxj.xyz^
 ||rkadda.com^
@@ -73966,6 +73982,7 @@
 ||smetrics.schindler.de^
 ||smetrics.schindler.es^
 ||smetrics.schindler.in^
+||schmoosspue.com^
 ||data-1865901ce0.schoenerwohnen.de^
 ||scholarseeker.org^
 ||redi.schooldocu.com^
@@ -74831,6 +74848,7 @@
 ||shedly.com^
 ||sheegiwo.com^
 ||tp.sheego.de^
+||sheeltaibu.net^
 ||sheeme.com^
 ||sheeple.news^
 ||link.sheeriz.com^
@@ -76064,6 +76082,7 @@
 ||adserver1.sonymusiceurope.com^
 ||ssmr.sonynetwork.co.jp^
 ||soojoafaleh.com^
+||sookypapoula.com^
 ||link.sooooon.com^
 ||soorbka.cn^
 ||soothingglade.com^
@@ -76838,6 +76857,8 @@
 ||stockingplaice.com^
 ||stockmarketanalysispro.site^
 ||stockskids.com^
+||stogiescounter.com^
+||stoicpre.com^
 ||cheetah.stolenboats.info^
 ||stoloto.ru^
 ||stomachscience.com^
@@ -77022,6 +77043,7 @@
 ||stuftakeque.com^
 ||stugsoda.com^
 ||stulzeloutsourcing.com^
+||stunkrins.com^
 ||milk.supertool.stunnermedia.com^
 ||stunning-lift.com^
 ||stunningstuffs.com^
@@ -77703,6 +77725,7 @@
 ||tahoviecuy.org^
 ||tai567live.vip^
 ||taib69.cafe^
+||taichnewcal.com^
 ||taichoang.fun^
 ||taido99.site^
 ||taiegram.life^
@@ -81803,6 +81826,7 @@
 ||track.ultragaming.biz^
 ||affiliates.ultrahosting.com^
 ||ads.ultraviewer.net^
+||ultrawa.com^
 ||files5.uludagbilisim.com^
 ||netbk.jp.ulumark.com^
 ||ulusalofis.com^
@@ -85879,6 +85903,7 @@
 ||whitepower.com^
 ||whiteys.sbs^
 ||fish.whitney.org^
+||whizzerrapiner.com^
 ||l.whizzl.com^
 ||axp.whnt.com^
 ||axp.who13.com^
@@ -86685,6 +86710,7 @@
 ||wrfiwa.ru^
 ||wrhappliancerepair.com^
 ||axp.wric.com^
+||wrinkleinworn.shop^
 ||wristhunknagging.com^
 ||writingassociates.com^
 ||writingwhine.com^
@@ -87013,6 +87039,7 @@
 ||xgogi.com^
 ||adserver.xh.no^
 ||xhacked.com^
+||collector-direct.xhamster.com^
 ||marine.xhamster.com^
 ||rockpoint.xhamster.com^
 ||wonder.xhamster.com^
@@ -87025,6 +87052,7 @@
 ||alaska.xhamster3.com^
 ||rockpoint.xhamster3.com^
 ||rockpoint.xhamster42.desi^
+||collector.xhamsterporno.mx^
 ||xhictk.com^
 ||xhit.com^
 ||xhivjkfghj.com^
