@@ -3,10 +3,10 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241113164054
-! Last modified: 2024/11/13 16:40:54
-! Blocked domains: 111291
-! unBlocked domains: 68
+! Version: 20241114003844
+! Last modified: 2024/11/14 00:38:44
+! Blocked domains: 111307
+! unBlocked domains: 69
 !
 ||voteglobal.000.pe^
 ||048.com^
@@ -7134,6 +7134,7 @@
 ||adinfuse.com^
 ||adingo.jp^
 ||adinjector.net^
+||ads.adinmotech.com^
 ||adinplay.com^
 ||adinsight.co.kr^
 ||go.adinstruments.com^
@@ -19766,6 +19767,7 @@
 ||link.bambu.dev^
 ||telemetry.bambuser.io^
 ||secure.bamsocks.com^
+||bamtinseefta.xyz^
 ||banalbjar.com^
 ||banamco.sa^
 ||banamertur.com^
@@ -29994,6 +29996,7 @@
 ||clinicservicecare.com^
 ||clinkeasiestopponent.com^
 ||clintmarceline.com^
+||clintonchewet.com^
 ||minnow.clintwinter.me^
 ||drt.cliomovies.com^
 ||cliop.com^
@@ -30555,6 +30558,7 @@
 ||coinblocktyrusmiram.com^
 ||coincasso.com^
 ||coincheck.com^
+||ingest.coincodex.com^
 ||coinerra.com^
 ||coinfalcon.com^
 ||www.vinted-pl-gj32d.coinfx.top^
@@ -50579,6 +50583,7 @@
 ||huyriro.xyz^
 ||hvxrvef.xyz^
 ||rf.hwancangue.com^
+||hweisiu.top^
 ||hwhomedesigns.com^
 ||hwhqbjhrqekbvh.com^
 ||advert.hwn.no^
@@ -54174,6 +54179,7 @@
 ||jghjhtz.com^
 ||jgjfr.cn^
 ||jgjyxf.xyz^
+||jgltbxlougpg.xyz^
 ||jgntjtyf.icu^
 ||jgsajfggv.xyz^
 ||jgvkxp.xyz^
@@ -63127,6 +63133,7 @@
 ||tr.info.mobibam.com^
 ||consent.clarosgvas.mobicare.com.br^
 ||mobicow.com^
+||analytics.mobiedu.vn^
 ||app.mobilapp.io^
 ||mobile-ent.biz^
 ||mobile-facebook.com.vn^
@@ -63984,6 +63991,7 @@
 ||link.mpg.football^
 ||mpk01.com^
 ||mplayeranyd.info^
+||us.mplis.gov.vn^
 ||marketing.mplsnw.com^
 ||mpougdusr.com^
 ||link.mpp.football^
@@ -66554,6 +66562,7 @@
 ||nfgxadlbfzuy.click^
 ||nfhrx.com^
 ||get.nfit.club^
+||nfjdxtfpclfh.com^
 ||nfkd2ug8d9.com^
 ||metrics.nfl.com^
 ||sedge.nfl.com^
@@ -84355,6 +84364,7 @@
 ||rncsoftware.com^
 ||data-60d896f23d.rnd.de^
 ||data-6dde45f576.rnd.de^
+||mst.rnd.de^
 ||rndambipoma.com^
 ||rndcdb.xyz^
 ||rndchandelureon.com^
@@ -88938,6 +88948,7 @@
 ||sieub52.vip^
 ||sieukeo.live^
 ||vinted-pl-gj32d.sieunhan.top^
+||sieusalegiare.top^
 ||sieuthidark.com^
 ||msfvwi.sieuthiyte.com.vn^
 ||sieuto.com^
@@ -96359,6 +96370,7 @@
 ||toninjaska.com^
 ||tonipets.com^
 ||kif.tonmanager.site^
+||tonsilsuggestedtortoise.com^
 ||tonsilyearling.com^
 ||tontine.ai^
 ||tontrinevengre.com^
@@ -102612,6 +102624,7 @@
 ||mystery.vfmleonardo.com^
 ||vfreecams.com^
 ||webstats.vfsco.com^
+||vfuqivac.com^
 ||vfvdsati.com^
 ||vfvrld.xyz^
 ||vfyhwapi.com^
@@ -108771,6 +108784,7 @@
 ||wwwtarget.com^
 ||wwwtestsportsclubs.com^
 ||wwwwal-mart.com^
+||wwwwzeraqvrej.top^
 ||wwwyoutube.com^
 ||cpm.wxadserve.xyz^
 ||rtb-apac.wxadserve.xyz^
@@ -109702,6 +109716,7 @@
 ||xuqza.com^
 ||xuraeuz.com^
 ||xusuqeylou.info^
+||xuugnuits.com^
 ||xuvvi.com^
 ||xuxwvh.xyz^
 ||xvbjctqs.xyz^
@@ -110135,6 +110150,7 @@
 ||yokeeroud.com^
 ||pr.yokohama-chokin.com^
 ||a8cv.yokoyamakaban.com^
+||yoksamhain.com^
 ||pixel.yola.com^
 ||analytics.yola.net^
 ||analytics.yolacdn.net^
@@ -111365,5 +111381,6 @@
 @@||ads.twitter.com^
 @@||stats.uptimerobot.com^
 @@||ads.vk.com^
+@@||track.vontron.com^
 @@||edge.activity.windows.com^
 @@||s1.wp.com^
