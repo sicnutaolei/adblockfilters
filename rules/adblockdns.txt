@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241115004054
-! Last modified: 2024/11/15 00:40:54
-! Blocked domains: 92309
+! Version: 20241115094507
+! Last modified: 2024/11/15 09:45:07
+! Blocked domains: 92323
 ! unBlocked domains: 75
 !
 ||sam-posted.000.pe^
@@ -7040,6 +7040,7 @@
 ||adigi.icu^
 ||metrics.adiglobal.us^
 ||smetrics.adiglobal.us^
+||t.adii.se^
 ||adiiix.com^
 ||adiingsinspiri.org^
 ||adiingsinspiringt.com^
@@ -7802,6 +7803,7 @@
 ||adquota.com^
 ||adqva.com^
 ||region.adr-news.com^
+||fail.adr.ec^
 ||adraction.co.kr^
 ||adraftingdesk.com^
 ||adrange.net^
@@ -15586,6 +15588,7 @@
 ||app.apple-pay.co^
 ||apple-photo.top^
 ||apple-support-sign.in^
+||events-analytics.apple.com^
 ||xp.apple.com^
 ||ww25.appleincbabi.net^
 ||appliancerepairmiamigardensfl.com^
@@ -24825,6 +24828,7 @@
 ||colors.chamoji.com^
 ||champagnebingo.com^
 ||trk.championpneumatic.com^
+||championshipcoma.com^
 ||getstarted.championteamwear.com^
 ||chamsocthekhachhang-uudai-tructuyen-thang9.com.vn^
 ||a8clk.chance.com^
@@ -41988,6 +41992,7 @@
 ||gzasiatech.net^
 ||gzdpae.cyou^
 ||share.gzdsw.com^
+||gzfsqrc.icu^
 ||gzglmoczfzf.com^
 ||gzifhovadhf.com^
 ||kwpqaparnxomvqv.gzjhyykj.cn^
@@ -45352,6 +45357,7 @@
 ||immugendx.com^
 ||smetrics.immunooncology.be^
 ||immunoshield.ph^
+||front-perf.imoim.net^
 ||imoneymarketingg.com^
 ||www.jp.imonitorsoft.com^
 ||imop.com^
@@ -50164,6 +50170,7 @@
 ||a8.lat-international.com^
 ||sanalytics.latamwbd.com^
 ||latchwaitress.com^
+||late-anxiety.com^
 ||lateplays.com^
 ||latest-news.pro^
 ||guan.lathamcommunications.com^
@@ -50416,6 +50423,7 @@
 ||api.leancloud.cn^
 ||leancoursedesign.com^
 ||leangroupe.com^
+||plausible.leaningtech.com^
 ||c.leankun.com^
 ||invite.leanlab.co^
 ||track.leanlab.co^
@@ -51323,6 +51331,7 @@
 ||liveprivates.com^
 ||a8.liver-rhythm.jp^
 ||liverail.com^
+||atsod.launch.liveramp.com^
 ||livere.com^
 ||metrics.liverpool.com.mx^
 ||zqwofo.liverpool.com.mx^
@@ -59923,6 +59932,7 @@
 ||swa.nexive.it^
 ||nexkraft.com^
 ||metrics.nexmo.com^
+||analytics.nexon.com^
 ||images.engage.nexperia.com^
 ||filter.nexrtb.com^
 ||filter-eu.nexrtb.com^
@@ -66248,6 +66258,7 @@
 ||pub-7a2b04c21af84571a3f3be6ced955d5d.r2.dev^
 ||pub-7a5fa439af5b4783aaa143e6f97d49c3.r2.dev^
 ||pub-7a64fd2efe134c5f9b88199041424f1e.r2.dev^
+||pub-7a9aae2813a742e1b02d588e632e401b.r2.dev^
 ||pub-7b01ae9b1ef1433a94df472505e43643.r2.dev^
 ||pub-7b3d0e65e5aa4fd8839b900dfec3a87f.r2.dev^
 ||pub-7b45cf3835c940eebae7c0a13a7ccb2a.r2.dev^
@@ -80730,6 +80741,7 @@
 ||thinktarget.com^
 ||thinrabbitsrape.com^
 ||tracking.thiomucase.es^
+||bad.third-party.site^
 ||grid.thirdrail-press.com^
 ||thirdrespect.com^
 ||ipfs-2.thirdwebcdn.com^
@@ -84049,6 +84061,7 @@
 ||uafkcvpvvelp.com^
 ||lpzxed.uai.com.br^
 ||uaoaig.xyz^
+||uaqdgrfr.icu^
 ||uaqzn.top^
 ||uarating.com^
 ||uavbgdw.com^
@@ -89817,6 +89830,7 @@
 ||workinpost.one^
 ||workinpost.top^
 ||workoperation.com^
+||analytics.workos.com^
 ||workplacenotchperpetual.com^
 ||steam.workshop-art.com^
 ||steam.workshopmodels.com^

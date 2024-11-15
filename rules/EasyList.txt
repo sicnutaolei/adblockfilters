@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VHbnq7G3FDAYg3qL8QIafg
-! Version: 202411141611
+! Checksum: baMtiHaG513JupyVp+Dz2g
+! Version: 202411150111
 ! Title: EasyList
-! Last modified: 14 Nov 2024 16:11 UTC
+! Last modified: 15 Nov 2024 01:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -57828,6 +57828,7 @@ bdnews24.com##.floating-ad-bottom
 chaseyoursport.com##.floating-adv
 click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,local10.com,news4jax.com##.floatingWrapper
 thehindu.com##.flooting-ad
+frankspeech.com##.flyer-space
 golinuxcloud.com##.flying-carpet
 momjunction.com,stylecraze.com##.flying-carpet-wrapper
 emergencyemail.org,out.com##.footer
