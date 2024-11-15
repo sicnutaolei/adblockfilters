@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241115163751
-! Last modified: 2024/11/15 16:37:51
-! Blocked domains: 183836
+! Version: 20241116003820
+! Last modified: 2024/11/16 00:38:20
+! Blocked domains: 183839
 ! unBlocked domains: 151
 !
 ||tkkk.001122.cc^
@@ -79766,6 +79766,7 @@
 ||indiapostut.vip^
 ||ads.indiaresults.com^
 ||indiaroundup.com^
+||agi-static.indiatimes.com^
 ||dotmatrix.indiatimes.com^
 ||etx.indiatimes.com^
 ||ibeat.indiatimes.com^
@@ -152629,6 +152630,7 @@
 ||leaf.sweettspot.trade^
 ||vsqyaz.sweetwater.com^
 ||support-v2.sweetwaternow.com^
+||sweisib.top^
 ||swelen.com^
 ||track.byzon.swelen.net^
 ||swellingconsultation.com^
@@ -182754,6 +182756,7 @@
 ||tnc3-aliec2.zijieapi.com^
 ||tnc3-alisc1.zijieapi.com^
 ||tnc3-bjlgy.zijieapi.com^
+||vcs.zijieapi.com^
 ||view.zijieapi.com^
 ||download.zikirapp.com^
 ||zikroarg.com^
