@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241117003839
-! Last modified: 2024/11/17 00:38:39
-! Blocked domains: 74206
+! Version: 20241117095606
+! Last modified: 2024/11/17 09:56:06
+! Blocked domains: 74233
 ! unBlocked domains: 41
 !
 ||00808.vip^
@@ -11369,6 +11369,7 @@
 ||algelumina.com^
 ||algerianembassy.co.in^
 ||stats2.algo.at^
+||chatboost-cv.algoage.co.jp^
 ||logs.chatboost-cv.algoage.co.jp^
 ||www.algocashmaster.com^
 ||algodon.net^
@@ -15686,6 +15687,7 @@
 ||apozy.biz^
 ||status-ch.app-2024.de^
 ||app-adforce.jp^
+||app-ads-services.com^
 ||app-analytics-services.com^
 ||app-authority.com^
 ||app-authorization.vercel.app^
@@ -21233,6 +21235,7 @@
 ||beigedi.com^
 ||beigeturtle97.sakura.ne.jp^
 ||ad.beihai365.com^
+||beiletoys.com^
 ||adm.beimg.com^
 ||beingajoyto.info^
 ||beinghypothermic.blogspot.com^
@@ -22860,7 +22863,7 @@
 ||go.bktracksit.art^
 ||bktsauna.com^
 ||bkxpph.xyz^
-||www.bkzj.wang^
+||bkzj.wang^
 ||bkzmtp.xyz^
 ||s.bl-1.com^
 ||s2.bl-1.com^
@@ -26660,6 +26663,7 @@
 ||clothes2go.com^
 ||clothingsphere.com^
 ||lntsyq.cloture-et-jardin.fr^
+||cloudf-update.com^
 ||livee-emaill-ajuda.node.cloudlets.zone^
 ||cloudmobi.net^
 ||cloudpath82.com^
@@ -29778,6 +29782,7 @@
 ||dm7gsepi27zsx.cloudfront.net^
 ||dmanalytics1.com^
 ||email-test.dmcperforma.com.br^
+||dmevejjt.icu^
 ||tr.dnapresse.fr^
 ||enterprise.dnb.ca^
 ||app.insight.dnb.com^
@@ -29803,6 +29808,7 @@
 ||new.dnzgj.com^
 ||wia.dnzgj.com^
 ||do-global.com^
+||quit.do.am^
 ||do4dude.com^
 ||do6256x8ae75.cloudfront.net^
 ||do67etikr7pwz.cloudfront.net^
@@ -31508,6 +31514,7 @@
 ||eoftheappyrinc.info^
 ||eogaeapolaric.com^
 ||eolcdn.com^
+||5-157-110-232.dyn.eolo.it^
 ||eom-nv.com^
 ||email.eomega.org^
 ||eonads.com^
@@ -33750,6 +33757,7 @@
 ||flcounter.com^
 ||fldes6fq.de^
 ||fleahat.com^
+||flechabusretiro.com.ar^
 ||flector-conseil.com^
 ||bafybeia6pa2stquojkauqbrk7ymggry24fwg4eb3hmhwplfhnjnyzgwvy4.ipfs.fleek.cool^
 ||bafybeicsz7x3aiaizwklw4ebbibsyzmjos3wcxyudotnk4chng6f6f4sua.ipfs.fleek.cool^
@@ -35330,6 +35338,7 @@
 ||gdzieczasale.mom^
 ||ge041b.cfd^
 ||ge1.ca^
+||ge189.com^
 ||gearcraft.us^
 ||gearfu.com^
 ||gearingsinth.world^
@@ -36179,6 +36188,7 @@
 ||n2b.goexposoftware.com^
 ||gofastagency.com^
 ||s.gofile.io^
+||store6.gofile.io^
 ||goflix.club^
 ||goforandroid.com^
 ||ads.gofuckyourself.com^
@@ -36787,6 +36797,7 @@
 ||gripnode.co^
 ||gripspigyard.com^
 ||grirault.net^
+||griservice.ro^
 ||go.grist.org^
 ||gritaware.com^
 ||gritsant.skin^
@@ -40286,6 +40297,7 @@
 ||infinigraph.com^
 ||infinite-ads.com^
 ||infinite-bottom.com^
+||paytest.infinitegalaxy.cn^
 ||infinityautomatedsystems.com^
 ||emailex-knf-gov-pl.infinityfreeapp.com^
 ||pod.infinitypersonals.com^
@@ -43554,6 +43566,7 @@
 ||kpgks.online^
 ||kpjuilkzfi.com^
 ||kpopkdrama.com^
+||mininews.kpzip.com^
 ||kq272lw4c.com^
 ||app.e.kqed.org^
 ||mmq.kqtfnhnh.top^
@@ -45880,7 +45893,7 @@
 ||manipulacjafaktami.click^
 ||manistan.com^
 ||manitusbaclava.com^
-||manjeetsteelproductions.com^
+||www.manjeetsteelproductions.com^
 ||manma-kobe.space^
 ||mannerconflict.com^
 ||data-f1e447fbcf.mannheim24.de^
@@ -47303,6 +47316,7 @@
 ||adobe.mira-eshop.com^
 ||mirabelsmarketingmanager.com^
 ||smetrics.miracle-ear.com^
+||miracle-receives-lightbox-brighton.trycloudflare.com^
 ||marketing.miraflats.com^
 ||marketing.miramarcap.com^
 ||mirando.de^
@@ -47859,6 +47873,7 @@
 ||mlcgaisqudchmgg.com^
 ||mlcrosoft-teams.one^
 ||mlcrosoftonline365activedirectorysapp.pages.dev^
+||mlgowell.org^
 ||mlldrlujqg.com^
 ||mlm.de^
 ||mlnadvertising.com^
@@ -51205,6 +51220,7 @@
 ||oguvz.top^
 ||ogvkyxx.com^
 ||ohchat.net^
+||ohgorbqcegig.com^
 ||watchdog.ohio.gov^
 ||ohkahfwumd.com^
 ||ohkvifgino.com^
@@ -51435,7 +51451,6 @@
 ||a8cv.omni7.jp^
 ||omniacasino.com^
 ||data-90b8b64b92.omnibusrevue.de^
-||omnicom.fr^
 ||omniconvert.com^
 ||omnicraftworks.com^
 ||marketing.omnifymarketing.com^
@@ -52444,6 +52459,7 @@
 ||tracking.overwolf.com^
 ||overzoruaon.com^
 ||ovfmeawrciuajgb.com^
+||vps-d21ef853.vps.ovh.net^
 ||ovlliiwtxgjlz.com^
 ||app.ovloop.com^
 ||ovsrhikuma.com^
@@ -53849,7 +53865,6 @@
 ||pixanalytics.com^
 ||gxyaxf.pixartprinting.be^
 ||pixazza.com^
-||cdn1.pixel-story.shop^
 ||pixelax.com^
 ||pixelbrainy.com^
 ||applogs.pixelfederation.com^
@@ -54246,6 +54261,7 @@
 ||a8cv.pocket-sommelier.com^
 ||pocketgolf.host^
 ||pocketjaguar.com^
+||trck.pocketmoon.me^
 ||click.pocketoption.world^
 ||dash.pocketuniverse.app^
 ||pocketvegas.co.uk^
@@ -54729,6 +54745,7 @@
 ||postofduomi.cc^
 ||acir.postofficeweb.com^
 ||postofficle.top^
+||postposted-dat-realistic-email.trycloudflare.com^
 ||vidamsag.postr.hu^
 ||postrachdnia.click^
 ||postrr.cc^
@@ -59626,6 +59643,7 @@
 ||collector.scopely.io^
 ||preview-collector.scopely.io^
 ||metrics.scopus.com^
+||scorchads.com^
 ||scorecardresearch.com^
 ||scoredconnect.com^
 ||share.scoreholio.com^
@@ -61936,6 +61954,8 @@
 ||webpixel.smartmeapp.com^
 ||smartname.com^
 ||smartnews-ads.com^
+||pixel.smartnews.com^
+||pixel.dev.smartnews.com^
 ||smartocto.com^
 ||smartokids.com^
 ||ws3.smartp.com^
@@ -68116,6 +68136,7 @@
 ||mailers.unitedadlabel.com^
 ||path.unitedclasses.com^
 ||go.unitedcp.com^
+||pop.unitedgate.co.jp^
 ||rt.unitedhealthassist.com^
 ||unitedhypnosis.com^
 ||unitedmediapublishing.com^
@@ -68712,6 +68733,8 @@
 ||by.uservoice.com^
 ||by2.uservoice.com^
 ||communications.usfleettracking.com^
+||usgowell.com^
+||usgowell.org^
 ||usgymnasticscamps.com^
 ||usheredbruting.top^
 ||usinesmycete.info^
@@ -69643,6 +69666,7 @@
 ||media4021.videostrip.com^
 ||media6021.videostrip.com^
 ||jkwdsl.videt.ro^
+||ads-api.videy.co^
 ||vidfile.net^
 ||vidhaze.com^
 ||vidible.tv^
@@ -72226,6 +72250,7 @@
 ||wsstore.cc^
 ||wstepnewyniki.click^
 ||wsws1234.net^
+||soft.wsyhn.com^
 ||wszystkienowinki.click^
 ||wt-safetag.com^
 ||wt20trk.com^
@@ -72291,6 +72316,7 @@
 ||wwarvlorkeww.top^
 ||ads20.wwe-media.de^
 ||ads.wwe.biz^
+||wweisie.top^
 ||wwgdwl.com^
 ||wwgfyvvdtmeq.pw^
 ||wwhnjrg.com^
@@ -72714,7 +72740,7 @@
 ||arabs.xn--ngbs7dg.net^
 ||ad.xn--o9jem5iv41o982db8k.jp^
 ||a8aspconv.xn--ocn-ws1e.jp^
-||xn--on3b15m2lco2u.com^
+||www.xn--on3b15m2lco2u.com^
 ||xn--os-g7s.com^
 ||xn--qrq171dxpq.com^
 ||a8clk.xn--t8jx01hmvbgye566gd1f.com^
@@ -73607,6 +73633,7 @@
 ||ad.a.yximgs.com^
 ||tob-tracker.yximgs.com^
 ||tx-kmpaudio.pull.yximgs.com^
+||yxjcyxy.icu^
 ||yxptcrss.xyz^
 ||yxswtummev.info^
 ||mldy.yxxgab.cn^
