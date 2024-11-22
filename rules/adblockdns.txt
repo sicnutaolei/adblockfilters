@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241122004052
-! Last modified: 2024/11/22 00:40:52
-! Blocked domains: 121501
+! Version: 20241122095110
+! Last modified: 2024/11/22 09:51:10
+! Blocked domains: 121509
 ! unBlocked domains: 50
 !
 ||informinfluencer.000.pe^
@@ -38020,6 +38020,7 @@
 ||customurink.com^
 ||cutant.date^
 ||cute-gossip.com^
+||cuteab.com^
 ||cutecams.space^
 ||cutecheapphonecases.com^
 ||cutecommunistcatboy.com^
@@ -68855,6 +68856,7 @@
 ||adstat.izuiyou.com^
 ||xladapi.izuiyou.com^
 ||izumoukraumsew.net^
+||izuts.com^
 ||hcjpbc.j-14.com^
 ||trck-a8.j-depo.com^
 ||ebiscname.j-esthe-yoyaku.com^
@@ -73879,6 +73881,7 @@
 ||joda.leggo.it^
 ||leggymomme.top^
 ||leghairy.net^
+||legiblyosmols.top^
 ||legioncup-dev.com^
 ||legiswoollen.shop^
 ||legitimatepowers.com^
@@ -77532,6 +77535,7 @@
 ||marketing.medata.com^
 ||get.medbridge.com^
 ||enterprise.medbridgeed.com^
+||medbroadcast.com^
 ||medbrowse.info^
 ||marketing.medcallrx.com^
 ||meddleachievehat.com^
@@ -84435,7 +84439,6 @@
 ||onlinegighub.com^
 ||hyfiic.onlinehirdavatci.com^
 ||cgicounter.onlinehome.de^
-||onlinehome.us^
 ||onlinekino.pl^
 ||partneri.onlinelearning.cz^
 ||onlinepbx.ru^
@@ -84870,6 +84873,7 @@
 ||oqdtuqat.com^
 ||oqex.io^
 ||oqfpuzaltac.com^
+||oqipegjz.icu^
 ||oqnabsatfn.com^
 ||oquftwsabsep.xyz^
 ||orabsola.com^
@@ -94554,6 +94558,7 @@
 ||royaltransportersj.top^
 ||offers.royalvegascasino.com^
 ||royrichie.com^
+||rozaholshouser.cfd^
 ||adaszymczak.rozaliaclaudia.com.pl^
 ||angelika610.rozaliaclaudia.com.pl^
 ||frencho24.rozaliaclaudia.com.pl^
@@ -107008,6 +107013,7 @@
 ||trustedzone.info^
 ||trustfolders.com^
 ||trusting-offer.com^
+||trusting-produce.com^
 ||trustleapp.com^
 ||digital.trustmark.com^
 ||trustmaxonline.com^
@@ -110308,6 +110314,7 @@
 ||data-cb62759f4c.vereinsleben.de^
 ||analytics.verfacto.com^
 ||verfine.netlify.app^
+||verfun.com^
 ||verggdcnjjoing.com^
 ||vergi-gwc.com^
 ||vergilimus.com^
@@ -121024,6 +121031,7 @@
 ||link.zikto.com^
 ||zillafashion.com^
 ||a.zillastream.com^
+||zillify.cfd^
 ||go.zillowgroup.com^
 ||zimafy.com^
 ||zimbabwecomputing.com^
