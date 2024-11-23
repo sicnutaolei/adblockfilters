@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241123163606
-! Last modified: 2024/11/23 16:36:06
-! Blocked domains: 185278
+! Version: 20241124003516
+! Last modified: 2024/11/24 00:35:16
+! Blocked domains: 185284
 ! unBlocked domains: 150
 !
 ||a8cv.04510.jp^
@@ -52035,6 +52035,7 @@
 ||dt00.net^
 ||imgn.dt07.com^
 ||dt07.net^
+||dt0j.icu^
 ||dt2023.com^
 ||dt243100.com^
 ||dt3y1f1i1disy.cloudfront.net^
@@ -58593,6 +58594,7 @@
 ||xylem.ewebtel.com^
 ||eweconciliate.com^
 ||ewehsan.com^
+||eweizaw.top^
 ||baaa.ewelinajaniak.pl^
 ||bass.ewelinajaniak.pl^
 ||beara.ewelinajaniak.pl^
@@ -64986,6 +64988,7 @@
 ||freedomdesignsonline.com^
 ||smetrics.freedomfordsales.ca^
 ||freedomforpoles.com^
+||freedomgift50.com^
 ||go.freedomhouse.org^
 ||services.freedomid.com^
 ||freedominfo.net^
@@ -70103,6 +70106,7 @@
 ||go-rillatrack.com^
 ||go-route.com^
 ||go-run-fun.com^
+||go-static.info^
 ||coursefinder.go-study.uz^
 ||go-tech.store^
 ||analytics.ext.go-tellm.com^
@@ -71267,6 +71271,7 @@
 ||snow1.gosportmontagne.com^
 ||gosquared.com^
 ||gosr.mx^
+||gosrv.cl^
 ||gossipbingo.com^
 ||gossipcase.com^
 ||gossipfinestanalogy.com^
@@ -183963,6 +183968,7 @@
 ||zerostear.world^
 ||go.zerotothree.org^
 ||zttemail.zerotothree.org^
+||zerowasteinitiative.com^
 ||zesemen.cz^
 ||zesep.com^
 ||zeshanhaider.com^
