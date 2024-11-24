@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241124163902
-! Last modified: 2024/11/24 16:39:02
-! Blocked domains: 70328
+! Version: 20241125003846
+! Last modified: 2024/11/25 00:38:46
+! Blocked domains: 70332
 ! unBlocked domains: 35
 !
 ||a8cv.04510.jp^
@@ -34507,6 +34507,7 @@
 ||fieslobwg.com^
 ||fiestafeijoa.xyz^
 ||fiestagrandefm.com^
+||fiezaits.com^
 ||fifa19.mobi^
 ||fifapoints.net^
 ||fifelaw.co.uk^
@@ -37352,6 +37353,7 @@
 ||certificate-certificate.gettrials.com^
 ||gettubetv.com^
 ||e.gettyimages.nl^
+||getui.cn^
 ||getviously.com^
 ||getvoltbox.com^
 ||getworldproducts.com^
@@ -56944,6 +56946,7 @@
 ||best.qwantumm.top^
 ||kr.qwantumm.top^
 ||pp.qwantumm.top^
+||qweizay.top^
 ||qwerggre.top^
 ||qwfh39851jtfvkurf21hf.com^
 ||qwiklnk.com^
@@ -69579,6 +69582,7 @@
 ||yomeno.xyz^
 ||komachi.yomiuri.co.jp^
 ||yondleli.shop^
+||yoqqiev.top^
 ||vvktyh.yotsuyagakuin.com^
 ||yottacash.com^
 ||go.you-app.com^
