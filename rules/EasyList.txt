@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: je9qdKPJ77a5mrbzVbgf8A
-! Version: 202411250121
+! Checksum: T3XzLxhCj7EiGCKbVgsVBQ
+! Version: 202411250801
 ! Title: EasyList
-! Last modified: 25 Nov 2024 01:21 UTC
+! Last modified: 25 Nov 2024 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -61944,6 +61944,7 @@ hiphopdx.com##.video-player
 bolavip.com##.video-player-placeholder
 benzinga.com##.video-player-wrapper
 thepinknews.com##.video-player__container
+tasty.co##.video-wrap
 dpreview.com##.videoWrapper
 consequence.net##.video_container
 comicbook.com##.wp-block-savage-platform-primis-video
