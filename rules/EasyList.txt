@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: M0lO6FJiVYyJD+apHpjlqA
-! Version: 202411261611
+! Checksum: 1yMPkPRQLW4N/KrD1i3+CQ
+! Version: 202411270121
 ! Title: EasyList
-! Last modified: 26 Nov 2024 16:11 UTC
+! Last modified: 27 Nov 2024 01:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -336,7 +336,6 @@
 /advert.$~script,~xmlhttprequest,domain=~advert.ae|~advert.club|~advert.com.tr|~advert.ee|~advert.ge|~advert.io|~advert.media|~advert.org.pl|~motortrader.com.my
 /advert?
 /advertising/banners/*$image
-/advertisment/*$~image
 /adverts.$~script,~xmlhttprequest,domain=~0xacab.org|~adverts.ie|~adverts.org.ua|~github.com|~gitlab.com
 /adverts/*$~xmlhttprequest
 /advrotator_banner_largo.htm$subdocument
@@ -16339,6 +16338,7 @@ browsershots.org#@#.advert_area
 ||43sjmq3hg.com^
 ||43t53c9e.de^
 ||442fc29954.com^
+||4497e71924.com^
 ||44e29c19ac.com^
 ||44fc128918.com^
 ||44ffd27303.com^
@@ -16460,6 +16460,7 @@ browsershots.org#@#.advert_area
 ||63r2vxacp0pr.com^
 ||63voy9ciyi14.com^
 ||641198810fae7.com^
+||64580df84b.com^
 ||65bfba9ad0.com^
 ||65f249bd43.com^
 ||665166e5a9.com^
@@ -17725,6 +17726,7 @@ browsershots.org#@#.advert_area
 ||agriculturealso.com^
 ||agriculturepenthouse.com^
 ||agrmufot.com^
+||agroupsaineph.net^
 ||agscirowwsr.com^
 ||agtongagla.com^
 ||agukalty.net^
@@ -18618,6 +18620,7 @@ browsershots.org#@#.advert_area
 ||ashturfchap.com^
 ||asiangfsex.com^
 ||asidefeetsergeant.com^
+||asipnfbxnt.com^
 ||askdomainad.com^
 ||askewusurp.shop^
 ||askingsitting.com^
@@ -18906,6 +18909,7 @@ browsershots.org#@#.advert_area
 ||aupsugnee.com^
 ||aupteens.com^
 ||auptirair.com^
+||aurirdikseewhoo.net^
 ||auroraveil.bid^
 ||aurousroseola.com^
 ||aursaign.net^
@@ -19044,6 +19048,7 @@ browsershots.org#@#.advert_area
 ||awhauchoa.net^
 ||awhausaifoog.com^
 ||awheecethe.net^
+||awhoonule.net^
 ||awhoupsou.com^
 ||awistats.com^
 ||awjadlbwiawt.com^
@@ -22115,6 +22120,7 @@ browsershots.org#@#.advert_area
 ||cottoncabbage.com^
 ||cottondivorcefootprint.com^
 ||coucalhidated.com^
+||couchedbliny.top^
 ||coudswamper.com^
 ||couldmisspell.com^
 ||couldobliterate.com^
@@ -23769,6 +23775,7 @@ browsershots.org#@#.advert_area
 ||duesirresponsible.com^
 ||duetads.com^
 ||dufflesmorinel.com^
+||dufoilreslate.shop^
 ||duftiteenfonce.com^
 ||duftoagn.com^
 ||dugapiece.com^
@@ -23957,6 +23964,7 @@ browsershots.org#@#.advert_area
 ||easygoingseducingdinner.com^
 ||easygoingtouchybribe.com^
 ||easymrkt.com^
+||easysearch.click^
 ||easysemblyjusti.info^
 ||eatasesetitoefa.info^
 ||eatasesetitoefany.com^
@@ -24452,6 +24460,7 @@ browsershots.org#@#.advert_area
 ||epailseptox.com^
 ||eparchpainch.click^
 ||epededonemile.com^
+||epektpbbzkbig.com^
 ||eperlanhelluo.com^
 ||epffwffubmmdokm.com^
 ||ephebedori.life^
@@ -24521,6 +24530,7 @@ browsershots.org#@#.advert_area
 ||errors.house^
 ||ershniff.com^
 ||ersislaqands.com^
+||ertainoutweile.org^
 ||ertgthrewdownth.info^
 ||ertistsldahehu.com^
 ||eru5tdmbuwxm.com^
@@ -24619,6 +24629,7 @@ browsershots.org#@#.advert_area
 ||eunow4u.com^
 ||eunpprzdlkf.online^
 ||euosicjxjv.com^
+||euqamqasa.com^
 ||europacash.com^
 ||europe-discounts.com^
 ||europefreeze.com^
@@ -24885,6 +24896,7 @@ browsershots.org#@#.advert_area
 ||f8260adbf8558d6.com^
 ||f83d8a9867.com^
 ||f84add7c62.com^
+||f8b536a2e6.com^
 ||f8be4be498.com^
 ||f95nkry2nf8o.com^
 ||fa77756437.com^
@@ -25608,6 +25620,7 @@ browsershots.org#@#.advert_area
 ||formteddy.com^
 ||formulacountess.com^
 ||formulamuseconnected.com^
+||formyasemia.shop^
 ||fornaxmetered.com^
 ||forooqso.tv^
 ||forprimeapeon.com^
@@ -29123,6 +29136,7 @@ browsershots.org#@#.advert_area
 ||joaglouwulin.com^
 ||joagroamy.com^
 ||joajazaicoa.xyz^
+||joamenoofoag.net^
 ||joaqaylueycfqw.xyz^
 ||joastaca.com^
 ||joastoom.xyz^
@@ -29830,6 +29844,7 @@ browsershots.org#@#.advert_area
 ||labourmuttering.com^
 ||labsappland.com^
 ||labtfeavcan.com^
+||labthraces.shop^
 ||lacecoming.com^
 ||lacecompressarena.com^
 ||laceratehard.com^
@@ -30048,6 +30063,7 @@ browsershots.org#@#.advert_area
 ||leegaroo.xyz^
 ||leepephah.com^
 ||leeptoadeesh.net^
+||leesaushoah.net^
 ||leesymvlvck.xyz^
 ||leetaipt.net^
 ||leetdyeing.top^
@@ -30180,6 +30196,7 @@ browsershots.org#@#.advert_area
 ||libertycdn.com^
 ||libertystmedia.com^
 ||libraryglowingjo.com^
+||libsjamdani.shop^
 ||licantrum.com^
 ||licenceconsiderably.com^
 ||lickinggetting.com^
@@ -30329,6 +30346,7 @@ browsershots.org#@#.advert_area
 ||lizebruisiaculi.info^
 ||lizzieforcepincers.com^
 ||ljlvftvryjowdm.xyz^
+||ljnhkytpgez.com^
 ||ljr3.site^
 ||ljsr-ijbcxvq.online^
 ||lkcoffe.com^
@@ -30849,6 +30867,7 @@ browsershots.org#@#.advert_area
 ||magogvel.shop^
 ||magr.cloud^
 ||magsrv.com^
+||magtgingleagained.org^
 ||magukaudsodo.xyz^
 ||mahaidroagra.com^
 ||maibaume.com^
@@ -31328,6 +31347,7 @@ browsershots.org#@#.advert_area
 ||mfceqvxjdownjm.xyz^
 ||mfcewkrob.com^
 ||mfg8.space^
+||mflsbcasbpx.com^
 ||mfthkdj.com^
 ||mftracking.com^
 ||mgcash.com^
@@ -31844,6 +31864,7 @@ browsershots.org#@#.advert_area
 ||mqqxkkenfws.com^
 ||mraozo.xyz^
 ||mraza2dosa.com^
+||mrdqimpgmxmmpy.com^
 ||mrdzuibek.com^
 ||mremlogjam.com^
 ||mrgrekeroad.com^
@@ -32023,6 +32044,7 @@ browsershots.org#@#.advert_area
 ||mysticaldespiseelongated.com^
 ||mysticmatebiting.com^
 ||mysweetteam.com^
+||mytdsnet.com^
 ||myteamdev.com^
 ||mythicsallies.com^
 ||mythings.com^
@@ -32569,6 +32591,7 @@ browsershots.org#@#.advert_area
 ||noopapnoeic.digital^
 ||noopking.com^
 ||nooraunod.com^
+||noouplit.com^
 ||noowoochuveb.net^
 ||nope.xn--mgbkt9eckr.net^
 ||nope.xn--ngbcrg3b.com^
@@ -32746,6 +32769,7 @@ browsershots.org#@#.advert_area
 ||ntvpwpush.com^
 ||ntvsw.com^
 ||ntxviewsinterfu.info^
+||ntygtomuj.com^
 ||nubseech.com^
 ||nucleo.online^
 ||nudebenzoyl.digital^
@@ -33544,6 +33568,7 @@ browsershots.org#@#.advert_area
 ||orientalrazor.com^
 ||orientjournalrevolution.com^
 ||originalblow.pro^
+||originallyrabbleritual.com^
 ||originatecrane.com^
 ||originateposturecubicle.com^
 ||origintube.com^
@@ -33799,6 +33824,7 @@ browsershots.org#@#.advert_area
 ||ovgjveaokedo.xyz^
 ||ovhkfewhyqiz.com^
 ||ovibospeseta.com^
+||ovjagtxasv.com^
 ||ovsdnhpigmtd.xyz^
 ||ovsrhikuma.com^
 ||ovyyszfod.fun^
@@ -34584,6 +34610,7 @@ browsershots.org#@#.advert_area
 ||pinefluencydiffuse.com^
 ||ping-traffic.info^
 ||pingerswrier.click^
+||pinionsmamry.top^
 ||pinklabel.com^
 ||pinkleo.pro^
 ||pinkpig2le8tt09.com^
@@ -34748,6 +34775,7 @@ browsershots.org#@#.advert_area
 ||plocap.com^
 ||ploimajoined.top^
 ||plorexdry.com^
+||plorvexmoon13.online^
 ||plotafb.com^
 ||ploteight.com^
 ||ploughbrushed.com^
@@ -35607,6 +35635,7 @@ browsershots.org#@#.advert_area
 ||ptongouh.net^
 ||ptoockex.xyz^
 ||ptookaih.net^
+||ptootsailrou.net^
 ||ptotchie.xyz^
 ||ptoubeeh.net^
 ||ptouckop.xyz^
@@ -35949,6 +35978,7 @@ browsershots.org#@#.advert_area
 ||qewylqmaqbjbj.top^
 ||qf-ebeydt.top^
 ||qfamlcfqhtla.com^
+||qfaqwxkclrwel.com^
 ||qfavlkgf.com^
 ||qfdn3gyfbs.com^
 ||qfgtepw.com^
@@ -36146,6 +36176,7 @@ browsershots.org#@#.advert_area
 ||qwiarjayuffn.xyz^
 ||qwivhkmuksjodtt.com^
 ||qwkmiot.com^
+||qwlbvlyaklmjo.top^
 ||qwoyfys.com^
 ||qwrwhosailedbe.info^
 ||qwtag.com^
@@ -37058,6 +37089,7 @@ browsershots.org#@#.advert_area
 ||rixibe.xyz^
 ||rjeruqs.com^
 ||rjlkibvwgxiduq.com^
+||rjowzlkaz.today^
 ||rjqzljvorryba.top^
 ||rjvfxxrsepwch.xyz^
 ||rjw4obbw.com^
@@ -37989,6 +38021,7 @@ browsershots.org#@#.advert_area
 ||serleap.com^
 ||sermonbakery.com^
 ||sermonoccupied.com^
+||serpentinelay.pro^
 ||serpentreplica.com^
 ||serv-selectmedia.com^
 ||serv01001.xyz^
@@ -39036,6 +39069,7 @@ browsershots.org#@#.advert_area
 ||srgev.com^
 ||srigbxxv.com^
 ||srqfutavhy.com^
+||srsxwdadzsrf.world^
 ||srtrak.com^
 ||sruyjn-pa.one^
 ||srv224.com^
@@ -39421,6 +39455,7 @@ browsershots.org#@#.advert_area
 ||stthykerewasn.com^
 ||stubbleupbriningbackground.com^
 ||stubbornembroiderytrifling.com^
+||stubevirger.top^
 ||stucktimeoutvexed.com^
 ||studads.com^
 ||studdepartmentwith.com^
@@ -39990,6 +40025,7 @@ browsershots.org#@#.advert_area
 ||tearnumeral.com^
 ||tearsincompetentuntidy.com^
 ||tearsskin.cfd^
+||teaserslamda.top^
 ||teaspoonbrave.com^
 ||teaspoondaffodilcould.com^
 ||tebeveck.xyz^
@@ -40556,6 +40592,7 @@ browsershots.org#@#.advert_area
 ||toglooman.com^
 ||togothitaa.com^
 ||togranbulla.com^
+||tohechaustoox.net^
 ||toiletallowingrepair.com^
 ||toiletpaper.life^
 ||tokenads.com^
@@ -40938,6 +40975,7 @@ browsershots.org#@#.advert_area
 ||triplescrubjenny.com^
 ||tripsstyle.com^
 ||tripsthorpelemonade.com^
+||trisectdoigt.top^
 ||triumphalstrandedpancake.com^
 ||triumphantplace.com^
 ||trjwraxkfkm.com^
@@ -41645,6 +41683,7 @@ browsershots.org#@#.advert_area
 ||uptimecdn.com^
 ||uptodateexpansionenvisage.com^
 ||uptownrecycle.com^
+||upuplet.net^
 ||upush.co^
 ||upwardbodies.com^
 ||upwardsbenefitmale.com^
@@ -43065,6 +43104,7 @@ browsershots.org#@#.advert_area
 ||wlafx4trk.com^
 ||wlen1bty92.pro^
 ||wlezpeqlxu.com^
+||wllqotfmkhlhx.xyz^
 ||wlrkcefll.com^
 ||wlyfiii.com^
 ||wma.io^
@@ -43952,7 +43992,6 @@ browsershots.org#@#.advert_area
 ||zenkreka.com^
 ||zenoviaexchange.com^
 ||zenoviagroup.com^
-||zeotap.com^
 ||zepazupi.com^
 ||zephyronearc.com^
 ||zerads.com^
@@ -43992,6 +44031,7 @@ browsershots.org#@#.advert_area
 ||zikpwr.com^
 ||zikroarg.com^
 ||zilchesmoated.com^
+||zilsooferga.xyz^
 ||zim-zim-zam.com^
 ||zimbifarcies.com^
 ||zimg.jp^
@@ -47701,6 +47741,7 @@ browsershots.org#@#.advert_area
 ||easyfrag.org^$popup
 ||easykits.org^$popup
 ||easymrkt.com^$popup
+||easysearch.click^$popup
 ||eatasesetitoefa.info^$popup
 ||eavesofefinegoldf.info^$popup
 ||eclkmpsa.com^$popup
@@ -47964,6 +48005,7 @@ browsershots.org#@#.advert_area
 ||gdmconvtrck.com^$popup
 ||geegleshoaph.com^$popup
 ||geejetag.com^$popup
+||geeptaunip.net^$popup
 ||gemfowls.com^$popup
 ||generalebad.xyz^$popup
 ||genialsleptworldwide.com^$popup
@@ -48489,6 +48531,7 @@ browsershots.org#@#.advert_area
 ||leadsecnow.com^$popup
 ||leadshurriedlysoak.com^$popup
 ||leapretrieval.com^$popup
+||leesaushoah.net^$popup
 ||leforgotteddisg.info^$popup
 ||leftoverstatistics.com^$popup
 ||lementwrencespri.info^$popup
@@ -50123,6 +50166,7 @@ browsershots.org#@#.advert_area
 ||uptightdecreaseclinical.com^$popup
 ||uptimecdn.com^$popup
 ||uptopopunder.com^$popup
+||upuplet.net^$popup
 ||urtyert.com^$popup
 ||urvgwij.com^$popup
 ||uselnk.com^$popup
@@ -53201,6 +53245,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||ad.kisstvshow.ru^
 ||ad.l2b.co.za^
 ||ad.norfolkbroads.com^
+||ad.ymcdn.org^
 ||adblock-tester.com/banners/
 ||adrama.to/bbb.php
 ||ads-api.stuff.co.nz^
@@ -54128,15 +54173,16 @@ $csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.cloudflare.com *.go
 ! Internal use of EL
 ||raw.githubusercontent.com/easylist/easylist/master/docs/1x1.gif
 ||raw.githubusercontent.com/easylist/easylist/master/docs/2x2.png$third-party
-! Filter for testpages.adblockplus.org
-testpages.adblockplus.org/js/test-script-regex
-testpages.adblockplus.org/js/test-script.js
+! Filters for ABP testpages
+testpages.eyeo.com/js/test-script-regex
+testpages.eyeo.com/js/test-script.js
 ! *** easylist:easylist/easylist_specific_block_popup.txt ***
 $popup,third-party,domain=1337x.buzz|adblockeronstape.me|adblockeronstreamtape.me|adblockeronstrtape.xyz|adblockplustape.com|adblockplustape.xyz|adblockstreamtape.art|adblockstreamtape.fr|adblockstreamtape.site|adblocktape.online|adblocktape.store|adblocktape.wiki|advertisertape.com|animepl.xyz|animeworld.biz|antiadtape.com|atrocidades18.net|cloudemb.com|cloudvideo.tv|d000d.com|databasegdriveplayer.xyz|dembed1.com|diampokusy.com|dir-proxy.net|dirproxy.info|dood.la|dood.li|dood.pm|dood.re|dood.sh|dood.so|dood.to|dood.watch|dood.wf|dood.ws|dood.yt|doods.pro|dooood.com|ds2play.com|embedsito.com|fembed-hd.com|file-upload.com|filemoon.sx|freeplayervideo.com|geoip.redirect-ads.com|gettapeads.com|gogoanime.lol|gogoanime.nl|haes.tech|highstream.tv|hubfiles.ws|hydrax.xyz|katfile.com|kissanime.lol|kokostream.net|livetv498.me|loader.to|luluvdo.com|mixdroop.co|mixdrop.ag|mixdrop.bz|mixdrop.click|mixdrop.club|mixdrop.nu|mixdrop.ps|mixdrop.si|mixdrop.sx|mixdrop.to|mixdrp.co|mixdrp.to|monstream.org|noblocktape.com|okru.link|oneproxy.org|piracyproxy.biz|piraproxy.info|pixroute.com|playtube.ws|pouvideo.cc|projectfreetv2.com|proxyer.org|raes.tech|sbfast.com|sbplay2.com|sbplay2.xyz|sbthe.com|scloud.online|shavetape.cash|slmaxed.com|ssbstream.net|stapadblockuser.info|stapadblockuser.xyz|stape.fun|stape.me|stapewithadblock.beauty|stapewithadblock.monster|stapewithadblock.xyz|strcloud.in|streamadblocker.cc|streamadblocker.com|streamadblocker.store|streamadblocker.xyz|streamlare.com|streamnoads.com|streamta.pe|streamtape.cc|streamtape.com|streamtape.to|streamtape.xyz|streamtapeadblock.art|streamtapeadblockuser.art|streamtapeadblockuser.homes|streamtapeadblockuser.monster|streamtapeadblockuser.xyz|streamz.ws|strtape.cloud|strtapeadblocker.xyz|strtapewithadblock.art|strtapewithadblock.xyz|strtpe.link|supervideo.tv|suzihaza.com|tapeadsenjoyer.com|tapeadvertisement.com|tapeantiads.com|tapeblocker.com|tapelovesads.org|tapenoads.com|tapewithadblock.com|tapewithadblock.org|theproxy.ws|trafficdepot.xyz|tubeload.co|un-block-voe.net|uploadfiles.pw|uproxy.co|upstream.to|upvid.biz|uqload.com|userload.co|vanfem.com|vgfplay.com|vidcloud9.com|vidlox.me|viewsb.com|vivo.sx|voe-unblock.com|voe-unblock.net|voe.sx|voeunblock1.com|voeunblock2.com|voiranime.com|watchsb.com|welovemanga.one|wiztube.xyz|wootly.ch|y2mate.is|youtubedownloader.sh|ytmp3.cc|ytmp3.sh
 /&*^$popup,domain=piracyproxy.app|piraproxy.info|unblocked.club|unblockedstreaming.net
 /?ref=$popup,domain=hltv.org
 /hkz*^$popup,domain=piracyproxy.app|piraproxy.info|unblocked.club|unblockedstreaming.net
 ||123moviesfree.world/hd-episode/$popup
+||ad.ymcdn.org^$popup
 ||amazon-adsystem.com^$popup,domain=twitch.tv
 ||aontent.powzers.lol^$popup
 ||b.link^$popup,domain=hltv.org
@@ -55078,6 +55124,7 @@ gulte.com###awt_landing
 filext.com###b1c
 filext.com###b2c
 filext.com###b4c
+ytmp3.mobi###ba
 filext.com###ba1c
 encycarpedia.com###baa
 unknowncheats.me###bab
@@ -59363,7 +59410,7 @@ sherbrookerecord.com##.sam-pro-container
 softonic.com##.sam-slot
 f95zone.to##.samAlignCenter
 audi-sport.net,beermoneyforum.com,clubsearay.com,forums.sailinganarchy.com,geekdoing.com,skitalk.com,sportfishingbc.com,studentdoctor.net##.samBannerUnit
-forums.bluemoon-mcfc.co.uk,racedepartment.com,resetera.com,satelliteguys.us##.samCodeUnit
+audi-sport.net,forums.bluemoon-mcfc.co.uk,racedepartment.com,resetera.com,satelliteguys.us##.samCodeUnit
 beermoneyforum.com##.samTextUnit
 anime-sharing.com,forums.bluemoon-mcfc.co.uk##.samUnitWrapper
 netweather.tv##.samsad-Leaderboard2
@@ -61020,6 +61067,11 @@ qwant.com##div[data-testid="homeTrendsContainer"] a[href^="https://api.qwant.com
 qwant.com##div[data-testid="pam.container"]
 qwant.com##div[data-testid="productAdsMicrosoft.container"]
 sitepoint.com##div[data-unit-code]
+audi-sport.net##div[data-widget-key="Snack_Side_Menu_1"]
+audi-sport.net##div[data-widget-key="Snack_Side_Menu_2"]
+audi-sport.net##div[data-widget-key="forum_home_sidebar_top_ads"]
+audi-sport.net##div[data-widget-key="right_top_ad"]
+audi-sport.net##div[data-widget-key="sellwild_sidebar_bottom"]
 cults3d.com##div[data-zone-bsa]
 spin.com##div[id*="-promo-lead-"]
 spin.com##div[id*="-promo-mrec-"]
@@ -61293,6 +61345,7 @@ yandex.*##li[class*="_card"]:has(a[href^="https://yabs.yandex.ru/count/"])
 yandex.*##li[class*="_card"]:has(a[href^="https://yandex.com/search/_crpd/"])
 ! :has()
 windowscentral.com###article-body > .hawk-nest[data-widget-id]:has(a[class^="hawk-affiliate-link-"][class$="-button"])
+cars.com###branded-canvas-click-wrapper:has(> #native-ad-html)
 winaero.com###content p:has(~ ins.adsbygoogle)
 radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se###headerTopBar ~ div > div:has(div#RAD_D_station_top)
 gtaforums.com###ipsLayout_mainArea div:has(> #pwDeskLbAtf)
@@ -61954,10 +62007,11 @@ google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,
 google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.by,google.com.bz,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.jo,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.ru,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tn,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.ve,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hk,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.it.ao,google.je,google.jo,google.jp,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.ne.jp,google.ng,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tl,google.tm,google.tn,google.to,google.tt,google.us,google.vg,google.vu,google.ws##div[jsdata*="SinglePLA-"][data-id^="SinglePLA-"]
 google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.by,google.com.bz,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.jo,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.ru,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tn,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.ve,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hk,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.it.ao,google.je,google.jo,google.jp,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.ne.jp,google.ng,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tl,google.tm,google.tn,google.to,google.tt,google.us,google.vg,google.vu,google.ws##html[itemtype="http://schema.org/SearchResultsPage"] #cnt div[class$="sh-sr__bau"]
 google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.by,google.com.bz,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.jo,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.ru,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tn,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.ve,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hk,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.it.ao,google.je,google.jo,google.jp,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.ne.jp,google.ng,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tl,google.tm,google.tn,google.to,google.tt,google.us,google.vg,google.vu,google.ws##html[itemtype="http://schema.org/SearchResultsPage"] #cnt div[class$="sh-sr__tau"][style]
-! Filter for testpages.adblockplus.org
+! Filters for ABP testpages
 testpages.adblockplus.org###abptest
-testpages.adblockplus.org###test-element-id
-testpages.adblockplus.org##.test-element-class
+testpages.eyeo.com###test-aa
+testpages.eyeo.com###test-element-id
+testpages.eyeo.com##.test-element-class
 ! MSN
 msn.com###displayAdCard
 msn.com###div[id^="mrr-topad-"]
