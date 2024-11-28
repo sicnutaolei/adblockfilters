@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241128164025
-! Last modified: 2024/11/28 16:40:25
-! Blocked domains: 186654
+! Version: 20241129003819
+! Last modified: 2024/11/29 00:38:19
+! Blocked domains: 186661
 ! unBlocked domains: 150
 !
 ||00nf1c1ae.top^
@@ -27297,6 +27297,7 @@
 ||bmlmedia.com^
 ||marketing.bmlwealth.net^
 ||bmmetrix.com^
+||bmmwa.info^
 ||bmnbyn.icu^
 ||images.bmnq.com^
 ||bmnr.pw^
@@ -74915,6 +74916,7 @@
 ||cnt.hd21.com^
 ||hd4uhub.com^
 ||hdacode.com^
+||hdamcsu.top^
 ||hdapp1003-a.akamaihd.net^
 ||hdapp1008-a.akamaihd.net^
 ||lines.hdaprocqxmthax.com^
@@ -91247,6 +91249,7 @@
 ||keenchimairaanthem.com^
 ||login.keenkale.com^
 ||rtb-uswest.keenkale.com^
+||keenmagwife.live^
 ||keenmosquitosadly.com^
 ||keenquill.com^
 ||keensklepstacjonarny.com^
@@ -126439,7 +126442,7 @@
 ||plamat.top^
 ||gfqvmn.plan-international.jp^
 ||planacer.com^
-||sga.planad.net^
+||planad.net^
 ||marketing.planar.com^
 ||ad.planbplus.co.kr^
 ||ad.planclick.co.kr^
@@ -129923,6 +129926,7 @@
 ||track.prize-ua.online^
 ||prizee.com^
 ||prizefestival.mobi^
+||prizefrenzy.top^
 ||prizegift.top^
 ||prizegrantedrevision.com^
 ||prizel.com^
@@ -133800,6 +133804,7 @@
 ||qotai.com^
 ||qotersanches.com^
 ||qotozuu.com^
+||qovith.com^
 ||qowncyf.com^
 ||qoxawyi1.cyou^
 ||qozveo.com^
@@ -184281,6 +184286,7 @@
 ||yuanprofit.com^
 ||yuanprofit.io^
 ||overseauspider.yuanshen.com^
+||yuanzunxs1.com^
 ||yuayku.xyz^
 ||daily.yubanet.com^
 ||yubasuttertimes.com^
@@ -184600,6 +184606,7 @@
 ||z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me^
 ||z8o.cn^
 ||z9iq6vt.com^
+||z9k7.icu^
 ||video.z9o2d.gay^
 ||za-ads.de^
 ||za-vavocom.one^
