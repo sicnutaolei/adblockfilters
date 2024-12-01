@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241201003712
-! Last modified: 2024/12/01 00:37:12
-! Blocked domains: 152079
+! Version: 20241201100459
+! Last modified: 2024/12/01 10:04:59
+! Blocked domains: 152083
 ! unBlocked domains: 135
 !
 ||00i30.cc^
@@ -9091,6 +9091,7 @@
 ||af-next.com^
 ||af-z.jp^
 ||f110942df5.af54fe2566.com^
+||af6s.icu^
 ||go.afa.org^
 ||afahivar.com^
 ||afaktrio.com^
@@ -14188,6 +14189,7 @@
 ||ao-freegeoip.herokuapp.com^
 ||ao-mall.com^
 ||ao.cloudns.org^
+||ao1201kas.top^
 ||ao34-533.cfd^
 ||aoalmfwinbsstec23.com^
 ||aoays.xyz^
@@ -31120,6 +31122,7 @@
 ||smetrics.brinksprepaidmastercard.com^
 ||marketing.brinsea.com^
 ||brioletredeyes.com^
+||brircel.com^
 ||brisbaneforkids.com^
 ||briskarks.com^
 ||briskeagle.io^
@@ -71342,6 +71345,7 @@
 ||future.jcu.edu.au^
 ||study.jcu.edu.au^
 ||metrics.jcwhitney.com^
+||jcwlsofn.icu^
 ||jcyjly.com^
 ||c-nfa.jd.com^
 ||chat1.jd.com^
@@ -91422,7 +91426,6 @@
 ||navi35.com^
 ||navi35.ru^
 ||navi38.ru^
-||navi40.com^
 ||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
@@ -91437,6 +91440,7 @@
 ||navi72.com^
 ||navi77.com^
 ||navi8.com^
+||navi82.ru^
 ||navi88.com^
 ||navi99.com^
 ||vinted-polska-rr124.navia.top^
