@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241203164205
-! Last modified: 2024/12/03 16:42:05
-! Blocked domains: 102139
+! Version: 20241204004309
+! Last modified: 2024/12/04 00:43:09
+! Blocked domains: 102146
 ! unBlocked domains: 107
 !
 ||a8cv.04510.jp^
@@ -32199,6 +32199,7 @@
 ||conateq.xyz^
 ||conavii-cr.art^
 ||concash.pl^
+||concealmentmimic.com^
 ||concedederaserskyline.com^
 ||concelebratesqqber.life^
 ||concernedcondition.com^
@@ -65055,6 +65056,7 @@
 ||fpa-events.newsweek.com^
 ||newswhose.com^
 ||newtab-media.com^
+||newtabextension.com^
 ||g.newtimes.com^
 ||jm.newtsbowk.com^
 ||newtueads.com^
@@ -66840,6 +66842,7 @@
 ||tr.newsletters.odalys-vacances.com^
 ||tr.pro.odalys-vacances.com^
 ||tr.welcome.odalys-vacances.com^
+||odamcsk.top^
 ||odchudzaniezpasja.pl^
 ||oddam-za-darmo-samochod.pl^
 ||banner.oddcast.com^
@@ -73577,6 +73580,7 @@
 ||q-stats.nl^
 ||q1-tdsge.com^
 ||smetrics.q107.com^
+||q1bp.icu^
 ||q1ilb0enze.ru^
 ||q1ixd.top^
 ||q1mediahydraplatform.com^
@@ -87485,6 +87489,7 @@
 ||thanquay247.vip^
 ||thantai68.com^
 ||thaoheakolons.info^
+||thaqne.com^
 ||that-muscle.com^
 ||thatsjustgay.com^
 ||somni.thatsmymortgage.com^
@@ -94449,6 +94454,8 @@
 ||vizofnwufqme.com^
 ||info.vizquest.com^
 ||vizu.com^
+||boisenobeinsigy.vizvaz.com^
+||nvictedovnbfirst.vizvaz.com^
 ||vj-k.com^
 ||ads.vjaffiliates.com^
 ||vjcbm.com^
