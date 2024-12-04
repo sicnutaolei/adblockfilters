@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241204004309
-! Last modified: 2024/12/04 00:43:09
-! Blocked domains: 102146
+! Version: 20241204095537
+! Last modified: 2024/12/04 09:55:37
+! Blocked domains: 102153
 ! unBlocked domains: 107
 !
 ||a8cv.04510.jp^
@@ -21176,7 +21176,6 @@
 ||banquet-barbecue.com^
 ||banquetpettyduchess.com^
 ||banquetunarmedgrater.com^
-||banregio.com^
 ||ww1.banrural.com^
 ||atencion.banrural.com.gt^
 ||info.banrural.com.gt^
@@ -28375,6 +28374,7 @@
 ||casketparchhey.com^
 ||casksguest.com^
 ||webcontr.caso-design.de^
+||bitanalytics.casperverswijvelt.be^
 ||caspion.com^
 ||caspionlog.appspot.com^
 ||cassetteenergyincoming.com^
@@ -52302,6 +52302,7 @@
 ||imgr.eu^
 ||imgsdn.com^
 ||likemore-go.imgsmail.ru^
+||media-advcycle.imgsmail.ru^
 ||radar.imgsmail.ru^
 ||imgsynd.com^
 ||cams.imgtaxi.com^
@@ -58843,6 +58844,7 @@
 ||lumpyouter.com^
 ||lumtogle.net^
 ||lumustore.top^
+||lumvkebr.icu^
 ||luna-ria.jp^
 ||luna-usluge.hr^
 ||uclgnz.lunabazaar.com^
@@ -64016,6 +64018,7 @@
 ||navi77.com^
 ||navi78.ru^
 ||navi8.com^
+||navi83.ru^
 ||navi88.com^
 ||navi99.com^
 ||naviblue-team.com^
@@ -67592,6 +67595,7 @@
 ||op00.biz^
 ||op01.biz^
 ||op02.biz^
+||op3xdork.xyz^
 ||opabsolr.top^
 ||opac38.com^
 ||opads.us^
@@ -78358,6 +78362,7 @@
 ||scrollye.com^
 ||stat.scroogefrog.com^
 ||bl.scroopcompole.com^
+||scroscoi.com^
 ||app.scrpbx.co^
 ||scru.cn^
 ||scrubheiress.com^
@@ -82316,6 +82321,7 @@
 ||spyluhqarm.com^
 ||spymovies.org^
 ||thanecityfc.spyn.co^
+||spyokjoxdl.com^
 ||spysamesent.live^
 ||spywarebegone.com^
 ||spywareit.com^
@@ -101333,6 +101339,7 @@
 ||a8cv.zerorenovation.com^
 ||go.zerotothree.org^
 ||zttemail.zerotothree.org^
+||zerowasteinitiative.com^
 ||zesemen.cz^
 ||zesep.com^
 ||zestycrime.com^
