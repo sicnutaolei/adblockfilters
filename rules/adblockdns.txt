@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241206004205
-! Last modified: 2024/12/06 00:42:05
-! Blocked domains: 120027
+! Version: 20241206095423
+! Last modified: 2024/12/06 09:54:23
+! Blocked domains: 120057
 ! unBlocked domains: 151
 !
 ||0-0.fr^
@@ -12924,7 +12924,6 @@
 ||animememehub.com^
 ||animenime.ru^
 ||animeplaynow.com^
-||animeshoppers.com^
 ||api.animeshqip.icu^
 ||animeteatr.ru^
 ||animi2.com^
@@ -16595,6 +16594,8 @@
 ||tracking.attractwomen.com^
 ||smetrics.marketing.attralux.com^
 ||attrapincha.com^
+||ad.api.attribuly.com^
+||tr.attribuly.com^
 ||attributedrelease.com^
 ||attributionapp.com^
 ||attritioncombustible.com^
@@ -17927,6 +17928,7 @@
 ||baiduapp.app^
 ||baigostapsid.net^
 ||m.bailingjiankang.com^
+||bailorunwaged.com^
 ||tb.baimgfroggd.site^
 ||baimuyuan.com.cn^
 ||bainushe.com^
@@ -19337,6 +19339,7 @@
 ||smetrics.bestoforlando.com^
 ||caterpillarsigns.bestofsigns.com^
 ||xzlxgo.bestofsigns.com^
+||bestoftoday.click^
 ||smetrics.bestofvegas.com^
 ||bestones.net^
 ||bestonlinecasino.club^
@@ -22945,6 +22948,7 @@
 ||bourus.com^
 ||boustahe.com^
 ||a8.bousui-pro.com^
+||bousyapinoid.top^
 ||delivery.marketing.boutiqaat.com^
 ||dl.boutiqaat.com^
 ||dl-test.boutiqat.com^
@@ -24657,6 +24661,7 @@
 ||casio37.com^
 ||casionest292flaudient.com^
 ||fi.casiplay.com^
+||casitasoutgnaw.com^
 ||casketknightsfolder.com^
 ||casketparchhey.com^
 ||webcontr.caso-design.de^
@@ -24960,6 +24965,7 @@
 ||ceovalid-partner.com^
 ||www.cephei-b.com^
 ||smetrics.cepheid.com^
+||cephidcoastal.top^
 ||ceradesoyacolombia.com^
 ||ceratecconstructions.com^
 ||cerdmann.com^
@@ -28118,6 +28124,7 @@
 ||download.cudo.org^
 ||cudysoo.com^
 ||cue-find.com^
+||cue-oxvpqbt.space^
 ||cue4you.nl^
 ||cuebiq.com^
 ||cuefootingrosy.com^
@@ -28315,6 +28322,7 @@
 ||cvronpols.com^
 ||metrics.cvs.com^
 ||smetrics.cvty.com^
+||cvvemdvrojgo.com^
 ||cvxwaslonejulyha.info^
 ||cw-net.de^
 ||axp.cw33.com^
@@ -40394,6 +40402,7 @@
 ||app.gafreedom.com^
 ||gagdungeon.com^
 ||gagebonus.com^
+||gagheroinintact.com^
 ||gaghygienetheir.com^
 ||vakzsu.gagushow.net^
 ||go.gaia.com^
@@ -49071,6 +49080,7 @@
 ||www.imxprs.com^
 ||imzahrwl.xyz^
 ||in-appadvertising.com^
+||in-bdcvlj.love^
 ||in-da.cloud^
 ||in-group.xyz^
 ||in-page-push.com^
@@ -51272,6 +51282,7 @@
 ||lnk.joinpopp.in^
 ||joinpropeller.com^
 ||app.joinraft.com^
+||trk.joinrs.com^
 ||counter.joins.com^
 ||analytics-wcms.joins.net^
 ||go.jointhebibleproject.com^
@@ -52352,6 +52363,7 @@
 ||a8clk.www.khaki.jp^
 ||khaleejtimes.online^
 ||adv.khan.co.kr^
+||khengrull.com^
 ||khhkfcf.com^
 ||axp.khon2.com^
 ||khrbuumwcntfx.com^
@@ -56194,6 +56206,7 @@
 ||mauireporter.com^
 ||maulupoa.com^
 ||metrics.maurices.com^
+||mauzanapsusi.net^
 ||ressources.mavoiturecash.fr^
 ||trk.mavrix.ai^
 ||mav.mavuz.com^
@@ -56808,6 +56821,7 @@
 ||pwkrakanmet.met.gov.my^
 ||tracking.meta.vn^
 ||smetrics.metacam.com^
+||metachartview.com^
 ||aa.metacritic.com^
 ||metadownload.app^
 ||1.metaextension5.eu^
@@ -57896,6 +57910,7 @@
 ||mjjvkx.monoprice.com^
 ||monorailnailtributary.com^
 ||go.monotaro.com^
+||monpaquet9trackpobox.com^
 ||monroeconews.com^
 ||monroenynews.com^
 ||monsido-consent.com^
@@ -58063,6 +58078,7 @@
 ||mouse3k.com^
 ||perf.mouser.com^
 ||mousetrace.com^
+||mousheebaivy.net^
 ||moustachepoke.com^
 ||a8cv.mova-creator-school.com^
 ||www.movable-ink-2183.com^
@@ -59682,6 +59698,7 @@
 ||navi36.ru^
 ||navi38.ru^
 ||navi39.ru^
+||navi4.com^
 ||navi40.com^
 ||navi45.ru^
 ||navi5.com^
@@ -61437,6 +61454,7 @@
 ||opads.us^
 ||opalmetely.com^
 ||opalquill.com^
+||opdhoxor.com^
 ||opdomains.space^
 ||opdowvamjv.com^
 ||a8cv.open-cage.com^
@@ -64112,6 +64130,7 @@
 ||pattayastore.com^
 ||patted.stream^
 ||pattedearnestly.com^
+||patteefief.shop^
 ||pattern-trader.app^
 ||pattern-trader.net^
 ||patternimaginationbull.com^
@@ -77305,6 +77324,7 @@
 ||reedthatm.biz^
 ||www.reefclubcasino.com^
 ||reefcolloquialseptember.com^
+||reekedtravels.shop^
 ||ad.reeket.com^
 ||tracking.reeket.com^
 ||www.reelcentric.com^
@@ -78879,6 +78899,7 @@
 ||rimefatling.com^
 ||marketing.rimes.com^
 ||riminghoggoofy.com^
+||rimoadoumo.net^
 ||data-f1c47705fc.rimondo.com^
 ||tk.rimowa.com^
 ||count.rin.ru^
@@ -82028,6 +82049,7 @@
 ||scentservers.com^
 ||scfans.cn^
 ||scfh9.cn^
+||scfhspacial.com^
 ||scfrwo.cn^
 ||scfsdvc.com^
 ||scg-bs.com^
@@ -84289,6 +84311,7 @@
 ||link.sheeriz.com^
 ||sheerliteracyquestioning.com^
 ||sheeroop.com^
+||sheeshumte.net^
 ||webappsecureaccountmngepaymnet.sheet88.com^
 ||sheetsoom.top^
 ||sheetvibe.com^
@@ -87343,6 +87366,7 @@
 ||soaneefooy.net^
 ||data.crm.soapandglory.com^
 ||soaperdeils.com^
+||soaphokoul.xyz^
 ||hcjpbc.soapoperadigest.com^
 ||go.soaposta.com^
 ||soapsudkerfed.com^
@@ -91454,6 +91478,7 @@
 ||suningdeyumingl3180.top^
 ||sunios.de^
 ||sunjianlong.com^
+||sunkcosign.com^
 ||sunkwarriors.com^
 ||sunlampassumes.com^
 ||smetrics.sunlife.ca^
@@ -96757,6 +96782,7 @@
 ||metrics.thoughtworks.com^
 ||smetrics.thoughtworks.com^
 ||skink.thoumi.ch^
+||thoungoofeed.net^
 ||thoupsuk.net^
 ||thousandinvoluntary.com^
 ||jdzmqj.thousandtrails.com^
@@ -102146,6 +102172,7 @@
 ||grado.ufv.es^
 ||ufzanvc.com^
 ||t.pac.uga.edu^
+||ugajiwft.icu^
 ||track.ugamezone.com^
 ||marketing.ugamsolutions.com^
 ||flythecrane.ur.ugandairlines.com^
@@ -108791,6 +108818,7 @@
 ||vooodkabelochkaa.com^
 ||voopaicheba.com^
 ||voopcreative.com^
+||voopsookie.net^
 ||net.voopter.com.br^
 ||vooptikoph.net^
 ||zlmtfk.voordeelgordijnen.nl^
@@ -110141,6 +110169,7 @@
 ||ea.mywarner.warnerbros.fr^
 ||warnerbros888.com^
 ||atom.warnermedia.com^
+||atom-qa.warnermedia.com^
 ||live-manifests-aka.warnermediacdn.com^
 ||live-manifests-lln.warnermediacdn.com^
 ||live-media-aka.warnermediacdn.com^
@@ -112213,6 +112242,7 @@
 ||whatisuptodaynow.com^
 ||luumhi.whatonearthcatalog.com^
 ||www.whatreallyhappened.com^
+||whatredkm.com^
 ||whatsapp-32w.pages.dev^
 ||whatsapp-rqp.com^
 ||graph.whatsapp.com^
