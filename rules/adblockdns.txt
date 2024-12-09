@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241209164101
-! Last modified: 2024/12/09 16:41:01
-! Blocked domains: 175773
+! Version: 20241210004000
+! Last modified: 2024/12/10 00:40:00
+! Blocked domains: 175807
 ! unBlocked domains: 150
 !
 ||0-0.fr^
@@ -872,6 +872,7 @@
 ||www.17388.com^
 ||polska-lnpost.17523.pw^
 ||img.175532.com^
+||1768426654.rsc.cdn77.org^
 ||177o.com^
 ||177qudou.com^
 ||1789bet.com^
@@ -2567,6 +2568,7 @@
 ||3munion.net^
 ||3myad.com^
 ||3ng6p6m0.de^
+||3ni.icu^
 ||3one6.ru^
 ||3ow.cc^
 ||3p-link.com^
@@ -3149,6 +3151,7 @@
 ||cf7f345e1e.536e9f9126.com^
 ||538porn.com^
 ||53c2dtzsj7t1.top^
+||53ff0e58f9.com^
 ||53kf.com^
 ||m.53trya.cn^
 ||54019033.xyz^
@@ -9545,6 +9548,7 @@
 ||data-ce326d00f8.aero.de^
 ||aerobiabassing.com^
 ||aerodizain.com^
+||aerodynomach.com^
 ||trk.aeroengineconference.com^
 ||trk.aeroenginesusa.com^
 ||tr.email.aeroexpo.online^
@@ -10285,6 +10289,7 @@
 ||agustinaboveri.net^
 ||agustingiovanini.com^
 ||agustintiberi.com^
+||agvdvpillox.com^
 ||link-app.agvisorpro.com^
 ||link-app-dev.agvisorpro.com^
 ||link-app-preprod.agvisorpro.com^
@@ -16876,6 +16881,7 @@
 ||aqdkehbez.com^
 ||vip.aqdmv181.com^
 ||aqdnm.top^
+||aqhijerlrosvig.com^
 ||aqhz.xyz^
 ||aqibshah.com^
 ||webt.aqipa.com^
@@ -20607,6 +20613,7 @@
 ||axkwmsivme.com^
 ||axlajracqo.com^
 ||axlesys.in^
+||axmocklwa.com^
 ||go.axon.com^
 ||axoniasqqber.life^
 ||axonix.com^
@@ -23272,6 +23279,7 @@
 ||zz.bdstatic.com^
 ||bduqjebcjovz.com^
 ||bdvpromociona.com^
+||bdxhujrned.buzz^
 ||bdxpdz.xyz^
 ||be-frioaj.love^
 ||be-funk.com^
@@ -47606,6 +47614,7 @@
 ||d1on4urq8lvsb1.cloudfront.net^
 ||d1or04kku1mxl9.cloudfront.net^
 ||d1pn3cn3ri604k.cloudfront.net^
+||d1pwvobm9k031m.cloudfront.net^
 ||d1q7pknmpq2wkm.cloudfront.net^
 ||d1qc76gneygidm.cloudfront.net^
 ||d1qk9ujrmkucbl.cloudfront.net^
@@ -51990,6 +51999,7 @@
 ||djarsh.com^
 ||ads.djc.com^
 ||djdavincii.com^
+||djghtqdbptjn.com^
 ||djjdj.pages.dev^
 ||lslmetrics.djlmgdigital.com^
 ||djm080u34wfc5.cloudfront.net^
@@ -55277,6 +55287,7 @@
 ||dem.emptymileu.online^
 ||dew.emptymileu.online^
 ||gis.emptymileu.online^
+||empusacooner.com^
 ||ads.emqus.com^
 ||emrahkoylu.com^
 ||info.ems1.com^
@@ -65789,6 +65800,7 @@
 ||ll.gxsky.com^
 ||skads.gxsky.com^
 ||gxtmsmni.com^
+||gxuscpmrexyyj.com^
 ||m.gxwztv.com^
 ||gxzhshop.com^
 ||gxzxiww.com^
@@ -73454,6 +73466,7 @@
 ||7qqnms7f.iqoi4.trade^
 ||ad.iqon.jp^
 ||response.iqpc.com^
+||iqrkkaooorvx.com^
 ||iqtest365.online^
 ||iquue.com^
 ||iqzone.com^
@@ -78379,6 +78392,7 @@
 ||ksiazkaprzy.shop^
 ||ksiegadowodowa.click^
 ||ksk-nord.de^
+||kskillsombineu.com^
 ||w1.kskwai.com^
 ||info.ksl.com^
 ||dl.cm.ksmobile.com^
@@ -79094,6 +79108,7 @@
 ||lakhdatarkhatu.com^
 ||lakhlan.com^
 ||lakiikraski.ru^
+||lakinarmure.com^
 ||lakki.net^
 ||lt.lakmuscobbly.com^
 ||lakotorra.com^
@@ -87896,6 +87911,7 @@
 ||mct01.com^
 ||mcteirx.click^
 ||mctrades.org^
+||mcvtblgu.com^
 ||mcvwjzj.com^
 ||give.mcw-fhf.org^
 ||mcw77.com^
@@ -94644,6 +94660,7 @@
 ||muabanwin.io^
 ||muabitcoin.net^
 ||muahack.com^
+||muai-pysmlp.icu^
 ||muanickgiare.com^
 ||muanicklq.com^
 ||muataikhoannetflixvn.com^
@@ -97045,6 +97062,7 @@
 ||partner.naslouchamesrdcem.cz^
 ||certify.nasm.org^
 ||img01.nasmedia.co.kr^
+||nasosettoourm.com^
 ||nasrispit.com^
 ||nassaustandard.com^
 ||nasserbutiadvocates.ae^
@@ -106100,6 +106118,7 @@
 ||testlinks.ottplay.com^
 ||barracuda.ottsysteme.rs^
 ||go.otusk12.com^
+||otvjsfmh.tech^
 ||otvlehf.com^
 ||otwarte24.com.pl^
 ||otwarty-umysl.world^
@@ -109550,6 +109569,7 @@
 ||www.perspektiva.com.pe^
 ||perspirationauntpickup.com^
 ||perspirationfraction.com^
+||persuadecowardenviable.com^
 ||persuadepointed.com^
 ||perta.pt^
 ||pertawee.net^
@@ -109888,6 +109908,7 @@
 ||phaiksul.net^
 ||phaimsebsils.net^
 ||phaimseksa.com^
+||phainoirs.com^
 ||phaipaun.net^
 ||phaisoaz.com^
 ||phaitaghy.com^
@@ -109966,6 +109987,7 @@
 ||go.pheasant.com^
 ||pheasantarmpitswallow.com^
 ||pheasantnt.com^
+||phecoungaudsi.net^
 ||phee1oci.com^
 ||pheedo.com^
 ||pheedsoan.com^
@@ -112166,6 +112188,7 @@
 ||pobierzpliki.pl^
 ||pobierzteraz.mobi^
 ||pobliba.info^
+||pobsedrussakro.net^
 ||pocatellotimes.com^
 ||pocatipl.top^
 ||pocbeo.world^
@@ -116265,6 +116288,7 @@
 ||pseergoa.net^
 ||psegeevalrat.net^
 ||pseleedrax.net^
+||pseleexotouben.net^
 ||psensuds.net^
 ||go.psentertainment.com^
 ||marketing.psentertainment.com^
@@ -119986,6 +120010,7 @@
 ||putrefyeither.com^
 ||putrescentheadstoneyoungest.com^
 ||putrescentpremonitionspoon.com^
+||putrescentsacred.com^
 ||putrr16.com^
 ||putrr7.com^
 ||puttyconnect.info^
@@ -120627,6 +120652,7 @@
 ||qizjkwx9klim.com^
 ||bd888.qizuang.com^
 ||1.qjhm.net^
+||qjimtyy.top^
 ||qjinvestments.com^
 ||qjmlmaffrqj.com^
 ||qjoges.xyz^
@@ -120975,6 +121001,7 @@
 ||qqhr2008.com^
 ||qqhuhu.com^
 ||qqjar.ru^
+||qqjfvepr.com^
 ||5.qqm98.com^
 ||qqmhh.com^
 ||vinted-pl-gj32d.qqmzan.top^
@@ -140328,6 +140355,7 @@
 ||stewomelettegrand.com^
 ||stewsmall.com^
 ||stewsmemento.top^
+||stexoakraimtap.com^
 ||c.stext.id^
 ||stezhok.com^
 ||stg8.com^
@@ -159126,6 +159154,7 @@
 ||uzuspsxdy.com^
 ||a8.uzuz-college.jp^
 ||ql.uzuzuz.com^
+||uzvcffe-aw.vip^
 ||uzxkuwalnjp.com^
 ||uzytkownicy-netflix.pl^
 ||v-casino.ru^
@@ -168236,6 +168265,7 @@
 ||axp.wkbn.com^
 ||wkcjokdcdtn.com^
 ||as.wkcr.cz^
+||wkcwtmsbrmbka.com^
 ||wkdk.jp^
 ||info.wkf.fr^
 ||stat.wkf.fr^
@@ -171187,6 +171217,7 @@
 ||xtcxflak.xyz^
 ||images.e.xtelligentmedia.com^
 ||xtendmedia.com^
+||xtepjbjncast.com^
 ||omostm.xterrafitness.com^
 ||fullgomob.xtgem.com^
 ||greentooth.xtgem.com^
@@ -172019,6 +172050,7 @@
 ||ciscocyberhub.ydreams.global^
 ||ydrpcbsqh.com^
 ||ydrvkdni.xyz^
+||ydsdisuses.shop^
 ||adpublish.ydstatic.com^
 ||oimagea2.ydstatic.com^
 ||ydttxdqe.xyz^
@@ -175042,6 +175074,7 @@
 ||forms.zohopublic.com.au^
 ||almuradtiles.zohosites.com^
 ||onet-pl.zohosites.com^
+||zoiefwqhcaczun.com^
 ||zokaukree.net^
 ||zokrodes.com^
 ||zokvia.com^
@@ -175408,6 +175441,7 @@
 ||go.advantage.zpg.co.uk^
 ||tem.zpg.co.uk^
 ||zpgetworker11.com^
+||zpilkesyasa.com^
 ||zpipacuz-lfa.vip^
 ||zplfwuca.com^
 ||getresponse-login.microsoftonline.zpovdbsyft.click^
