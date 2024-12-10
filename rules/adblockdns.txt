@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241210164213
-! Last modified: 2024/12/10 16:42:13
-! Blocked domains: 101188
+! Version: 20241211004142
+! Last modified: 2024/12/11 00:41:42
+! Blocked domains: 101219
 ! unBlocked domains: 114
 !
 ||0-0.fr^
@@ -32095,6 +32095,7 @@
 ||dahkexes.com^
 ||dahlstr0m.com^
 ||vz18719.dahost.pl^
+||log.daibieunhandan.vn^
 ||a8clk.takuhai.daichi-m.co.jp^
 ||daichoho.com^
 ||bears.daigostudio.com^
@@ -32325,6 +32326,7 @@
 ||darvorn.com^
 ||darwinpoems.com^
 ||darynatury.net.pl^
+||continue.dasboard184-account.com^
 ||dasegelimer.shop^
 ||dasensiblem.org^
 ||dasesiumworkhovdimi.info^
@@ -32574,6 +32576,14 @@
 ||ddlmsoyo.icu^
 ||ddm.io^
 ||ddmuiijrdvv0s.cloudfront.net^
+||install.ddns.info^
+||pl.bellt.ddns.info^
+||pl.catre.ddns.info^
+||secure-verify-account.ddns.info^
+||secure-verify-info.ddns.info^
+||secure-verify-update.ddns.info^
+||security-update.ddns.info^
+||update-security.ddns.info^
 ||ddnzpr.xyz^
 ||check.ddos-guard.net^
 ||ddrsemxv.com^
@@ -34024,6 +34034,7 @@
 ||tr.discuss.com.hk^
 ||discussedirrelevant.com^
 ||discussingmaze.com^
+||disdeinrechar.top^
 ||diseaseexternal.com^
 ||disembarkappendix.com^
 ||disfiguredirt.com^
@@ -41654,7 +41665,7 @@
 ||images.a.flukebiomedical.com^
 ||app.e.flukecal.com^
 ||flumbu8laxic.shop^
-||bj.flungsnibble.com^
+||flungsnibble.com^
 ||flunion.cn^
 ||mtr.fluor.com^
 ||mtrs.fluor.com^
@@ -46126,6 +46137,7 @@
 ||fudezz.grid.id^
 ||gridcash.net^
 ||campaigns.griddynamics.com^
+||gridedloamily.top^
 ||gridmidia.com^
 ||fudezz.gridoto.com^
 ||gridrelay27.co^
@@ -49755,6 +49767,7 @@
 ||hyfvlxm.com^
 ||info.hygfinancialservicesinc.com^
 ||fiowtf.hyggee.com^
+||hygricurceole.com^
 ||hygromycin-b-50mg-ml-solution.com^
 ||hyidlu.com^
 ||hykokeys.com^
@@ -60069,6 +60082,7 @@
 ||emdlqs.longtallsally.com^
 ||longviewtimes.com^
 ||lonkeb.com^
+||loobilysubdebs.com^
 ||loodauni.com^
 ||line.look-home.shop^
 ||look-like-star.myshopify.com^
@@ -61340,6 +61354,7 @@
 ||affiliate.malltina.com^
 ||malnutritionbedroomtruly.com^
 ||malnutritionvisibilitybailiff.com^
+||malokgr.com^
 ||maltcontaining.com^
 ||maltunfaithfulpredominant.com^
 ||malware-scan.com^
@@ -74331,6 +74346,7 @@
 ||plumbfullybeehive.com^
 ||smetrics.plumblineservices.com^
 ||analytics.plumbworld.co.uk^
+||plummychewer.com^
 ||plumpgrabbedseventy.com^
 ||plumsbusiness.com^
 ||plumsoftware.co.uk^
@@ -80549,6 +80565,7 @@
 ||referrals-test.ridealto.com^
 ||ridgeline-motors.com^
 ||ridmilestone.com^
+||riemutmh.com^
 ||rietbok.cn^
 ||t.rifansi.com^
 ||m.rifird.com^
@@ -86301,6 +86318,7 @@
 ||go.stmath.com^
 ||stn0dr24mbi.com^
 ||stneotscitizen.com^
+||stoaglauksargoo.xyz^
 ||stoagouruzostee.net^
 ||stoaphalti.com^
 ||tracking-receiver.prod-general.stocard-backend.com^
@@ -87196,6 +87214,7 @@
 ||link.swa.info^
 ||ship.swacargo.com^
 ||swachathacorp.com^
+||swailssourer.com^
 ||www.swallowwire.sa.com^
 ||swallowyadak.ir^
 ||swamgreed.com^
@@ -87628,6 +87647,7 @@
 ||sirt.tagnons.com^
 ||tagoutlookignoring.com^
 ||tagroors.com^
+||tagruglegni.net^
 ||tagserve.asia^
 ||tagstaticx.com^
 ||publish.tagstorm.com^
@@ -92893,6 +92913,7 @@
 ||ujemnastrona.click^
 ||xxa.uji8979erd77.jp^
 ||ujimasters.com^
+||ujimtyt.top^
 ||ifxh.ujiwtzz.shop^
 ||doladowanie50pln.ujm.pl^
 ||face-vip.ujm.pl^
@@ -95376,6 +95397,7 @@
 ||marketing.visitcookcounty.com^
 ||visitcrispgrass.com^
 ||marketing.visitcurrituck.com^
+||visiterpoints.com^
 ||marketing.visitestespark.com^
 ||metrics.visitflorida.com^
 ||wwwmetricssl.visitflorida.com^
@@ -95658,6 +95680,7 @@
 ||la2.vnecdn.net^
 ||log.vneconomy.vn^
 ||tracker.vneconomy.vn^
+||s-logperf.vnexpress.net^
 ||tracking-amp.vnexpress.net^
 ||vnfa88.com^
 ||log.vnfinance.vn^
@@ -99355,6 +99378,7 @@
 ||forms.xtralis.com^
 ||xtremline.com^
 ||xtwjx.cn^
+||xu6.icu^
 ||xuiqxlhqyo.com^
 ||xukpqemfs.com^
 ||xumamropnox.com^
@@ -101186,7 +101210,14 @@
 ||zzsysp.com^
 ||zztxfj.xyz^
 ||zztxr.cn^
-||zzux.com^
+||alibaba.zzux.com^
+||asdxcsaeuthor.zzux.com^
+||browserservice.zzux.com^
+||information-security.zzux.com^
+||pl.buisc.zzux.com^
+||pl.chstp.zzux.com^
+||pl.ooiio.zzux.com^
+||update-information.zzux.com^
 ||track.msadcenter.zzv.com^
 ||zzxlhwyp.com^
 ||zzyanhushi.com^
