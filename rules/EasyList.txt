@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: M3igmEkXoWEX7LaJEPkAKg
-! Version: 202412130131
+! Checksum: h7W1v8llJAF/Xv/FW5SArw
+! Version: 202412130811
 ! Title: EasyList
-! Last modified: 13 Dec 2024 01:31 UTC
+! Last modified: 13 Dec 2024 08:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51068,7 +51068,6 @@ browsershots.org#@#.advert_area
 ||search-carousel-widget.snc-prod.aws.cinch.co.uk^
 ||secure.money.com^$third-party
 ||service.smscoin.com/js/sendpic.js
-||services.zam.com^
 ||shareasale.com/image/$third-party
 ||shink.in/js/script.js
 ||shopmyshelf.us^$third-party
