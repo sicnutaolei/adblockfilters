@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20250102163620
-! Last modified: 2025/01/02 16:36:20
-! Blocked domains: 181503
+! Version: 20250103003638
+! Last modified: 2025/01/03 00:36:38
+! Blocked domains: 181524
 ! unBlocked domains: 153
 !
 ||0-0.fr^
@@ -934,6 +934,7 @@
 ||1f98dc1262.com^
 ||1fairspin.xyz^
 ||98ad3707e5.1fb9ef7e8a.com^
+||1fcf60d54c.com^
 ||1fd92n6t8.de^
 ||1c76ff71d3.1ff0de0d52.com^
 ||st-1.1fichier.com^
@@ -4108,6 +4109,7 @@
 ||94ab.com^
 ||94cdn.com^
 ||94lm.com^
+||94x.icu^
 ||www.9522555.com^
 ||ads.95516.com^
 ||analytics.95516.com^
@@ -4244,6 +4246,7 @@
 ||5deca62174.9dfbbf28ec.com^
 ||9dmnv9z0gtoh.com^
 ||xml.9dotsmedia.com^
+||9e3810a418.com^
 ||a2fdbf0c9c.9e3a70683d.com^
 ||9e3c.com^
 ||42d086866d.9e4c6b5c4f.com^
@@ -14255,6 +14258,7 @@
 ||anyfogeting.online^
 ||x9ner.anygay.com^
 ||anyhacks.com^
+||anyinadeditiont.com^
 ||anymad.com^
 ||anymedia.lv^
 ||anymind360.com^
@@ -22268,6 +22272,7 @@
 ||bb-503.com^
 ||bb-delivery.icu^
 ||a8cv.bb-internet-qsyu.net^
+||idhtm.bb.com.br^
 ||bb3u9.com^
 ||bb4sp.com^
 ||ads.bb59.ru^
@@ -31181,6 +31186,7 @@
 ||insurance.caainsurancecompany.com^
 ||news.caamp.org^
 ||caanalytics.com^
+||caapuxmi.com^
 ||caasdagg.top^
 ||dl.caavo.com^
 ||cabarrustoday.com^
@@ -41972,6 +41978,7 @@
 ||cretgate.com^
 ||cretique.com^
 ||cretumfc.com^
+||crevainv.com^
 ||crevicedepressingpumpkin.com^
 ||partner.crewmaldives.com^
 ||e.crf.org^
@@ -43778,6 +43785,7 @@
 ||d21y75miwcfqoq.cloudfront.net^
 ||d227n6rw2vv5cw.cloudfront.net^
 ||d22sfab2t5o9bq.cloudfront.net^
+||d235m8fpdlskx9.cloudfront.net^
 ||d23pdhuxarn9w2.cloudfront.net^
 ||d241ujsiy3yht0.cloudfront.net^
 ||d24ak3f2b.top^
@@ -43915,6 +43923,7 @@
 ||307dcaf284.d41bd4d836.com^
 ||d43849fz.xyz^
 ||eff2ab534c.d499e15f78.com^
+||d49ae3cc10.com^
 ||d49z64r3ud4kq.cloudfront.net^
 ||d4ax0r5detcsu.cloudfront.net^
 ||d4bt5tknhzghh.cloudfront.net^
@@ -68630,6 +68639,7 @@
 ||data-83eff0f027.glaswelt.de^
 ||data-92cc871c16.glaswelt.de^
 ||glaters.com^
+||glatsevudoawi.net^
 ||glattepush.com^
 ||glaubuph.com^
 ||glaurtas.com^
@@ -86639,6 +86649,7 @@
 ||tr.jevoteenligne.fr^
 ||jewbushpisay.top^
 ||ads.jewcy.com^
+||jewdombenin.com^
 ||jewelbeeperinflection.com^
 ||jewelcampaign.com^
 ||jewelcavekids.com^
@@ -87036,6 +87047,7 @@
 ||jkuwfofr.com^
 ||seniorliving.jkv.org^
 ||jkyawbabvjeq.top^
+||jkyawbmyvqez.top^
 ||dm50.jkyd.net^
 ||jkzlzx.com^
 ||jl-mag.de^
@@ -99112,6 +99124,7 @@
 ||m-eteor.com^
 ||m-eteor.shop^
 ||m-facebookk.com.vn^
+||m-fb.com^
 ||m-fb.site^
 ||m-fmfadcfm.icu^
 ||sfgysl.m-i.kr^
@@ -99306,6 +99319,7 @@
 ||sdata.macconnection.com^
 ||xc.macd.cn^
 ||maceju.com^
+||ds.macellan.online^
 ||macfs.fr^
 ||stats.macg.io^
 ||macgsapptrck.com^
@@ -100388,6 +100402,7 @@
 ||manoirshrine.com^
 ||manoloto.lt^
 ||manomincasaque.com^
+||manompas.com^
 ||manonstore.xyz^
 ||oyaswl.manor.ch^
 ||manorfunctions.com^
@@ -100508,6 +100523,7 @@
 ||mapqueat.com^
 ||mapquestt.com^
 ||mapquuest.com^
+||maps-icloud.today^
 ||securetags.maps.com^
 ||localads.maps.me^
 ||localads-statistics.maps.me^
@@ -102525,6 +102541,7 @@
 ||zcnipy.melanielyne.com^
 ||smetrics.melanom-info.dk^
 ||smetrics.melanom-wissen.ch^
+||melaodyle.com^
 ||melbet-in.ru^
 ||stats.mele.dev^
 ||jiktq0fr9hv6.meleton.ru^
@@ -110218,6 +110235,7 @@
 ||www.ndbsoft.be^
 ||ndbusinessdaily.com^
 ||go.ndc-inc.com^
+||ndcomemunica.com^
 ||nddpynonxw.xyz^
 ||ndegj3peoh.com^
 ||ndejhe73jslaw093.com^
@@ -114271,6 +114289,7 @@
 ||oalreepsob.com^
 ||oalsauwy.net^
 ||oalselry.com^
+||oamoameevee.net^
 ||oamoatch.com^
 ||oamtorsa.net^
 ||oamtrk.com^
@@ -114586,6 +114605,7 @@
 ||learn.oclc.org^
 ||metrics.oclc.org^
 ||smetrics.oclc.org^
+||oclimik.top^
 ||ocmtag.com^
 ||a8.ocnk.net^
 ||ocoaksib.com^
@@ -151463,6 +151483,7 @@
 ||gtm.taginstall.com^
 ||tagjunction.com^
 ||sbkpyq.taglivros.com^
+||taglockrocket.com^
 ||tagmai.xyz^
 ||tagmanager.cn^
 ||sgtm.tagmanageritalia.it^
