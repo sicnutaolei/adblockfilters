@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: P6EpUmIitMxipgowWK/xOw
-! Version: 202501081611
+! Checksum: 1A/o8mBvmmnt+4RGVhBBcQ
+! Version: 202501090811
 ! Title: EasyList
-! Last modified: 08 Jan 2025 16:11 UTC
+! Last modified: 09 Jan 2025 08:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13,7 +13,6 @@
 !
 !-----------------------General advert blocking filters-----------------------!
 ! *** easylist:easylist/easylist_general_block.txt ***
--ad-300x600-
 -ad-458x80.
 -ad-manager/$~stylesheet
 -ad-sidebar.
@@ -39,9 +38,8 @@
 -right-ad.
 -sidebar-ad.
 -sponsor-ad.
--sticky-ad-
 -top-ads.
--web-advert-
+-web-advert-$image
 -Web-Advert.
 .adriver.$~object,domain=~adriver.co
 .adrotate.
@@ -49,21 +47,20 @@
 .ads-min.
 .ads.controller.
 .ads.css
-.ads.darla.
 .adsbox.
 .advert.$domain=~advert.ae|~advert.ge|~advert.io|~advert.ly|~advert.media|~advert.org.pl
 .ar/ads/
 .ashx?AdID=
 .aspx?adid=
-.az/adv/
+.az/adv/$~xmlhttprequest
 .br/ads/
 .bz/ads/
 .ca/ads/
 .cfm?ad=
 .cgi?ad=
 .ch/adv/
-.click/cuid/?
-.click/rf/
+.click/cuid/?$third-party
+.click/rf/$third-party
 .clkads.
 .club/js/popunder.js
 .cn/sc/*?n=$script,third-party
@@ -101,7 +98,6 @@
 .lazyload-ad.
 .lol/js/pub.min.js$third-party
 .lol/sw.js$third-party
-.mx/ads/
 .my/ads/
 .nativeads.
 .net/ad2/$~xmlhttprequest
@@ -123,10 +119,10 @@
 .popunder.js
 .pw/ads/
 .ru/ads/
-.shop/gd/
+.shop/gd/$third-party
 .shop/tsk/$third-party
-.top/cuid/?
-.top/gd/*?md=
+.top/cuid/?$third-party
+.top/gd/*?md=$third-party
 /?abt_opts=1&
 /?fp=*&poru=$subdocument
 /?view=ad
@@ -349,6 +345,7 @@
 /amazon-associates-link-$~stylesheet
 /amp-ad-$script
 /amp-connatix-$script
+/amp-sticky-ad-$script
 /amp4ads-host-v0.js$script
 /ane-popup-1/ane-popup.js$script
 /ane-popup-banner.js$script
@@ -850,7 +847,6 @@
 ?wpstealthadsjs=
 _ad_250.
 _ad_300.
-_ad_728_
 _ad_banner.
 _ad_bottom.
 _ad_box.
@@ -858,14 +854,12 @@ _ad_choices.
 _ad_header.
 _ad_image_
 _ad_layer_
-_ad_leaderboard.
 _ad_right.
 _ad_side.
 _ad_sidebar_
 _ad_skyscraper.
 _ad_wrapper.
 _adbanner_
-_adbanners.
 _adchoice.
 _adchoices.
 _adhome.
@@ -878,7 +872,6 @@ _ads.cgi
 _ads.cms?
 _ads.php?
 _ads_updater-
-_adscommon.
 _adserve.
 _adskin.
 _adskin_
@@ -896,11 +889,9 @@ _banner_ad_
 _Banner_Ads_
 _bannerad.
 _BannerAd_
-_bannerads_
 _bottom_ads.
 _bottom_ads_
 _footer_ad_
-_google_ads.
 _gpt_ads.
 _header_ad.
 _header_ad_
@@ -922,13 +913,10 @@ _rightad_
 _sidead.
 _sidebar_ad.
 _sidebar_ad_
-_skinad.
-_small_ad.
 _square_ad.
 _sticky_ad.
 _StickyAd.
 _text_ads.
-_textads.
 _top_ad.
 _vertical_ad.
 _web-advert.
@@ -1065,7 +1053,7 @@ _widget_ad.
 /prebid_$script,third-party
 /prebidlink/*$script
 /tagman/*$domain=~abelssoft.de
-_prebid.js
+_prebid.js$script
 !
 &sadbl=1&abtg=$third-party
 &sadbl=1&chu=$third-party
@@ -24851,6 +24839,7 @@ browsershots.org#@#.advert_area
 ||fauphesh.com^
 ||fauphoaglu.net^
 ||fausamoawhisi.net^
+||fauseepetoozuk.xyz^
 ||fausothaur.com^
 ||favoredkuwait.top^
 ||favorite-option.pro^
@@ -29409,6 +29398,7 @@ browsershots.org#@#.advert_area
 ||kouceeptait.com^
 ||koucerie.com^
 ||kouphouwhajee.net^
+||koupuchoust.net^
 ||koushauwhie.xyz^
 ||kousjcignye.com^
 ||koutobey.net^
@@ -31716,6 +31706,7 @@ browsershots.org#@#.advert_area
 ||mymembermatchmagic.life^
 ||myniceposts.com^
 ||myolnyr5bsk18.com^
+||myosoteruins.com^
 ||myperfect2give.com^
 ||mypopadpro.com^
 ||mypopads.com^
@@ -39120,6 +39111,7 @@ browsershots.org#@#.advert_area
 ||suchroused.com^
 ||suckae.xyz^
 ||suckfaintlybooking.com^
+||sucreexpos.com^
 ||suctionautomobile.com^
 ||suctionpoker.com^
 ||suddenvampire.com^
@@ -39508,6 +39500,7 @@ browsershots.org#@#.advert_area
 ||tapioni.com^
 ||tapixesa.pro^
 ||tapjoyads.com^
+||taposalett.top^
 ||tapproveofchild.info^
 ||taproximo.com^
 ||taprtopcldfa.co^
@@ -43339,6 +43332,7 @@ browsershots.org#@#.advert_area
 ||youservit.com^
 ||youtube.local^
 ||youtubecenter.net^
+||yowdenfalcial.com^
 ||yowlnibble.shop^
 ||yoyadsdom.com^
 ||ypersonalrecome.com^
@@ -57136,6 +57130,7 @@ whattomine.com##.centered-image-short
 spiceworks.com##.centerthe1
 ceo.ca##.ceoBanner
 digminecraft.com##.cf47a252
+provigo.ca##.chakra-container
 top.gg##.chakra-stack.css-15xujv4
 tlgrm.eu##.channel-card--promoted
 thefastmode.com##.channel_long
@@ -63841,6 +63836,7 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@||ienohikari.net/ad/img/$~third-party
 @@||img.rakudaclub.com/adv/$~third-party
 @@||infotop.jp/html/ad/$image,~third-party
+@@||intelyvale.com.mx/ads/images/$domain=valesdegasolina.mx
 @@||jmedj.co.jp/files/$image,~third-party
 @@||jobs.bg/front_job_search.php$~third-party
 @@||js.assemblyexchange.com/videojs-skip-$domain=worldstar.com
