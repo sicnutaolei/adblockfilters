@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jmLsQ/otl4kac2x3su/DUQ
-! Version: 202501200111
+! Checksum: LTHT9qngl/ExzGm4gBP8rQ
+! Version: 202501200811
 ! Title: EasyList
-! Last modified: 20 Jan 2025 01:11 UTC
+! Last modified: 20 Jan 2025 08:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -816,8 +816,6 @@
 ?wpstealthadsjs=
 _ad_250.$image
 _ad_300.$image
-_ad_bottom.
-_ad_layer_
 _ads.cms?
 _ads.php?
 _advertise-$domain=~linkedin.com
