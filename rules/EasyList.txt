@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8YDy4JQQ6miMv8MCcWBV9w
-! Version: 202501290111
+! Checksum: DJndMVfNXa1w+cUA2A+nSQ
+! Version: 202501290811
 ! Title: EasyList
-! Last modified: 29 Jan 2025 01:11 UTC
+! Last modified: 29 Jan 2025 08:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30333,6 +30333,7 @@ browsershots.org#@#.advert_area
 ||losingfunk.com^
 ||losingoldfry.com^
 ||losingtiger.com^
+||losobo.xyz^
 ||lossactivity.com^
 ||lostdormitory.com^
 ||lostinfuture.com^
