@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DlRak6ceqkX2NfRpJ5SWjA
-! Version: 202503200111
+! Checksum: wuMz7VjEnZA1UDnuzaaN8g
+! Version: 202503200801
 ! Title: EasyList
-! Last modified: 20 Mar 2025 01:11 UTC
+! Last modified: 20 Mar 2025 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52348,7 +52348,6 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||lifehack.org/Tm73FWA1STxF.js
 ||linkedin.com/tscp-serving/
 ||linkhub.icu/vendors/h.js
-||links.duckduckgo.com/d.js?q=
 ||linkshare.pro/img/btc.gif
 ||linuxtracker.org/images/dw.png
 ||livescore.az/images/banners
