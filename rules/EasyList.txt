@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4nFHEiP5u/WoE7aRiV0yJw
-! Version: 202503250131
+! Checksum: CFriQKTXLQlj62cY0UD4Yw
+! Version: 202503250811
 ! Title: EasyList
-! Last modified: 25 Mar 2025 01:31 UTC
+! Last modified: 25 Mar 2025 08:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -60039,7 +60039,6 @@ azuremagazine.com##div[class$="azoa"]
 wsj.com##div[class*="WSJTheme--adWrapper"]
 pcgamer.com,techcrunch.com,tomsguide.com,tomshardware.com##div[class*="ad-unit"]
 aajtakcampus.in##div[class*="ads_ads_container__"]
-decrypt.day##div[class*="content"] center.w-full
 dallasnews.com##div[class*="features-ads"]
 gamingbible.com,ladbible.com,unilad.co.uk,unilad.com##div[class*="margin-Advert"]
 thefiscaltimes.com##div[class*="pane-dfp-"]
