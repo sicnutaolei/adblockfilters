@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Xn0iMVSbpMazcByebk3QEA
-! Version: 202504280131
+! Checksum: z+hn2NgpuXVDGyPlD0M/qg
+! Version: 202504280901
 ! Title: EasyPrivacy
-! Last modified: 28 Apr 2025 01:31 UTC
+! Last modified: 28 Apr 2025 09:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3298,7 +3298,6 @@ omni.soundestlink.com$image
 ||entail-insights.com^
 ||enterombacerick.com^
 ||enthusiastgaming.net^
-||envato.market^
 ||epsilondelta.co^
 ||eqy.link^
 ||etop.ro^
@@ -8182,6 +8181,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||enc-90128738.b-cdn.net^
 ||endorsal.io/check/
 ||ensighten.com/error/e.php?
+||envato.market/i/
 ||epimg.net/js/gdt/
 ||epl.paypal-communication.com^$script
 ||epromote.co.za/track/
