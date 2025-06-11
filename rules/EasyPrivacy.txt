@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: KuecqRxbbe7HFtO9+Hc68Q
-! Version: 202506110131
+! Checksum: NraIl4e4oHgR2wZgVSaq4w
+! Version: 202506110821
 ! Title: EasyPrivacy
-! Last modified: 11 Jun 2025 01:31 UTC
+! Last modified: 11 Jun 2025 08:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3275,6 +3275,7 @@ omni.soundestlink.com$image
 ||as3.io^
 ||aseads.com^
 ||astarsbuilding.com^
+||atmtd.com^
 ||australiarevival.com^
 ||avads.net^
 ||awmonitor.com^
