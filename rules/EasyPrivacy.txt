@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: gL/g1sT9OTh93S0TX1zEBQ
-! Version: 202508270131
+! Checksum: ySevZ9lfS9Y3/ma4oWbCBA
+! Version: 202508270811
 ! Title: EasyPrivacy
-! Last modified: 27 Aug 2025 01:31 UTC
+! Last modified: 27 Aug 2025 08:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3284,8 +3284,10 @@ omni.soundestlink.com$image
 ! *** easylist:easyprivacy/easyprivacy_trackingservers_general.txt ***
 ! easyprivacy_trackingservers_general.txt
 ||00px.net^
+||18wosx.ru^
 ||1bliq.io^
 ||1cros.net^
+||26sgmin39.de^
 ||2cnt.net^
 ||2l6ddsmnm.de^
 ||2smt6mfgo.de^
@@ -3340,6 +3342,7 @@ omni.soundestlink.com$image
 ||bluekai.com^
 ||blueoyster.click^
 ||bonne-terre-data-layer.com^
+||bonuscake.ru^
 ||bounceexchange.com^
 ||bouncex.net^
 ||bqstreamer.com^
