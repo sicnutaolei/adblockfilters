@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 4KtMIORR1W1IwTPkIVq2jQ
-! Version: 202512130131
+! Checksum: z6M4uTpAlQskJiuCTWGFQg
+! Version: 202512130811
 ! Title: EasyPrivacy
-! Last modified: 13 Dec 2025 01:31 UTC
+! Last modified: 13 Dec 2025 08:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -935,7 +935,7 @@
 /federated-analytics.all.min.js
 /figanalytics-short-ttl.js
 /fingerprint-3.4.1.js
-/fingerprint.js$domain=~github.com
+/fingerprint.js^$domain=~github.com
 /fingerprint.min.js
 /fingerprint/iife.min.js
 /fingerprint2.js
@@ -7697,6 +7697,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||alexandria.marfeelcdn.com^
 ||algolia.io/1/events?
 ||algolia.io/1/isalive
+||alib.nine.com.au^
 ||alibaba.com/ts?
 ||alipay.com/service/clear.png?
 ||aliyun.com/actionlog/
@@ -13397,6 +13398,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||s.smallpdf.com/static/track-js-
 ||s.sofoot.com/script.js
 ||s.wayfair.com^
+||s.yimg.com/ss/analytics-$script,domain=yahoo.com
 ||sa.uswitch.com^
 ||saa.insideedition.com^
 ||samsung.com/us/web/internal/logger
