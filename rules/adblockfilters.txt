@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260702022009
-! Last modified: 2026/07/02 02:20:09
-! Blocked Filters: 117547
+! Version: 20260702115842
+! Last modified: 2026/07/02 11:58:42
+! Blocked Filters: 117548
 !
 ###AC_ad
 ###AD_160
@@ -4975,6 +4975,7 @@
 ##._ads
 ##._ads-full
 ##._ap_adrecover_ad
+##._ap_apex_ad
 ##._articleAdvert
 ##._bannerAds
 ##._bottom_ad_wrapper
@@ -30997,7 +30998,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||hobby-machinist.com^$generichide
 @@||hobbykafe.com^$generichide
 @@||hobbyking.com^*/gtm.js$script,~third-party
-@@||hollaforums.com/js/adcash.js
 @@||hollywoodmask.com^$generichide
 @@||holmesmind.com/js/drawV2.$domain=bingfong.com
 @@||holywarsoo.net^$stealth
@@ -74288,6 +74288,8 @@ rmf.fm##body > div[style^="height:300px"]
 rmf.fm##div[id^="RMF_FM_podstrony_"]
 rmf24.pl###RMF_24_podstrony_top_bill
 rmf24.pl##.reklamaPage
+rmf24.pl##.text-muted[style*="min-height:"]:has(> div[id^="RMF_24_"])
+rmf24.pl##aside .text-muted[style*="min-height:"]:has(> .sticky-wrapper > #sticker > #adsSmall)
 rmfmaxx.pl,rmfmaxxx.pl##.ph-ad-zone
 rmfmaxxx.pl#$##videojs-player-container { display: none !important; }
 rmfmaxxx.pl#$##yt-player-container { display: block !important; }
@@ -100885,7 +100887,6 @@ zzzyk.com###Tinfo
 ||holder.com.ua^$third-party
 ||holdonstranger.com^$third-party
 ||holidaycheck.*/svc/ubt/v1/events
-||hollaforums.com/if/rc
 ||hollysocialspuse.com^$popup
 ||holyfamilyradio.org/banners/
 ||homad-global-configs-eu-fra.schneevonmorgen.com.s3.amazonaws.com/www.vgtv.no/config.json$replace=/"enabled": true\,/"enabled": false\,/i
