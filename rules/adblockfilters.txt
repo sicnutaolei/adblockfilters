@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260705115647
-! Last modified: 2026/07/05 11:56:47
-! Blocked Filters: 117622
+! Version: 20260705183414
+! Last modified: 2026/07/05 18:34:14
+! Blocked Filters: 117624
 !
 ###AC_ad
 ###AD_160
@@ -39644,6 +39644,8 @@ animeaddicts.hu###left > .box > .content > .twinkle
 animeaddicts.hu#?##left > .box:has(> .content > .flash)
 animeclick.it#%#//scriptlet('trusted-click-element', 'body > a[target="_blank"] + div.header > a')
 animeclick.it#?#.center-block div.panel-default:has(> div.panel-heading:contains(Sponsor))
+animecorner.me##.ezoic_sidebar_advertisement_1
+animecorner.me##.ezoic_sidebar_advertisement_2
 animecorner.me##aside[id^="ezoic_sidebar_advertisement"]
 animecorner.me,zarabiajprzez24.pl,watchhentai.xxx,app-how-to-use-it.com,linuxcapable.com,designcorral.com,thecustomrom.com,digitalthinkerhelp.com,browserhow.com,sqlserveregitimleri.com,udemycourses.me,eckovation.com##.ai_widget
 animedb.in##.full-page
