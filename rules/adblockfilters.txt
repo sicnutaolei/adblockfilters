@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260719011948
-! Last modified: 2026/07/19 01:19:48
-! Blocked Filters: 117879
+! Version: 20260719112154
+! Last modified: 2026/07/19 11:21:54
+! Blocked Filters: 117877
 !
 ###AC_ad
 ###AD_160
@@ -83121,11 +83121,9 @@ twinsyang.net#@#.Zi_ad_a_H
 twinsyang.net,free.com.tw###custom_html-7
 twistedsifter.com###mm-player
 twistedsifter.com##.widget_sifter_ad_bigbox_widget
-twitch.tv##.online-video-ad-container
 twitch.tv##.stream-display-ad__wrapper
 twitch.tv##.video-player--stream-display-ad_lower-third {height:100% !important;}
 twitch.tv##.video-player__overlay .player-overlay-background:has(> div[class^="Layout-"] > div[class^="Layout-"] > div[class^="Layout-"] > a:is([href*="/how-to-allow-ads-browser"], [href="https://www.twitch.tv/turbo"]))
-twitch.tv##[data-a-target="outstream-ax-overlay"]
 twitch.tv##[data-test-selector="sda-wrapper"]
 twitch.tv##a[href*="store.asus.com/rog-promo/"]
 twitch.tv##a[href="https://vk.com/bust3rshop"]
@@ -110318,6 +110316,7 @@ zzzyk.com###Tinfo
 ||rightstats.com^$third-party
 ||riju.com/pr/$domain=jpfans.com|jpseek.com
 ||rintor.space/t2632cd43215.js
+||ripples.sh^$third-party
 ||risextube.com/t/
 ||rising.cn/js/haoAdData.js
 ||rising.cn/rxbox/
@@ -116679,7 +116678,6 @@ zzzyk.com###Tinfo
 ||x.com/1.1/graphql/user_flow.json
 ||x.com/1.1/jot
 ||x.com/9/measurement/
-||x.com/i/api/1.1/flow/viewer.json
 ||x.com/i/api/1.1/graphql/app_context.json
 ||x.com/i/api/1.1/graphql/error_log.json
 ||x.com/i/api/1.1/graphql/user_flow.json
