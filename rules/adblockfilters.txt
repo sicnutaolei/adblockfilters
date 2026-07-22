@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260722110926
-! Last modified: 2026/07/22 11:09:26
-! Blocked Filters: 117942
+! Version: 20260722184710
+! Last modified: 2026/07/22 18:47:10
+! Blocked Filters: 117946
 !
 ###AC_ad
 ###AD_160
@@ -16550,6 +16550,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 -*-*-*-*.panda^$script,third-party
 -1080x140-
 -1080x140.
+-1080x180-
 -120-600.
 -120_600_
 -120x600-
@@ -32974,6 +32975,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||my.foxnews.com^$stealth=referrer
 @@||my.goabode.com/assets/js/fp2.min.js$script,~third-party
 @@||my.gumtree.com/login$stealth=1p-cookie
+@@||my.microsoftpersonalcontent.com^$stealth=3p-auth
 @@||my.nextdns.io^$stealth=dpi
 @@||my.onvista.de^$stealth=dpi
 @@||my.prom.ua/*/iframe$stealth=referrer
@@ -66669,7 +66671,6 @@ multirbl.valli.org###lo-ads
 multiup.io##a[href^="/download-fast/"]
 multiup.io##a[href^="https://multiup.io/download-fast/"]
 multiup.io#$?#.content-body > form[method="POST"][action^="https://multinews.me/"] { remove: true; }
-multiup.io#%#//scriptlet('abort-current-inline-script', 'document.defaultView.atob', '')
 multiup.io#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'window.open')
 multiup.io#%#//scriptlet('prevent-setInterval', '$("form").submit()')
 multiup.io#%#//scriptlet('prevent-window-open', '!multiup')
@@ -83763,6 +83764,7 @@ uploadrar.com##center > a[href][target="_blank"]
 uploadrar.com#?#div[class^="banner"]:not(:has(> div#commonId))
 uploadrar.com#?#div[class^="download"][class*="page"] div[class^="banner"]:has(> .as_ads_guard:only-child)
 uploadrar.com#?#div[class^="download"][class*="page"] div[class^="banner"]:has(> script:first-child + .adsbygoogle)
+uploadrar.com,multiup.io#%#//scriptlet('abort-current-inline-script', 'document.defaultView.atob', '')
 uploadvr.com###sticky-rail-container > :not(:first-child)::before
 uploadvr.com###sticky-rail-container::before
 uploadvr.com##.ai-sticky-widget
@@ -86301,6 +86303,7 @@ woot.com##[data-test-ui="advertisement-cdm-zone-06"]
 woot.com##[data-test-ui^="advertisementLeaderboard"]
 woot.com#?#[dir="auto"]:contains(ADVERTISEMENT)
 woot.com#?#[dir="auto"]:has-text(ADVERTISEMENT)
+wootly.ch#%#//scriptlet('remove-attr', 'href', 'div.playh > a[href][target="_blank"]')
 woowebtools.com##div[style^="padding-top:"]:has(a > img[src])
 woozooo.com##.ves
 woozworld.com###ads_iframe
@@ -97517,6 +97520,7 @@ zzzyk.com###Tinfo
 ||doseofporn.com/t63fd79f7055.js
 ||dot.wp.pl^$script
 ||dota2.uuu9.com^$subdocument
+||dota2protracker.com/sget/ads/
 ||dotaki.com^$third-party
 ||dotaudiences.com^$third-party
 ||dotesports.com/sp.js
