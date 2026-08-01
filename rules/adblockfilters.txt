@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260801111948
-! Last modified: 2026/08/01 11:19:48
-! Blocked Filters: 118197
+! Version: 20260801182405
+! Last modified: 2026/08/01 18:24:05
+! Blocked Filters: 118204
 !
 ###AC_ad
 ###AD_160
@@ -44705,6 +44705,7 @@ charlieintel.com,dexerto.com##.min-h-\[114px\]
 charlieintel.com,dexerto.com##.text-center.italic
 charlieintel.com,dexerto.com##.top-0.justify-center
 charlieintel.com,dexerto.com##.top-10
+chartkidmatt.com##.dream-post-content-htmlSnippet
 chartoo.in,chartoo.de,chartoo.com##aside#ej
 chartoo.in,chartoo.de,chartoo.com##aside#eq
 chartstream.net###b6c3
@@ -45056,6 +45057,7 @@ chongbuluo.com##.postright
 chongbuluo.com##.search > div[style="width: 607px;margin-top:30px;"]
 chongbuluo.com##a[href^="https://cn.udacity.com/"]
 chongdiantou.com##.nice-sales
+choosefi.com##[data-block-type="credit-card-top-offers"]
 chooyomi.com#%#//scriptlet("prevent-window-open")
 choralia.net#%#//scriptlet('trusted-set-constant', 'ads_stop', '"true"')
 chordu.com##.ad_sidebar_top
@@ -68806,7 +68808,7 @@ novel543.com,thisiscm.com##.gadBlock
 novelas360.com,hqq.tv#%#//scriptlet('set-constant', 'doSecondPop', 'noopFunc')
 novelcool.com##.mangaread-ad-box
 novelcrow.com##.code-block-3
-novelfire.net##.nf-ads
+novelfire.net,novelphoenix.com##.nf-ads
 novelfull.com#%#//scriptlet('abort-on-property-read', 'yeac')
 novelfull.com#%#//scriptlet('abort-on-stack-trace', 'setTimeout', '_0x')
 novelgames.com##.gamelistGame.commonEt
@@ -91672,6 +91674,7 @@ zzzyk.com###Tinfo
 ||ajans.az/uploads/banner/
 ||ajax.pngtree.com/api/statistics/
 ||ajrkmx1.com^$popup
+||ajrkmx9.com^$popup
 ||ajump1.com^$popup
 ||ajump2.com^$popup
 ||ajx*.online^
@@ -95393,6 +95396,8 @@ zzzyk.com###Tinfo
 ||chartaca.com^$third-party
 ||chartbeat.com^$third-party
 ||chartbeat.net^$third-party
+||chartkidmatt.com/nectar_analytics
+||chartkidmatt.com/page_view
 ||chartsurfer.de/js/mtm.js
 ||chartsurfer.de/uscoll.php?
 ||chase.com/apps/services/clientBeacon.html
@@ -95550,6 +95555,7 @@ zzzyk.com###Tinfo
 ||chongdiantou.com/wp-content/uploads/2019/02/pzb.jpg
 ||choosefi.com/api/site/track
 ||choosefi.com/block-event
+||choosefi.com/conversion-event
 ||choseing.com^$popup
 ||chosun.com/hitlog/
 ||choujue.net/one/down.js
@@ -115979,6 +115985,7 @@ zzzyk.com###Tinfo
 ||vlexokrako.com^$third-party
 ||vlion.cn^$third-party
 ||vliplatform.com^$third-party
+||vlmjm1.com^$popup
 ||vlogexpert.com^$third-party
 ||vlr.gg/img/pr/
 ||vlyby.com^$third-party
