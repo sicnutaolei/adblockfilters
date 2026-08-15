@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260815165346
-! Last modified: 2026/08/15 16:53:46
-! Blocked Filters: 118519
+! Version: 20260816004543
+! Last modified: 2026/08/16 00:45:43
+! Blocked Filters: 118524
 !
 ###AC_ad
 ###AD_160
@@ -44796,6 +44796,8 @@ chatgpt.com##div[data-testid] div[class^="max-"] > div[data-ad-card-root]
 chatgpt.com##div[data-testid] div[class^="max-"] > div[data-testid="image-card-v2"]:has(button[aria-label="Sponsored options"])
 chatgpt.com##div[data-testid] div[class^="relative max-"]:has(> div[data-testid="image-card-v2"] + .pointer-events-none button[aria-label="Sponsored options"])
 chatgpt.com##section:has(> [aria-label="Sponsored"])
+chatgpt.com#%#(()=>{const e={apply:(e,r,s)=>{const t=Reflect.apply(e,r,s);try{return s[0]&&"string"==typeof s[0]&&s[0].includes("renderedAdsHtml")&&t.messages&&(t.hideAllAds=!0),t}catch(e){}return Reflect.apply(e,r,s)}};window.JSON.parse=new Proxy(window.JSON.parse,e)})();
+chatgpt.com#%#(()=>{const e={apply:(e,t,d)=>{try{const e=d[1];e?.ads&&e?.renderedAdsHtml&&(e.hidden=!0,delete e.ads,delete e.renderedAdsHtml)}catch(e){}return Reflect.apply(e,t,d)}};window.Map.prototype.set=new Proxy(window.Map.prototype.set,e)})();
 chatgpt.com#%#//scriptlet('json-prune', 'messages.*.ads messages.*.renderedAdsHtml')
 chatgpt.com#%#//scriptlet('trusted-json-set', 'WeakMap.prototype.set', '$[?(@.ads_response_id)].*', '$remove$', '', 'arg:1')
 chatgpt.com#%#//scriptlet('trusted-replace-outbound-text', 'TextDecoder.prototype.decode', '/^{"type":\s*"ads",\s*"content":\s*{"ads_request_id":.*?"ads_response_id":.*}$|^{"type":\s*"ads",.*"ads_response_id":.*"ads_request_id":.*}$/', '{}')
@@ -92701,6 +92703,7 @@ zzzyk.com###Tinfo
 ||api.gplinks.com/track/js/power-cdn.js$replace=/function _0x[a-z0-9]{3}536\(\)\{[\s\S]*?\}/function _0x242536(){};/
 ||api.grumft.com^$third-party
 ||api.headliner.link/api/v1/b/receive
+||api.heikeji.me/api/logs/check
 ||api.helloextend.com/mintsight
 ||api.hotscope.tv/snaps/top
 ||api.huo360.com/www/back/$image
@@ -95703,6 +95706,7 @@ zzzyk.com###Tinfo
 ||chata.quickcep.com/video/app/video/page
 ||chatfuel.com/cf-analytics/
 ||chatgpt.com/backend-api/bazaar/conversation/*/ads|$xmlhttprequest
+||chatgpt.com/backend-api/sentinel/ping
 ||chatinator.com^$third-party
 ||chatintr.com^$third-party
 ||chatroll.com/t.gif
@@ -113169,6 +113173,7 @@ zzzyk.com###Tinfo
 ||static.primacdn.cz/sas/sas/sasspa.js
 ||static.purexbox.com/javascript/gn/prebid*.js
 ||static.qiyi.com/js/pingback/
+||static.rebelboost.com/tracking/
 ||static.republicworld.com/assets/js/ads.min.js
 ||static.republika.co.id/js/tracker.js
 ||static.rolex.com/clocks/$third-party
