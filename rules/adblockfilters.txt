@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260822170709
-! Last modified: 2026/08/22 17:07:09
-! Blocked Filters: 118669
+! Version: 20260823004705
+! Last modified: 2026/08/23 00:47:05
+! Blocked Filters: 118672
 !
 ###AC_ad
 ###AD_160
@@ -28835,6 +28835,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||cl.link-ag.net^|
 @@||claimbits.net/static/js/noadblock.js
 @@||claimfreecoins.io^$generichide
+@@||claimlite.club/static/js/noadblock.js$domain=claimlite.club
 @@||claimsatoshi.xyz^$generichide
 @@||claimtrx.com^$generichide
 @@||clarity.ms/tag/$domain=moeci.com
@@ -45459,6 +45460,7 @@ claimcoin.in#%#//scriptlet('prevent-element-src-loading', 'script', 'static.surf
 claimcoin.in#%#//scriptlet('prevent-fetch', 'adoto.net')
 claimcoin.in#%#//scriptlet('prevent-xhr', 'adoto.net')
 claimfreecoins.io##div[id$="-adspace"]
+claimlite.club,earnbitmoon.club,multiclaim.net,claimbits.net,coinadster.com###wcfloatDiv4
 claimrbx.gg#%#//scriptlet('prevent-setTimeout', 'Adblocker Detected')
 claimto.xyz##a[href^="https://www.bitsler.com/"] > img
 clapway.com,lascimmiapensa.com#%#//scriptlet('prevent-setInterval', 'aadb_get_data')
@@ -46117,6 +46119,7 @@ coinpedia.org##.top-menu-advertise
 coinpedia.org,elhayat-life.com##.stream-title
 coinpedia.org,siasat.com##.stream-item-inline-post
 coinranking.com##.top-leaderboard
+coinsimulator.online##center:has(> ins[style^="display:inline-block;"][style*="width:"][style*="height:"]:first-child + script:last-child)
 coinsrev.com#%#//scriptlet("abort-current-inline-script", "decodeURIComponent", "_0x")
 cointelegraph.com##.advertise-with-us-link_O9rIX
 cointelegraph.com##.bnrs-list
@@ -49617,7 +49620,6 @@ eagle.mn##a[href="https://sodon-callcenter.mn/"]
 eagle.mn#?##content> section.block-html:has(> div.container div[style^="margin: auto;"])
 eagle1065.com##.featureRotator
 earlygame.com##.ad-slot-widget
-earnbitmoon.club,multiclaim.net,claimbits.net,coinadster.com###wcfloatDiv4
 earnhub.net##center ins
 earone.it##div[style^="width:968px;min-height:300px;background:url"]
 earth.com##.AdZone_adZone__2w4TC
@@ -65867,7 +65869,6 @@ miruro.bz,miruro.ru,miruro.to,miruro.tv##.monkey
 miruro.tv##.a-ads
 mishaptube.com##.table
 missav.*##div[style="width: 300px; height: 100px;"]
-missav.*,missav123.com,missav888.com##.lg\:block
 missav.*,missav123.com,missav888.com##.lg\:hidden
 missav.*,missav123.com,missav888.com##.relative > div[x-init*="campaignId=under_player"]
 missav.*,missav123.com,missav888.com##[x-show$="video_details'"] > div > .list-disc
@@ -65875,6 +65876,7 @@ missav.*,missav123.com,missav888.com##div[style^="display: flex;flex-wrap: wrap;
 missav.*,missav123.com,missav888.com##div[x-show^="recommendItems"] ~ div[class]:has(> div > div.mx-auto > div.flex > a[rel^="sponsored"])
 missav.*,missav123.com,missav888.com#%#//scriptlet('prevent-window-open')
 missav.*,missav123.com,missav888.com#%#//scriptlet('remove-attr', '@keyup.space.window|@click', 'div')
+missav.*,missav123.com,missav888.com,njavtv.com##.lg\:block
 missav.*,missav123.com,missav888.com,njavtv.com##[style^="width: 300px; height: 250px;"]
 missav.run##.banner-box
 missav.run##.grid > div.video-card:not([id])
@@ -68861,6 +68863,7 @@ nj.com##.module__ad-large
 nj.com##.revenue-display
 nj.com#$#.ad--in-article { visibility: hidden; min-height: 0!important; margin: 0!important; padding: 0!important; }
 njav.com###ad300250
+njavtv.com##.fixed.right-2.bottom-2
 njuskalo.hr#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads { display: block!important; }
 nkreport.jp,ncbellu.net,covod.work,lenlino.com,mcspigot.com,nknews.jp##body > div#wp-footer > script + div[id][class*=" "]
 nkreport.jp,nknews.jp###wp-footer > #page-top ~ div[id][class]
