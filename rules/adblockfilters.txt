@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260823095112
-! Last modified: 2026/08/23 09:51:12
-! Blocked Filters: 118674
+! Version: 20260823165625
+! Last modified: 2026/08/23 16:56:25
+! Blocked Filters: 118679
 !
 ###AC_ad
 ###AD_160
@@ -56710,6 +56710,7 @@ headfonics.com#%#//scriptlet("abort-on-property-read", "advanced_ads_ready")
 headforpoints.com##.widget--aside.widget
 headlineintime.com##.banner-add
 headlines.footybite.to##div[style^="position: fixed;"][style*="z-index: 1000000;"]
+headlinesplus.com##.hp-ad
 headphonesty.com###media_image-2
 healdad.com#%#//scriptlet("abort-on-property-read", "checkAdBlocker")
 health.clevelandclinic.org##[data-identity*="billboard-ad"]
@@ -61332,6 +61333,8 @@ justfullporn.net##.order-1:has(> .video-block-happy)
 justinweather.com##.top-ad-banner-wrapper
 justjared.com##.banner-spacer-top {max-height: 50px !important;}
 justjared.com##.header-container__main
+justjared.com##.tpd-ob-reserve
+justjared.com##.tpd-tcm-widget
 justjared.com##[role="banner"] {top:0 !important}
 justjared.com#$#.banner-spacer-top { max-height: 50px !important; }
 justjared.com#$#[role="banner"] { top:0 !important }
@@ -95529,6 +95532,7 @@ zzzyk.com###Tinfo
 ||cdn.gsmarena.com/vv/assets*/js/_pf-*.js
 ||cdn.gulte.com/wp-content/uploads/*/IndianClicks_Exxeella_Gulte_
 ||cdn.haokongbu1.com^*.js
+||cdn.headlinesplus.com/tcm-widget.js
 ||cdn.holmesmind.com^$third-party
 ||cdn.hotscope.tv/assets/ai/video-
 ||cdn.http.anno.channel4.com/m/*/*.mp4$media,domain=uktvplay.uktv.co.uk|uktvplay.co.uk
@@ -114927,6 +114931,7 @@ zzzyk.com###Tinfo
 ||tpc.googlesyndication.com^$image,redirect=1x1-transparent.gif,domain=soranews24.com,important
 ||tpcs.payu.in/pixelwithcookie.gif$domain=hindustantimes.com
 ||tpead.net/stat/
+||tpembars.com/collect
 ||tpmr.com^$popup
 ||tporn.xxx/static/da/
 ||tptoon.com/skin/js/tjtjkk.
