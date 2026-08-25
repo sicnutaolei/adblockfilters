@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260825005842
-! Last modified: 2026/08/25 00:58:42
-! Blocked Filters: 118610
+! Version: 20260825093045
+! Last modified: 2026/08/25 09:30:45
+! Blocked Filters: 118612
 !
 ###AC_ad
 ###AD_160
@@ -77616,6 +77616,8 @@ sms-receive.net#%#//scriptlet('abort-current-inline-script', '$', 'AdBlock')
 sms24.me##div[class^="ado-"]
 sms24.me##div[id^="div-gpt-ad"]
 sms24.me#$#.pub_728x90.text-ad.text_ads.text-ads.text-ad-links { display: block!important; }
+sms24.me#%#//scriptlet('remove-attr', 'onerror', 'script[id][onerror]')
+sms24.me#%#//scriptlet('remove-node-text', 'script', ').join(String.fromCharCode')
 sms24.me,sms24.info##body > div[style^="position: fixed; z-index: 1000"]
 sms24.me,sms24.info#%#//scriptlet("prevent-addEventListener", "", "showAdblock()")
 sms24.me,sms24.info#%#//scriptlet("prevent-setTimeout", "/ADBLOCK|window\.\$ado|showAdblock/")
