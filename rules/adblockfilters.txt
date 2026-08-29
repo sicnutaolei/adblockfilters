@@ -3,8 +3,8 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260829040951
-! Last modified: 2026/08/29 04:09:51
+! Version: 20260829143258
+! Last modified: 2026/08/29 14:32:58
 ! Blocked Filters: 118697
 !
 ###AC_ad
@@ -39530,7 +39530,6 @@ analdin.com##body[style="background: #000000; margin: 0; padding: 0"]:not([class
 analdin.com,cockdude.com,coomer.st,fapcat.com,gelbooru.com,kemono.cr,official.coomer.com.co##a[href*="/tsyndicate.com/"]
 analdin.com,streamporn.pw#%#//scriptlet("abort-on-property-read", "popunder")
 analdin.xxx###lj-container
-analdin.xxx##.banner-top
 analdin.xxx##div[style="position: absolute; inset: 0px; overflow: hidden; background: transparent; display: block;"]
 analdin.xxx##div[style^="text-align:"][style*="width: 950px;"]
 analdin.xxx##iframe[src*="lovelybingo.com/"]
@@ -79325,6 +79324,7 @@ streamingsites.com##div[class^="styles_adverticementBlock_"]
 streamingsites.com#?#.card-list > .card > aside > .OUTBRAIN:upward(2)
 streamingsites.com#?#.thumbs-inner > .wn-brand:not(:has(>a[href="https://streamingsites.com/reddit-streaming-sites/"]))
 streamingsites.com,torrentsites.com##.block-vpn
+streamiz.lol,analdin.xxx##.banner-top
 streamlive.to###ad_footer
 streamlive.to###ad_overlay
 streamlive.to###clickablelink
@@ -107974,6 +107974,7 @@ zzzyk.com###Tinfo
 ||olx.com.br^*/lurker.
 ||olyhdliveextra-a.akamaihd.net/*.mp4$domain=theplatform.com
 ||om.cn/api/ad-om/
+||omaaz.com^$document
 ||omciecoa37tw4.com^$popup
 ||omegaadblock.net^$document
 ||omegaadblock.net^$popup
@@ -117319,7 +117320,6 @@ zzzyk.com###Tinfo
 ||wpdaxue.com/img/*/txy-
 ||wpdstat.com^$third-party
 ||wpengine.com/wp-json/api/advanced_placement/api-in-article-ad/
-||wpengine.com/wp-json/api/advanced_placement/new-in-article/?type=placement^$domain=androidauthority.com
 ||wpfc.ml^$third-party
 ||wpimg.pl/a/i/stg/wpjslib_*.js$replace=/((display:\\s\*)none(\\s\*!important)|((\.hostname;function .\(\)|\,.=function\(\))\{return) .===[\S]*?(\}))/\$2\$3\$4\$6/,script
 ||wples.com/pc/common.js
