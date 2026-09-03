@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260903034215
-! Last modified: 2026/09/03 03:42:15
-! Blocked Filters: 118795
+! Version: 20260903114155
+! Last modified: 2026/09/03 11:41:55
+! Blocked Filters: 118796
 !
 ###AC_ad
 ###AD_160
@@ -33112,6 +33112,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||muzlan.top^$generichide
 @@||mvcat.com^$generichide
 @@||mvz.hufeland.de^$stealth=dpi
+@@||mwa.co.th^$stealth=dpi
 @@||mxcontent.net^$media,third-party,stealth=referrer
 @@||mxomo.com^$image,stealth=referrer,domain=kxo.moe
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=change.org|frigidaire.com
@@ -40475,6 +40476,8 @@ appuals.com##.appua-reimage-top
 appuals.com##.expu-protipeop
 aptoide.com##div[class*="__AdsContainer-"]
 apunkasoftware.net,apunkagames.com,thefileslocker.net##center > a[rel="noreferrer noopener"]
+aquaguardservices.co.in,fakepe.com,rajcet.com#$#body { overflow: auto !important; }
+aquaguardservices.co.in,fakepe.com,rajcet.com#$#div[style^="position: fixed; inset: 0px; z-index: 10001;"] { display: none !important; }
 aquareader.net##.body-wrap > div.c-sidebar.c-top-sidebar
 aquiyahorajuegos.net,graphicux.com,netfuck.net,baddiehub.com#%#//scriptlet("prevent-setTimeout", "css_class.show")
 aqweeb.com##.adhere
@@ -51359,8 +51362,6 @@ fakemail.net##div.noPadding[style="height:200px !important;"]
 fakemail.net##div[style^="height:120px;"] > .donate
 fakenamegenerator.com##.bcsw
 fakenhamtimes.co.uk,theargus.co.uk,eadt.co.uk,edp24.co.uk,dorsetecho.co.uk##.mar-leaderboard--top
-fakepe.com,rajcet.com#$#body { overflow: auto !important; }
-fakepe.com,rajcet.com#$#div[style^="position: fixed; inset: 0px; z-index: 10001;"] { display: none !important; }
 fakeupdate.net###itemz
 fakings.com###undervideo
 fakings.com##.centrado
