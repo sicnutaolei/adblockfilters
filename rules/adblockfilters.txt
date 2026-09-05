@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260905031040
-! Last modified: 2026/09/05 03:10:40
-! Blocked Filters: 118861
+! Version: 20260905114003
+! Last modified: 2026/09/05 11:40:03
+! Blocked Filters: 118863
 !
 ###AC_ad
 ###AD_160
@@ -71580,11 +71580,11 @@ ping-test.net##.rek970x90
 ping-test.net##div[style^="width: 336px; height: 280px;"]
 ping.chinaz.com##.sth > .col-red
 ping.eu##td > center[style="margin-bottom: 2px;"]
-ping0.cc###adiright
 ping0.cc###websites-wrap:has([rel$="sponsored"])
 ping0.cc##.aditems
-ping0.cc##.xdeles
 ping0.cc##a[rel="noopener nofollow"][target="_blank"]:has(> [class^="close"])
+ping0.cc#?#div:-abp-has(>a>.tipbd)
+ping0.cc#?#div:has(>a>.tipbd)
 pinggu.org##.banner2015
 pinggu.org##.hdbanner
 pinggu.org##.index-somelinks
@@ -97586,6 +97586,7 @@ zzzyk.com###Tinfo
 ||cyberlink.pro^$popup
 ||cybernetentertainment.com^$third-party
 ||cybernews.com/clientfpid/
+||cybernews.com/fxq4/
 ||cybernews.com/images/tools/*/banner/
 ||cyberprivacy.pro^$popup
 ||cyberscoop.com/advertising/
@@ -109251,6 +109252,7 @@ zzzyk.com###Tinfo
 ||ping-admin.ru^$third-party
 ||ping-fast.com^$third-party
 ||ping.*.sogou.com^
+||ping0.cc/images/fx/*.gif
 ||ping0.cc/static/images/ad/
 ||pingclock.net^$third-party
 ||pingdom.net^$third-party
