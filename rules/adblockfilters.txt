@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260906201912
-! Last modified: 2026/09/06 20:19:12
-! Blocked Filters: 118878
+! Version: 20260907021627
+! Last modified: 2026/09/07 02:16:27
+! Blocked Filters: 118881
 !
 ###AC_ad
 ###AD_160
@@ -71596,11 +71596,11 @@ ping-test.net##.rek970x90
 ping-test.net##div[style^="width: 336px; height: 280px;"]
 ping.chinaz.com##.sth > .col-red
 ping.eu##td > center[style="margin-bottom: 2px;"]
+ping0.cc###adjright
 ping0.cc###websites-wrap:has([rel$="sponsored"])
 ping0.cc##.aditems
+ping0.cc##.xeeles
 ping0.cc##a[rel="noopener nofollow"][target="_blank"]:has(> [class^="close"])
-ping0.cc#?#div:-abp-has(>a>.tipbd)
-ping0.cc#?#div:has(>a>.tipbd)
 pinggu.org##.banner2015
 pinggu.org##.hdbanner
 pinggu.org##.index-somelinks
@@ -93232,6 +93232,7 @@ zzzyk.com###Tinfo
 ||app.189tutors.com^$third-party
 ||app.abralytics.com/assets/tracker/index.js
 ||app.adjust.com^$third-party
+||app.alhena.ai/analytics/
 ||app.audiopulsar.com/*/embed/
 ||app.box.com/app-api/split-proxy/api/metrics
 ||app.box.com/gen204
@@ -93931,6 +93932,7 @@ zzzyk.com###Tinfo
 ||backend.academy.cs.cmu.edu/api/v0/event/
 ||backend.alia-cloudflare.com/launcher/events/
 ||backend.alia-cloudflare.com/user/events
+||backend.alia-prod.com/launcher/events/
 ||backend.leadconnectorhq.com/attribution_service/user_session_v3/update_session/
 ||backend.leadconnectorhq.com/forms/form-survey-event
 ||backend.verbolia.com/content/js/velw.min.js
@@ -98060,6 +98062,7 @@ zzzyk.com###Tinfo
 ||dev.to^*/billboards/post_comments^
 ||dev.to^*/billboards/post_sidebar^
 ||dev.visualwebsiteoptimizer.com/*/track-
+||dev.visualwebsiteoptimizer.com/apm
 ||dev.visualwebsiteoptimizer.com/ping_tpc.php
 ||dev2pub.com^$third-party
 ||devaluequalmrelative.com^$popup
@@ -109267,7 +109270,7 @@ zzzyk.com###Tinfo
 ||ping-admin.ru^$third-party
 ||ping-fast.com^$third-party
 ||ping.*.sogou.com^
-||ping0.cc/images/fx/*.gif
+||ping0.cc/images/gx/*.gif
 ||ping0.cc/static/images/ad/
 ||pingclock.net^$third-party
 ||pingdom.net^$third-party
