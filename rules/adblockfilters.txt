@@ -3,8 +3,8 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260908040028
-! Last modified: 2026/09/08 04:00:28
+! Version: 20260908115739
+! Last modified: 2026/09/08 11:57:39
 ! Blocked Filters: 118913
 !
 ###AC_ad
@@ -32072,6 +32072,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||jkanime.net//buscar/q/?q=
 @@||jkanime.net/jk.php?
 @@||jkwaveblog.com^$generichide
+@@||jlr.scene7.com/is/image/jlr/$image,stealth=referrer
 @@||jlthjy.com^$generichide
 @@||jmap.io/*/libs/Overture.js
 @@||jmedj.co.jp/files/$image,~third-party
@@ -79134,7 +79135,6 @@ startmag.it#%#//scriptlet('abort-on-property-read', 'wpsite_clickable_data')
 startpage.com###main > div[data-bvs][data-identifier]
 startpage.com###main > div[style^="margin-bottom:"] > div:has(> div[style^="margin-bottom:"] > svg)
 startpage.com##div[data-identifier="exoclick-native-impression"]
-startpage.com##div[data-visible="true"][data-identifier]
 startpage.com##section#main > a[href][target="_blank"]:has(path[d^="m6.07067 3.14453c-.04309-.40317-.22467-.71709-.54475"])
 startpage.com#%#//scriptlet('spoof-css', '.ad.a-bg', 'display', 'block')
 startpage.com#%#//scriptlet('trusted-set-constant', 's1PxyAdsTag', '"01234567890123456789"')
