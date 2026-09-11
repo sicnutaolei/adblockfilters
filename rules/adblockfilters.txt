@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260911032252
-! Last modified: 2026/09/11 03:22:52
-! Blocked Filters: 118987
+! Version: 20260911120335
+! Last modified: 2026/09/11 12:03:35
+! Blocked Filters: 118990
 !
 ###AC_ad
 ###AD_160
@@ -14704,6 +14704,7 @@
 ##a[href$="/hjdt9.com"]
 ##a[href$="/xha77.com"]
 ##a[href*="&maxads="]
+##a[href*=".1699ai.top"]
 ##a[href*=".6666ai.top"]
 ##a[href*=".adsrv.eacdn.com/"]
 ##a[href*=".bright.cn/?utm_"]
@@ -36722,6 +36723,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||themanwiththehat.de^$generichide
 @@||themarker.com/htz/js/advertisement.js
 @@||themarker.com/logger/p.gif?$image,xmlhttprequest
+@@||themeapis.jbhifi.com.au/*/checkout^$stealth=3p-auth,domain=extensions.shopifycdn.com
 @@||themelock.com/advertisement.js
 @@||thememazing.com^$generichide
 @@||thememypc.net/wp-content/plugins/nervous-pleasure/assets/js/advertisement.min.js
@@ -58139,6 +58141,7 @@ hrnytube.com#%#//scriptlet('set-constant', 'cRAds', 'true')
 hscans.com,mitsmits.com,csharpprogram.com,grasta.net,pokemonmatome.online,shirurin.com,huntersscan.xyz,freemagazinespdf.com,wabetainfo.com##body > script[id] + div[id][class*=" "]
 hsex.men###container > div:not([class])
 hsex.men##div[style="margin:0 auto 10px;width:900px;height:250px"]
+hsex.tv###Austin + a
 hsreplay.net##[style^="min-height: 90px;"]
 hsreplay.net#?#.ads-container > div[class]:first-child:has(> div[style]:only-child > .vm-placement)
 hsreplay.net#?#.ads-container > div[class]:last-child:has(> div[class]:only-child > div[style] > .vm-placement)
