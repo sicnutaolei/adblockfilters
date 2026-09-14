@@ -3,8 +3,8 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260914225914
-! Last modified: 2026/09/14 22:59:14
+! Version: 20260915042929
+! Last modified: 2026/09/15 04:29:29
 ! Blocked Filters: 119080
 !
 ###AC_ad
@@ -15601,7 +15601,7 @@
 ##ins.adsbygoogle[data-ad-client]
 ##ins.adsbygoogle[data-ad-slot]
 ##ins[class^="img_"][style^="display:inline-block;"]
-##ins[data-adsbygoogle-status]
+##ins[data-adsbygoogle-status]:not(.adsbygoogle)
 ##ins[id][data-anchor-status]
 ##link + div[class^="img_"][style="width: 300px; height: 250px;"]
 ##link + style + script + a[href*="html-load.com/"]
@@ -56719,6 +56719,7 @@ haydenjames.io###text-2
 haydenjames.io##div[id^="hayden"]
 hazipatika.com###box-humanmeteorologia
 hazipatika.com###panel > noindex
+hb-nippon.com,worldjournal.com,nikkansports.com,robbreport.com,rollingstone.com,gloria.hr,deadline.com,vibe.com,goldderby.com,artnews.com,gearjunkie.com,urldecoder.org,base64decode.org,index.hr,willyweather.com.au,fandom.com,euronews.com#%#//scriptlet('remove-attr', 'onerror', 'script[id][onerror]')
 hb.qq.com##div[style*="width:960px; height:90px;"]
 hb.qq.com##div[style=" width:300px; height:250px; overflow:hidden"]
 hb163.cn##.ad_panel_980
@@ -87419,7 +87420,6 @@ worldhistory.org##.pubexchange_module
 worldhistory.org#%#//scriptlet('set-constant', 'AHE.adsLoaded', 'true')
 worldjournal.com###wrapper > #popup-banner
 worldjournal.com##.banner-zone
-worldjournal.com,nikkansports.com,robbreport.com,rollingstone.com,gloria.hr,deadline.com,vibe.com,goldderby.com,artnews.com,gearjunkie.com,urldecoder.org,base64decode.org,index.hr,willyweather.com.au,fandom.com,euronews.com#%#//scriptlet('remove-attr', 'onerror', 'script[id][onerror]')
 worldledaily.com###worldledaily-com_300x1050
 worldlifestyle.com##.ams-ad-full-wrapper
 worldlifestyle.com##.ams_ad_title
@@ -87788,7 +87788,7 @@ www.wp.pl###wp-leaflets-section
 www.wp.pl##.grid > div:not([class]):has(> div[class*=" "]:only-child > div[class*=" "]:first-child + div[class*=" "]:last-child > div:empty:first-child + img[src*="://v.wpimg.pl/"][alt][role="presentation"]:last-child)
 www.wp.pl##.relative > :is(div[class^="sc"], .wp-bg-transparent) > div[class^="sc"]:has(> img[src^="https://v.wpimg.pl/"][alt]:first-child + img[src^="https://v.wpimg.pl/"][alt] + div[class^="sc-"]:last-child)
 www.wp.pl##.relative >.relative > .items-center[style]:has(> img[src^="https://v.wpimg.pl/"][alt]:first-child + img[src^="https://v.wpimg.pl/"][alt] + div[class]:last-child)
-www.wp.pl##.wp-live-main > .wp-inner-content > div[class*=" "]:has(> img[src^="https://v.wpimg.pl/"]:first-child + div + script:last-child)
+www.wp.pl##.wp-inner-content > div[class*=" "]:has(> img[src^="https://v.wpimg.pl/"]:first-child + div + script:last-child)
 www.wp.pl##.wp-placeholder
 www.wp.pl##.wp-section-placeholder-container
 www.wp.pl##a[href^="https://direct.money.pl/landing-page/callcenter/"]
