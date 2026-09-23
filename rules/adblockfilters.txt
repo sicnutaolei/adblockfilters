@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260923035640
-! Last modified: 2026/09/23 03:56:40
-! Blocked Filters: 119202
+! Version: 20260923121045
+! Last modified: 2026/09/23 12:10:45
+! Blocked Filters: 119203
 !
 ###AC_ad
 ###AD_160
@@ -20150,6 +20150,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 /globals_ps_afc.js$script
 /gmu-download.oss-
 /gmu-download.oss-$image,redirect-rule=1x1-transparent.gif,domain=voflix.vip
+/go.email.fly.io/e/o/*$image
 /go.news.fly.io/e/o/*$image
 /go/*?ident=*&id_site=$~third-party
 /goAnalytics.js
@@ -100173,7 +100174,6 @@ zzzyk.com###Tinfo
 ||fishki.net/code?
 ||fishki.net/counter/
 ||fitanalytics.com/metrics/
-||fitanalytics.com^$third-party
 ||fitcenterz.com^$popup
 ||fittingcentermondaysunday.com^$popup
 ||fitymi.app/js/script.js
@@ -113507,6 +113507,7 @@ zzzyk.com###Tinfo
 ||spicygirlshere.life^$popup
 ||spider-mich.com^$third-party
 ||spike.itv.com/itv/tserver/size=*/viewid=
+||spin.bergfreunde.*/wt?$image
 ||spin83qr.com^$document
 ||spin83qr.com^$popup
 ||spindl.link/events
