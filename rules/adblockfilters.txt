@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260927123703
-! Last modified: 2026/09/27 12:37:03
-! Blocked Filters: 119292
+! Version: 20260927215003
+! Last modified: 2026/09/27 21:50:03
+! Blocked Filters: 119299
 !
 ###AC_ad
 ###AD_160
@@ -16874,6 +16874,10 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 .com/hit$ping
 .com/hm/*?*=*$third-party
 .com/images/102.js
+.com/img/bnnr1_
+.com/img/bnr1_*.gif
+.com/img/bnr2_*.gif
+.com/img/bnr3_*.gif
 .com/in.js$third-party
 .com/in/multy|$xmlhttprequest,third-party
 .com/invoke.js$script,third-party,redirect-rule=noopjs
@@ -16886,8 +16890,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 .com/js/ad_
 .com/js/alls_foot.js
 .com/js/alls_top.js
-.com/js/bnnr_
-.com/js/bnr_
 .com/js/customscript.js|$domain=wankoz.com|sleazyneasy.com
 .com/js/ddd.js
 .com/js/discor_list.js
@@ -20606,7 +20608,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 /js/htmlka.js
 /js/htmlkb.js
 /js/htmlkc.js
-/js/huath_2.js
 /js/index_adfloat.js
 /js/j*s*r*u*n*n*e*r.js$~third-party
 /js/jquery_size.js$domain=streamsb.net
@@ -20617,7 +20618,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 /js/lmdas.js
 /js/logger?
 /js/mangoIndexBanner.js
-/js/mmdaohang_2.js
 /js/mob/cpc_bottom.js
 /js/mts.js
 /js/mts66.js
@@ -20648,7 +20648,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 /js/wahha/*
 /js/wlfloat.js
 /js/xiaxuanfu.js
-/js/yueyupp_3.js
 /js/yzgg.js
 /jsAds-1.4.min.js
 /js_ibeat_ext.cms
@@ -22250,7 +22249,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 /stats-js.cgi?
 /stats-listener.js
 /stats-tracking.js
-/stats.*/event$domain=~stats.prisamedia.cl
+/stats.*/event$domain=~stats.prisamedia.cl|~stats.uniquetma.com
 /stats.*/hits/*
 /stats.*/tracker.
 /stats.asp?id
@@ -28450,6 +28449,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||cdn.adsafeprotected.com/*.*.js$domain=gentside.com|gentside.de|gentside.co.uk|gentside.com.br|maxisciences.com|ohmymag.com|ohmymag.de
 @@||cdn.adsafeprotected.com/*.js$domain=gentside.com|ohmymag.com
 @@||cdn.adsafeprotected.com^$domain=tio.ch
+@@||cdn.adsbetnet.com/libs/$script,domain=naijavault.com
 @@||cdn.adsninja.ca/ads_initiator.js$domain=polygon.com
 @@||cdn.adsninja.ca/ads_injector.js$domain=polygon.com
 @@||cdn.adsninja.ca/adsninja_client.js$domain=androidpolice.com
@@ -67917,6 +67917,7 @@ myuploadedpremium.de#$#.adsbygoogle { position: absolute!important; left: -3000p
 myuploadedpremium.de#%#//scriptlet('abort-current-inline-script', '$', '/setInterval[\s\S]*?_0x[\s\S]*?</')
 myuploadedpremium.de#%#//scriptlet('remove-attr', 'height', 'body > iframe[height][width][style]')
 myuploadedpremium.de#?#.container-fluid > div.row > div.col-lg-10:contains(buy cryptos)
+myutils.me##div[aria-label="Advertisement"]
 myvidplay.com,dsvplay.com#%#//scriptlet('prevent-window-open')
 myvidplay.com,dsvplay.com,vide0.net,do7go.com,dooodster.com,d000d.com,d0000d.com,do0od.com,ds2play.com,doods.pro,dooood.com,dood.sh,dood.li,dood.yt,dood.re,dood.wf,dood.la,dood.pm,dood.so,dood.to,dood.watch,dood.ws#%#//scriptlet("abort-current-inline-script", "globalThis", "break;case")
 myvidplay.com,dsvplay.com,vide0.net,do7go.com,dooodster.com,d000d.com,d0000d.com,do0od.com,ds2play.com,doods.pro,dooood.com,dood.sh,dood.li,dood.yt,dood.re,dood.wf,dood.la,dood.pm,dood.so,dood.to,dood.watch,dood.ws#%#//scriptlet("abort-on-property-read", "DoodPop")
@@ -68008,6 +68009,10 @@ naijanews.com###bl_banner
 naijaprey.tv##div.entry-content > div.naija-entity-placement > div[align="center"]
 naijaprey.tv,np-downloader.com#%#//scriptlet('prevent-window-open', '_blank')
 naijaray.com.ng##.code-block > a[onclick] > img
+naijavault.com#$##adblock-backdrop { display: none !important; }
+naijavault.com#$##adblock-modal { display: none !important; }
+naijavault.com#$#body { overflow: auto !important; }
+naijavault.com#@#.ad-unit:not(.textads)
 nairaland.com##.vertipics
 nairametrics.com##.jeg_ad
 nairametrics.com##.jeg_sticky_sidebar
@@ -104329,6 +104334,8 @@ zzzyk.com###Tinfo
 ||javideo.net/js/popup
 ||javideo.net/js/popup.js
 ||javjav.top/asset/*.min.js?*=*&
+||javlibrary.com/img/bnr*.gif
+||javlibrary.com/js/b3nr*.js
 ||javlibrary.com/js/bnr_
 ||javmost.com/src/jpm.js
 ||javopen.co/wp-content/uploads/2020/05/brave.png
