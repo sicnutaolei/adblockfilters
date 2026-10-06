@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/sicnutaolei/adblockfilters
 ! Source: https://raw.githubusercontent.com/sicnutaolei/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20261006232148
-! Last modified: 2026/10/06 23:21:48
-! Blocked Filters: 119385
+! Version: 20261007001316
+! Last modified: 2026/10/07 00:13:16
+! Blocked Filters: 119389
 !
 ###AC_ad
 ###AD_160
@@ -45828,6 +45828,7 @@ cloudpaten.pro#$#.modal-backdrop { display: none !important; }
 cloudpaten.pro#$#body { overflow: auto !important; padding-right: 0 !important; }
 cloudrls.com#%#//scriptlet("prevent-window-open")
 cloudvideo.tv#%#//scriptlet("prevent-window-open")
+cloudwards.net##.fb-inst.fb-popup.fb-center
 cloudwards.net##.max-medium
 cloudwards.net,guitaradvise.com###cbox
 cloudycdn.services#%#//scriptlet("json-prune", "source.ads")
@@ -67946,6 +67947,8 @@ mytempsms.com##.layui-col-md12
 mytempsms.com#@##container-ad
 mythav.org#%#//scriptlet('abort-on-property-read', 'open')
 mytheme.cn##.ad01
+mytoolspro.pages.dev###full-ad-overlay
+mytoolspro.pages.dev##.ad-three-images-block
 mytoolz.net#$##adblock_msg { display: none !important; }
 mytoolz.net#$#body { overflow: auto !important; }
 mytopgames.net##div[style="font-family:Arial;font-size:12px;color:#ffffff;"]
@@ -69478,6 +69481,7 @@ notebookcheck.net##.nbc-right-float
 notebookreview.com##aside#todaysPromos
 notebooks.com##.cb-block
 notes.io##.directMessageBanner
+noticer.news##.elementor-widget-container > a:not([href*="noticer.news"])
 notizie.tiscali.it##div[data-old="search-form-h"]
 notizie.tiscali.it##div[style="width:100%"] > div[style="margin:44px 0px"]
 notopening.com##.main .alert

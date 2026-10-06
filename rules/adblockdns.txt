@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/sicnutaolei/adblockfilters
 ! Source: https://raw.githubusercontent.com/sicnutaolei/adblockfilters/main/rules/adblockdns.txt
-! Version: 20261006232147
-! Last modified: 2026/10/06 23:21:47
-! Blocked domains: 297617
+! Version: 20261007001316
+! Last modified: 2026/10/07 00:13:16
+! Blocked domains: 297628
 ! unBlocked domains: 136
 !
 ||054ii.com^
@@ -1530,6 +1530,7 @@
 ||4c4710bfc9.23f30d7ca1.com^
 ||consent.23g.io^
 ||23hssicm9.de^
+||23j1p9497we2k5cqf4.rest^
 ||23oct2023.site^
 ||m.23txt.com^
 ||report.23video.com^
@@ -53602,6 +53603,7 @@
 ||ckies.net^
 ||ckioqjoswa.in^
 ||ckiqxrqwnavqt.website^
+||ckixtul6tb65cv2hje.cfd^
 ||ckjjxjpoxhebx.site^
 ||assets.ckjr001.com^
 ||kpstaticbj.wx.ckjr001.com^
@@ -63534,6 +63536,7 @@
 ||cumppphnizdyp.space^
 ||cumshots.com^
 ||cumunzmneiyte.online^
+||cumvblpbkivcy.website^
 ||gp.cumvids.one^
 ||cunanpoot.qpon^
 ||data.mail.cunard.com^
@@ -162177,6 +162180,7 @@
 ||midrar-pro.com^
 ||midrartrade.net^
 ||gtm.midreamstemplates.online^
+||midriffdarby.cyou^
 ||midriffprosser.cyou^
 ||track.landing.midrocket.com^
 ||ss.midsbd.it.com^
@@ -166436,6 +166440,7 @@
 ||images.go.mongodb.com^
 ||pages.mongodb.com^
 ||purple.mongodb.com^
+||mongolsroodlesandman.cyou^
 ||mongoosemetrics.com^
 ||mongosh.com^
 ||mongrelonsetstray.com^
@@ -180518,6 +180523,7 @@
 ||pjhcefpy.nzf.org.au^
 ||nzfall.com^
 ||nzfft.com^
+||nzfhhfkqtwgyv.online^
 ||nzfmrdvafzkpk.space^
 ||nzigunflybfhu.store^
 ||nzihbokpcqppj.website^
@@ -190455,6 +190461,7 @@
 ||pasttable.com^
 ||measure.pasttense.dk^
 ||pastureoriental.com^
+||pastysupples.com^
 ||ss.pasulin.it^
 ||paswtpetmblqd.site^
 ||patacajabia.com^
@@ -222344,6 +222351,7 @@
 ||load.gtm.sccline.it^
 ||gtm.scclinic.com.br^
 ||sccljc.com^
+||sccnsjhqneqwp.online^
 ||gtm.sccompositos.com.br^
 ||svr.scconecta.com.br^
 ||scconnnews.com^
@@ -229119,6 +229127,7 @@
 ||smamuga.sidikmu.com^
 ||path.sidingsavingsguide.com^
 ||sidishoes.fr^
+||sidlesunfall.com^
 ||sidneychild.shop^
 ||sidogccuomfnx.online^
 ||assets.sidroga.at^
@@ -283179,6 +283188,7 @@
 ||wigapvofjar.com^
 ||wigenau.com^
 ||wigetmedia.com^
+||wiggergossips.com^
 ||wigglebuttsrescue.info^
 ||wigglegloatshrill.com^
 ||ss.wiggydogshop.com^
@@ -297316,6 +297326,7 @@
 ||zvuker.net^
 ||zvvajeoyokmre.top^
 ||zvvajeoyokmzz.top^
+||zvvfinnpxsscn.site^
 ||data-4fa18eb5e3.zvw.de^
 ||zvwhrc.com^
 ||zvxvypgkliobs.site^
