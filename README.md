@@ -53,13 +53,13 @@
 
 | 规则 | 类型 | 原始链接 | 本项目产物 | 更新日期 |
 |:-|:-|:-|:-|:-|
-| AdGuard Base filter | filter | [原始链接](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt) | [rules/AdGuard_Base_filter.txt](./rules/AdGuard_Base_filter.txt) | 2026/10/06 |
-| AdGuard Chinese filter | filter | [原始链接](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt) | [rules/AdGuard_Chinese_filter.txt](./rules/AdGuard_Chinese_filter.txt) | 2026/10/06 |
-| AdGuard DNS filter | filter | [原始链接](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | [rules/AdGuard_DNS_filter.txt](./rules/AdGuard_DNS_filter.txt) | 2026/10/06 |
+| AdGuard Base filter | filter | [原始链接](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt) | [rules/AdGuard_Base_filter.txt](./rules/AdGuard_Base_filter.txt) | 2026/10/07 |
+| AdGuard Chinese filter | filter | [原始链接](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt) | [rules/AdGuard_Chinese_filter.txt](./rules/AdGuard_Chinese_filter.txt) | 2026/10/07 |
+| AdGuard DNS filter | filter | [原始链接](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | [rules/AdGuard_DNS_filter.txt](./rules/AdGuard_DNS_filter.txt) | 2026/10/07 |
 | CJX's Annoyance List | filter | [原始链接](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt) | [rules/CJX's_Annoyance_List.txt](./rules/CJX's_Annoyance_List.txt) | 2026/10/01 |
-| EasyList | filter | [原始链接](https://easylist-downloads.adblockplus.org/easylist.txt) | [rules/EasyList.txt](./rules/EasyList.txt) | 2026/10/06 |
-| EasyList China | filter | [原始链接](https://easylist-downloads.adblockplus.org/easylistchina.txt) | [rules/EasyList_China.txt](./rules/EasyList_China.txt) | 2026/10/06 |
-| EasyPrivacy | filter | [原始链接](https://easylist-downloads.adblockplus.org/easyprivacy.txt) | [rules/EasyPrivacy.txt](./rules/EasyPrivacy.txt) | 2026/10/06 |
+| EasyList | filter | [原始链接](https://easylist-downloads.adblockplus.org/easylist.txt) | [rules/EasyList.txt](./rules/EasyList.txt) | 2026/10/07 |
+| EasyList China | filter | [原始链接](https://easylist-downloads.adblockplus.org/easylistchina.txt) | [rules/EasyList_China.txt](./rules/EasyList_China.txt) | 2026/10/07 |
+| EasyPrivacy | filter | [原始链接](https://easylist-downloads.adblockplus.org/easyprivacy.txt) | [rules/EasyPrivacy.txt](./rules/EasyPrivacy.txt) | 2026/10/07 |
 | xinggsf mv | filter | [原始链接](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt) | [rules/xinggsf_mv.txt](./rules/xinggsf_mv.txt) | 2025/12/25 |
 | xinggsf rule | filter | [原始链接](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt) | [rules/xinggsf_rule.txt](./rules/xinggsf_rule.txt) | 2025/09/09 |
 | jiekouAD | filter | [原始链接](https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt) | [rules/jiekouAD.txt](./rules/jiekouAD.txt) | 2026/10/01 |
@@ -69,7 +69,7 @@
 | AWAvenue Ads Rule | dns | [原始链接](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt) | [rules/AWAvenue_Ads_Rule.txt](./rules/AWAvenue_Ads_Rule.txt) | 2026/09/21 |
 | Hblock | dns | [原始链接](https://hblock.molinero.dev/hosts_adblock.txt) | [rules/Hblock.txt](./rules/Hblock.txt) | 2026/10/06 |
 | NEO DEV HOST | dns | [原始链接](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker) | [rules/NEO_DEV_HOST.txt](./rules/NEO_DEV_HOST.txt) | 2025/02/18 |
-| OISD Basic | dns | [原始链接](https://abp.oisd.nl/basic/) | [rules/OISD_Basic.txt](./rules/OISD_Basic.txt) | 2026/10/06 |
+| OISD Basic | dns | [原始链接](https://abp.oisd.nl/basic/) | [rules/OISD_Basic.txt](./rules/OISD_Basic.txt) | 2026/10/07 |
 | SmartTV Blocklist | dns | [原始链接](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt) | [rules/SmartTV_Blocklist.txt](./rules/SmartTV_Blocklist.txt) | 2026/09/08 |
 | 1024 hosts | host | [原始链接](https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts) | [rules/1024_hosts.txt](./rules/1024_hosts.txt) | 2025/09/09 |
 | ad-wars hosts | host | [原始链接](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts) | [rules/ad-wars_hosts.txt](./rules/ad-wars_hosts.txt) | 2023/11/17 |
