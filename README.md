@@ -65,9 +65,9 @@
 | jiekouAD | filter | [原始链接](https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt) | [rules/jiekouAD.txt](./rules/jiekouAD.txt) | 2026/10/01 |
 | 1Hosts (Lite) | dns | [原始链接](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt) | [rules/1Hosts_(Lite).txt](./rules/1Hosts_(Lite).txt) | 2026/09/03 |
 | Anti AD | dns | [原始链接](https://anti-ad.net/easylist.txt) | [rules/Anti_AD.txt](./rules/Anti_AD.txt) | 2026/10/05 |
-| AdRules DNS List | dns | [原始链接](https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt) | [rules/AdRules_DNS_List.txt](./rules/AdRules_DNS_List.txt) | 2026/10/06 |
+| AdRules DNS List | dns | [原始链接](https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt) | [rules/AdRules_DNS_List.txt](./rules/AdRules_DNS_List.txt) | 2026/10/07 |
 | AWAvenue Ads Rule | dns | [原始链接](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt) | [rules/AWAvenue_Ads_Rule.txt](./rules/AWAvenue_Ads_Rule.txt) | 2026/09/21 |
-| Hblock | dns | [原始链接](https://hblock.molinero.dev/hosts_adblock.txt) | [rules/Hblock.txt](./rules/Hblock.txt) | 2026/10/06 |
+| Hblock | dns | [原始链接](https://hblock.molinero.dev/hosts_adblock.txt) | [rules/Hblock.txt](./rules/Hblock.txt) | 2026/10/07 |
 | NEO DEV HOST | dns | [原始链接](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker) | [rules/NEO_DEV_HOST.txt](./rules/NEO_DEV_HOST.txt) | 2025/02/18 |
 | OISD Basic | dns | [原始链接](https://abp.oisd.nl/basic/) | [rules/OISD_Basic.txt](./rules/OISD_Basic.txt) | 2026/10/07 |
 | SmartTV Blocklist | dns | [原始链接](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt) | [rules/SmartTV_Blocklist.txt](./rules/SmartTV_Blocklist.txt) | 2026/09/08 |
